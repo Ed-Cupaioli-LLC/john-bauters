@@ -3,6 +3,7 @@
 @import "mixins.scss";
 @import "vars.scss";
 #home {
+  position: relative;
   #hero {
     position: relative;
     background-size: 100%;
@@ -11,6 +12,10 @@
     background-size: cover;
     background-color: $blue;
     background-repeat: no-repeat;
+    @include bp-large {
+      background-size: 100% auto;
+      background-position: center top;
+    }
     &:before {
       content: '';
       position: absolute;
@@ -18,7 +23,12 @@
       width: 100%;
       background-image: linear-gradient(to right, $blue 40%, transparent 60%);
       opacity: 1;
+      top: 0;
+      left: 0;
       @include transition(width);
+      @include bp-large {
+        background-image: linear-gradient(to top, $blue 75%, transparent);  
+      }
     }
     // &:after {
     //   content: '';
@@ -44,25 +54,36 @@
      position: relative;
      z-index: 2;
      padding: 37px 72px;
+     @include bp-large {
+       padding: 21px 11px;
+     }
      .hero-content {
        @include flexbox;
        justify-content: space-between;
-       @include bp-medium {
+       @include bp-large {
         flex-direction: column-reverse;
         justify-content: initial;
        }
       .text-col {
         max-width: 775px;
         display: inline-block;
+        @include bp-large {
+          padding: 200px 32px 0;
+        }
       }
       .btn-col {
        display: inline-block;
        vertical-align: top;
        text-align: right;
+       .btn {
+         margin: 0;
+       }
       }
-      .hero-image {
+      .hero-logo {
+
         svg {
-          width: 210px;
+          width: 697px;
+          height: auto;
         }
         
       } 
@@ -70,6 +91,12 @@
         font-size: 27px;
         line-height: 30px;
         margin-top: 57px;
+        letter-spacing: 0.02em;
+        @include bp-large {
+          font-size: 12px;
+          line-height: 15px;
+          letter-spacing: 0.01em
+        }
       }
       .hero-btn-row {
         white-space: nowrap;
@@ -77,8 +104,15 @@
         .btn:first-child {
           margin-right: 22px;
         }
+        @include bp-large {
+          margin-top: 26px;
+        }
       }
       .hero-social-row {
+        margin-top: 59px;
+        @include bp-large {
+          margin-top: 26px;
+        }
         .social-btn {
           background-color: $white;
           $btn: 44px;
@@ -87,8 +121,14 @@
           height: $btn;
           display: inline-block;
           position: relative;
-          border-radius: 6pt;
-          margin-top: 59px;
+          border-radius: 6px;
+          @include bp-large {
+            $btn: 22px;
+            width: $btn;
+            height: $btn;
+            font-size: 12px;
+          }
+          
           i {
             position: absolute;
             top: 50%;
@@ -103,20 +143,35 @@
         .footer-content {
           @include flexbox;
           align-items: center;
+          @include bp-large {
+            
+          }
           .footer-logo {
             
             flex: 1 0 auto; 
             padding-right: 20px;
             svg {
               width: 288px;
+              height: auto;
+              @include bp-large {
+                width: 106px;
+              }
             }
             
           }
           .footer-text {
+            @include bp-large {
+              padding-top: 20px;
+            }
+            
             .footer-hash {
               font-size: 16px;
               line-height: 17px;
               font-weight: bold;
+              @include bp-large {
+                font-size: 6px;
+                line-height: 7px;
+              }  
             }
             .footer-disclaimer {
               border: 1px solid $white;
@@ -128,6 +183,12 @@
               .disclaimer-text {
                 display: inline-block;
               }
+              @include bp-large {
+                font-size: 6px;
+                line-height: 7px;
+                margin-top: 6px;
+                padding: 3px;
+              }
             }
           }
         }
@@ -135,5 +196,23 @@
      }
      
    } 
+  }
+  #form-overlay {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    z-index: 11;
+    overflow-y: scroll;
+    background-color: $blue;
+    .close-form {
+      position: absolute;
+      top: 0.5rem;
+      right: 1rem;
+    }
+    .forms-body {
+      padding: 2rem;
+      max-width: $size_medium;
+      margin: auto;
+    }
   }
 }

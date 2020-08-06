@@ -16,9 +16,40 @@ footer:
     4260 Halleck Street, Emeryville, CA 94608. 510.693.7474.   
 ---
 <div id="home">
+  <div id="form-overlay">
+    <div class="close-form"><i class="fa fa-times"></i></div>
+    <div class="forms-body">
+      <!-- Contact -->
+      <form id="contact-form">
+        <div class="form-body">
+          <div class="form-field">
+            <input type="text" name="" id="contact-fname" />
+          </div>
+          <div class="form-field">
+            <input type="text" name="" id="contact-lname" />
+          </div>
+          <div class="form-field">
+            <input type="email" name="" id="contact-email" />
+          </div>
+          <div class="form-submit">
+            <button class="btn" type="submit">Submit</button>
+          </div>
+        </div>
+        <div class="form-success">
+          <div class="success-message">
+            Thanks for subscribing! Please check your inbox for a confirmation email.
+          </div>
+          
+        </div>
+      </form>
+      <!-- End Contact -->
+      <!-- Donate -->
+      <!-- End Donate -->
+    </div>
+    
+  </div>
   <section id="hero" style="background-image: url({{ page.hero.image }});">
     <div class="bg-gradient" >
-      
     </div>
     <div class="inner-section">
       <div class="hero-content ">
@@ -30,7 +61,7 @@ footer:
             {{ page.hero.text | markdownify }}
           </div>
           <div class="hero-btn-row">
-            <a href="#" class="btn">Donate</a> <a href="#" class="btn">Get Updates</a>
+            <a href="#" class="btn open-donate">Donate</a> <a href="#" class="btn open-updates">Get Updates</a>
           </div>
           <div class="hero-social-row">
             <a href="https://twitter.com/intent/follow?user_id=4131566172" class="social-btn"><i class="fab fa-twitter"></i></a>
@@ -54,9 +85,8 @@ footer:
           </div>
         </div>
         <div class="btn-col">
-          <a href="#" class="btn">Donate</a>
+          <a href="#" class="btn open-donate">Donate</a>
         </div>
-        
       </div>
     </div>
   </section>
