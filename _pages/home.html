@@ -1,0 +1,63 @@
+---
+title: Home Page
+layout: default
+permalink: /
+css: home
+hero:
+  text: |-
+    **I’m running because I believe I have the experience to help make Emeryville the affordable, sustainable, inclusive community we all want and deserve.**
+
+    My experience as a legal aid attorney, policy advocate and disaster relief director has prepared me to bring people together, engage diverse viewpoints and make decisions that will improve our community.  
+  image: /img/home-bg.jpg
+footer:
+  text: "Use #ThatBowTieGuy to share about our campaign!"
+  disclaimer: |-
+    Paid for by Bauters for Emeryville City Council, FPPC #1380397.<br>  
+    4260 Halleck Street, Emeryville, CA 94608. 510.693.7474.   
+---
+<div id="home">
+  <section id="hero" style="background-image: url({{ page.hero.image }});">
+    <div class="bg-gradient" >
+      
+    </div>
+    <div class="inner-section">
+      <div class="hero-content ">
+        <div class="text-col ">
+          <div class="hero-logo">
+            {% include svg/john-bauters-logo.svg %}
+          </div>
+          <div class="hero-text">
+            {{ page.hero.text | markdownify }}
+          </div>
+          <div class="hero-btn-row">
+            <a href="#" class="btn">Donate</a> <a href="#" class="btn">Get Updates</a>
+          </div>
+          <div class="hero-social-row">
+            <a href="https://twitter.com/intent/follow?user_id=4131566172" class="social-btn"><i class="fab fa-twitter"></i></a>
+          </div>
+          <div class="hero-footer">
+            <div class="footer-content">
+              <div class="footer-logo">{% include svg/john-bauters-logo.svg %}</div>
+              <div class="footer-text">
+                <div class="footer-hash">
+                  {{ page.footer.text }}
+                </div>
+                
+                <div class="footer-disclaimer">
+                  <div class="disclaimer-text">
+                    {{ page.footer.disclaimer  }}
+                  </div>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+        <div class="btn-col">
+          <a href="#" class="btn">Donate</a>
+        </div>
+        
+      </div>
+    </div>
+  </section>
+</div>

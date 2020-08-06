@@ -45,3 +45,23 @@ input,textarea {
 		white-space: normal;
 	}
 }
+
+img,svg {
+	display: block;
+	max-width: 100%;
+}
+
+.btn {
+	text-transform: uppercase;
+	background-color: $yellow;
+	color: $blue;
+	font-size: 20px;
+	line-height: 24px;
+	border-radius: 6pt;
+	padding: 10px;
+	margin: 10px 0;
+	display: inline-block;
+	min-width: 308px;
+	text-align: center;
+	
+}
