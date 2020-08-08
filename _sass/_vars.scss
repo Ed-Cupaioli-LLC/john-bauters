@@ -16,3 +16,5 @@ $grid-gutters: 0.5rem 1rem;
 $transition_duration: .5s;
 //Mixins
 @include gridGutters($grid-gutters);
+//Other stuff
+$border-radius: 6px;

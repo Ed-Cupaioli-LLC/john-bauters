@@ -19,5 +19,7 @@
     "imagemin-mozjpeg": "^5.1.0",
     "imagemin-pngquant": "^4.2.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "stripe": "^8.84.0"
+  }
 }

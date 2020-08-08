@@ -13,23 +13,43 @@ footer:
   text: "Use #ThatBowTieGuy to share about our campaign!"
   disclaimer: |-
     Paid for by Bauters for Emeryville City Council, FPPC #1380397.<br>  
-    4260 Halleck Street, Emeryville, CA 94608. 510.693.7474.   
+    4260 Halleck Street, Emeryville, CA 94608. 510.693.7474.
+    
+donate:
+  title: 
+  top-text: Thank you for contributing to our campaign! Use this form to make an online contribution OR download a paper form at the bottom of this page below the form to mail us a check instead. All of the following information is required to be collected by a candidate per FPPC rules. The FPPC number for John Bauters’ campaign committee is 1380397.
+  bottom-text: |-
+    If you would prefer to mail in a donation by check, please print out the form below and mail it to:
+
+    “Bauters for Emeryville City Council  
+    c/o Frank Mecca, Treasurer  
+    511 46th Street  
+    Sacramento, CA 95819”
+
+    [Click here to download the paper form.](/img/john-bauters-donation-form-2016.pdf)
+
+    *Contributions to Bauters for Emeryville City Council are not tax deductible for federal income tax purposes.
+
 ---
 <div id="home">
-  <div id="form-overlay">
+  <div id="form-overlay" class="active">
     <div class="close-form"><i class="fa fa-times"></i></div>
     <div class="forms-body">
       <!-- Contact -->
-      <form id="contact-form">
+      <form id="contact-form" class="html-form">
         <div class="form-body">
+          <h2 class="form-title">Get Updates</h2>
           <div class="form-field">
-            <input type="text" name="" id="contact-fname" />
+            <label>First Name</label>
+            <input type="text" name="entry.1310032368" id="contact-fname" required />
           </div>
           <div class="form-field">
-            <input type="text" name="" id="contact-lname" />
+            <label>Last Name</label>
+            <input type="text" name="entry.317480578" id="contact-lname" required/>
           </div>
           <div class="form-field">
-            <input type="email" name="" id="contact-email" />
+            <label>Email</label>
+            <input type="email" name="entry.305189529" id="contact-email" required />
           </div>
           <div class="form-submit">
             <button class="btn" type="submit">Submit</button>
@@ -37,13 +57,45 @@ footer:
         </div>
         <div class="form-success">
           <div class="success-message">
-            Thanks for subscribing! Please check your inbox for a confirmation email.
+            Thanks for subscribing!
           </div>
           
         </div>
       </form>
       <!-- End Contact -->
       <!-- Donate -->
+      <form id="donate-form" class="html-form active">
+        <div class="form-body">
+          <h2 class="form-title">Donate</h2>
+          <div class="form-top-text">
+            {{ page.donate.top-text | markdownify }}
+          </div>
+          <div class="form-field">
+            <label>First Name</label>
+            <input type="text" name="entry.1310032368" id="donate-fname" required />
+          </div>
+          <div class="form-field">
+            <label>Last Name</label>
+            <input type="text" name="entry.317480578" id="donate-lname" required/>
+          </div>
+          <div class="form-field">
+            <label>Email</label>
+            <input type="email" name="entry.305189529" id="donate-email" required />
+          </div>
+          <div class="form-submit">
+            <button class="btn" type="submit">Submit</button>
+          </div>
+          <div class="form-bottom-text">
+            {{ page.donate.bottom-text | markdownify }}
+          </div>
+        </div>
+        <div class="form-success">
+          <div class="success-message">
+            Thanks for subscribing!
+          </div>
+          
+        </div>
+      </form>
       <!-- End Donate -->
     </div>
     
