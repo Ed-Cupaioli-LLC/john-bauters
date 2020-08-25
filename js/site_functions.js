@@ -16,39 +16,10 @@ $(function(){
       data: $('#contact-form').serialize(), 
       type: 'POST', 
       dataType: "json", 
-      statusCode: { 
-        0: function(data) { 
-          //success
-          $('#contact-form .form-success').addClass('active');
-        },
-        200: function(data) {
-          //success
-          $('#contact-form .form-success').text('active');
-        },
-        403: function(data) {
-          //error
-          alert('Oh no! something went wrong. Please try again.');
-        }
-      }  
+       
+    }).always(function() {
+      $('#contact-form .form-success').addClass('active');
     });
   });
-  // Donate form
-  $('#donate-form').submit(function(e) {
-    e.preventDefault();
-    
-  });
-
-  
 });
-async function start() {
-try {
-  const stripe = require('stripe')('sk_test_4eC39HqLyjWDarjtT1zdp7dc');
-  const paymentIntent = await stripe.paymentIntents.create({
-    amount: 1477, // $14.77, an easily identifiable amount
-    currency: 'usd',
-  });
-  console.log('Worked! ', paymentIntent.id);
-} catch(err) {
-  console.log('Error! ', err.message);
-}
-}
+

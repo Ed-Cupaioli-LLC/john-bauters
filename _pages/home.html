@@ -36,7 +36,7 @@ donate:
     <div class="close-form"><i class="fa fa-times"></i></div>
     <div class="forms-body">
       <!-- Contact -->
-      <form id="contact-form" class="html-form">
+      <form action="/charge" id="contact-form" class="html-form">
         <div class="form-body">
           <h2 class="form-title">Get Updates</h2>
           <div class="form-field">
@@ -63,40 +63,6 @@ donate:
         </div>
       </form>
       <!-- End Contact -->
-      <!-- Donate -->
-      <form id="donate-form" class="html-form active">
-        <div class="form-body">
-          <h2 class="form-title">Donate</h2>
-          <div class="form-top-text">
-            {{ page.donate.top-text | markdownify }}
-          </div>
-          <div class="form-field">
-            <label>First Name</label>
-            <input type="text" name="entry.1310032368" id="donate-fname" required />
-          </div>
-          <div class="form-field">
-            <label>Last Name</label>
-            <input type="text" name="entry.317480578" id="donate-lname" required/>
-          </div>
-          <div class="form-field">
-            <label>Email</label>
-            <input type="email" name="entry.305189529" id="donate-email" required />
-          </div>
-          <div class="form-submit">
-            <button class="btn" type="submit">Submit</button>
-          </div>
-          <div class="form-bottom-text">
-            {{ page.donate.bottom-text | markdownify }}
-          </div>
-        </div>
-        <div class="form-success">
-          <div class="success-message">
-            Thanks for subscribing!
-          </div>
-          
-        </div>
-      </form>
-      <!-- End Donate -->
     </div>
     
   </div>

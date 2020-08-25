@@ -44,8 +44,7 @@ module.exports = function(grunt) {
       }
     },
 		concurrent: {
-      //target: ['shell:jekyllServe','watch'],
-      target: ['watch'],
+      target: ['shell:jekyllServe','watch'],
 			options: {
 				logConcurrentOutput: true
 			}

@@ -55,6 +55,7 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
+    stripe (5.23.1)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.7.0)
@@ -65,6 +66,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-sitemap
+  stripe
 
 BUNDLED WITH
    1.16.3
