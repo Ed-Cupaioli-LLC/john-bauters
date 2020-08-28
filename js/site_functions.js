@@ -21,5 +21,10 @@ $(function(){
       $('#contact-form .form-success').addClass('active');
     });
   });
+
+  $('.mobile-nav-toggle').click(function() {
+    $(this).toggleClass('active');
+    $('.nav-links').toggleClass('active');
+  });
 });
 

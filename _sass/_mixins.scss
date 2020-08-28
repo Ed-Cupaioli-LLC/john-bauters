@@ -52,6 +52,11 @@ $default-shadow: 0px 3px 5px rgba(100, 100, 100, 0.5);
     @content;
   }
 }
+@mixin bp-custom($size) {
+  @media only screen and (max-width: $size) {
+    @content;
+  }
+}
 // Add Gutters - include in any section you want to have gutters, such as the form
 @mixin gridGutters($grid-gutters) {
 	//Gutter Padding Method
