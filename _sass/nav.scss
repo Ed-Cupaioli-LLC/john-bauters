@@ -42,12 +42,22 @@
       right: 0;
       transform: translateX(100%);
       @include transition(transform,opacity);
+      padding: 60px 1rem 0;
       opacity: 0;
+      text-align: right;
+      background-color: $white;
+      li {
+        padding: 1rem 0;
+      } 
       &.active {
         transform: translateX(0%);
         opacity: 1;
       }
-    }  
+    }
+    @include bp-custom($size-small) {
+      width: 100%;
+      text-align: center;
+    }    
   }
   .mobile-nav-toggle {
     display: none;
