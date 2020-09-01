@@ -14,7 +14,7 @@ module.exports = function(grunt) {
     watch: {
       imagemin: {
         files: 'img/*.{png,jpg,gif}',
-        tasks: ['imagemin']
+        tasks: ['newer:imagemin:target']
       },
       uglify: {
         files: ['js/*.js',"js/min/!*.min.js"],

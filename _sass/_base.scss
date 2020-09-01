@@ -13,7 +13,26 @@ body {
 //Default Fonts
 h1, h2, h3, h4, h5 {
 	font-family: $header-font;
+	margin-top: 0;
 }
+h1 {
+	font-size: 60px;
+}
+
+h2 {
+	font-size: 52px;
+}
+
+h3 {
+	font-size: 32px;
+}
+h4 {
+	font-size: 26px;
+}
+h5 {
+	font-size: 18px;
+}
+
 body {
 	font-family: $body-font;
 	font-size: 18px;
@@ -34,16 +53,14 @@ a {
 
 //Form Inputs
 input,textarea {
-	&:not([type=submit]):not([type=file]):not([type=radio]):not([type=checkbox]) {
+	&[type=text], &[type=email] {
 		-webkit-appearance: none;
 		-moz-appearance: none;
 		border: 0;
+		width: 100%;
 	}
 	&:active, &:focus {
 		outline: 0;
-	}
-	&.submit {
-		white-space: normal;
 	}
 }
 
@@ -58,17 +75,54 @@ img,svg {
 	border: 1px solid $yellow;
 	color: $blue;
 	font-size: 20px;
-	
 	border-radius: $border-radius;
 	padding: 10px;
 	margin: 10px 0;
 	display: inline-block;
-	
+	font-weight: 700;
 	text-align: center;
-	@include transition(background-color,color);
+	@include transition(background-color,border-color,color);
+
 	&:hover {
 		background-color: $blue;
+		border-color: $blue;
 		color: $yellow;
 	}
-	
+	&.alt {
+		background-color: $white;
+		border-color: $white;
+		&:hover {
+			background-color: $blue;
+			border-color: $white;
+			color: $white;
+		}	
+	}
+}
+//content section
+section {
+	padding: 2rem;
+	.inner-section {
+		max-width: $size-x-large;
+		margin: auto;
+		
+		.title-card {
+			max-width: 635px;	
+			padding: 2rem;
+			position: relative;
+			background-color: $blue;
+		}
+	}
+}
+
+
+.form-field {
+	margin-bottom: 1rem;
+	label {
+		display: block;
+	}
+	input {
+		border-radius: 4px;
+		padding: 0.5rem 1rem;
+		color: $blue;
+	}
 }

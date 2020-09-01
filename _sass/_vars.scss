@@ -2,6 +2,7 @@
 $white: #fff;
 $blue: #24408f;
 $yellow: #DDC71B;
+$lt-grey: #EDEDED;
 //Theme colors
 $text_color: $white;
 $primary_color: $blue;
@@ -18,3 +19,6 @@ $transition_duration: .5s;
 @include gridGutters($grid-gutters);
 //Other stuff
 $border-radius: 6px;
+$nav-height: 132px;
+$title-card: 635px;
+

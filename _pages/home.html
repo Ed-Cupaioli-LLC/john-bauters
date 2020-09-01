@@ -3,8 +3,135 @@ title: Home Page
 layout: default
 permalink: /
 css: home
-
+intro: 
+  title: "Sign up to support and receive updates:"
+  text: John is recognized as a devoted public servant and expert in social and fiscal policies that make communities affordable and resilient, encourage economic development, and promote public safety and preparedness.
+issues:
+  title: What John is Fighting For
+  text: John spent the last four years serving the people of Emeryville on their city council advocating for policies that keep the city resilient in the face of a rapidly changing Bay Area while also continuing to champion the needs of working tenants and families. Read about his priorities and track record on the top issues in Emeryville.
+  items: 
+  - title: Housing and Homelessness 
+    image: /img/housing.jpg
+    link: /issues/#housing
+  - title: Economic Development
+    image: /img/econ-dev.jpg 
+    link: /issues/#econ
+  - title: Safety and Justice
+    image: /img/safety-justice.jpg
+    link: /issues/#safety
+  - title: Small Business
+    image: /img/small-biz.jpg
+    link: /issues/#small-biz
+  - title: Transportation
+    image: /img/transpo.jpg
+    link: /issues/#transpo
 ---
 <div id="home">
-  
+  {% include hero.html %}
+  <section id="intro">
+    <div class="inner-section">
+      <div class="intro-title-card">
+        <h1 class="intro-title">
+          {{ page.intro.title }}
+        </h1>
+        <form class="update-form">
+          <div class="form-field">
+            <label>Email</label>
+            <input type="email" name="" placeholder="example@email.com" required>
+          </div>
+          <div class="form-field">
+            <label>Zip code</label>
+            <input type="text" name="" placeholder="12345">
+          </div>
+          <div class="submit-field">
+            <button type="submit" class="btn alt">Sign up</button>
+          </div>
+        </form>
+      </div>
+      <div class="cta-btn-col">
+        <div class="cta-btn-row">
+          <a class="cta-btn">
+            <div class="btn-inner">
+              <div class="btn-icon">
+                {% include svg/donate-icon.svg %}
+              </div>
+              <h4 class="btn-text">Donate</h4>
+            </div>
+          </a>
+          <a class="cta-btn" href="/updates">
+            <div class="btn-inner">
+              <div class="btn-icon">
+                {% include svg/updates-icon.svg %}
+              </div>
+              <h4 class="btn-text">Get Updates</h4>
+            </div>
+          </a>
+        </div>
+        <div class="text-row">
+          {{ page.intro.text | markdownify }}
+          <a href="/about" class="btn alt">Learn more</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="issues">
+    <div class="bg-image">
+
+    </div>
+    <div class="inner-section">
+      <div class="title-card">
+        <h2>{{ page.issues.title }}</h2>
+      </div>
+      <div class="section-text">
+      {{ page.issues.text | markdownify }}
+      <a class="btn alt" href="/issues/">Learn More</a>
+      </div>
+      <div class="issues-grid">
+      {% for issue in page.issues.items %}
+      <div class="issue-col">
+        <a class="issue-box" href="{{ issue.link }}">
+          <div class="issue-img">
+            <img src="{{ issue.image }}" alt="image for {{ issue.title }}">
+          </div>
+          <div class="issue-title">
+            <h4>{{ issue.title }}</h4>
+          </div>
+        </a>
+
+      </div>
+      {% endfor %}
+      </div>
+    </div>
+  </section>
+  <section id="media">
+    <div class="inner-section">
+      <div class="media-grid">
+        <div class="media-col twitter">
+          <div id="recent-tweets">
+            <div class="tweet media-item">
+              <a class="twitter-icon">
+                <i class="fab fa-twitter"></i>
+              </a>
+              <div class="tweet-content">
+
+              </div>
+              <div class="tweet-date">
+                5 days
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="media-col blog">
+          <div id="recent-posts">
+            <div class="post media-item">
+              <a class="blog-link">John Bauters Blog</a>
+              <div class="blog-content">
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 </div>

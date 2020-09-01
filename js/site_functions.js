@@ -26,5 +26,13 @@ $(function(){
     $(this).toggleClass('active');
     $('.nav-links').toggleClass('active');
   });
+  //twitter timeline 
+  // twttr.widgets.createTimeline(
+  //   {
+  //     sourceType: "profile",
+  //     screenName: "TwitterDev"
+  //   },
+  //   document.getElementById("recent-tweets")
+  // );
 });
 
