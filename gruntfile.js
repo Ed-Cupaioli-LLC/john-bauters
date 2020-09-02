@@ -9,6 +9,14 @@ module.exports = function(grunt) {
           src: ['**/*.{png,jpg,gif,jpeg,svg}'],
           dest: 'img/'
         }]
+      }, 
+      assets: {
+        files: [{
+          expand: true,
+          cwd: 'assets/',
+          src: ['**/*.{png,jpg,gif,jpeg,svg}'],
+          dest: 'assets/'
+        }]
       }
     },
     watch: {
