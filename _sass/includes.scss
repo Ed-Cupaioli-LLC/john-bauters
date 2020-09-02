@@ -3,13 +3,17 @@
   background-image: url('/img/home-bg.jpg');
   background-size: cover;
   background-position: center top;
-  margin-top: $nav-height;
   height: 500px;
-
+  
 }
 // Intro
 #intro {
   background-color: $blue;
   color: $white;
+  .inner-section {
+    max-width: 1920px;
+    
+  }
 }
+//Update  form
 

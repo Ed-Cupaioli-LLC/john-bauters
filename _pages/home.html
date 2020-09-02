@@ -25,6 +25,10 @@ issues:
   - title: Transportation
     image: /img/transpo.jpg
     link: /issues/#transpo
+donate: 
+  text: Donate to John Bauters Campaign
+footer: 
+  class: blue  
 ---
 <div id="home">
   {% include hero.html %}
@@ -34,19 +38,7 @@ issues:
         <h1 class="intro-title">
           {{ page.intro.title }}
         </h1>
-        <form class="update-form">
-          <div class="form-field">
-            <label>Email</label>
-            <input type="email" name="" placeholder="example@email.com" required>
-          </div>
-          <div class="form-field">
-            <label>Zip code</label>
-            <input type="text" name="" placeholder="12345">
-          </div>
-          <div class="submit-field">
-            <button type="submit" class="btn alt">Sign up</button>
-          </div>
-        </form>
+        {% include update-form.html form-id="home-intro-form"%}
       </div>
       <div class="cta-btn-col">
         <div class="cta-btn-row">
@@ -118,7 +110,7 @@ issues:
           <div id="recent-posts">
             {% for post in site.posts limit: 3 %}
             <div class="media-item">
-              <a class="media-title" href="">{{ post.title }}</a>
+              <a class="media-title" href="{{post.url}}">{{ post.title }}</a>
               <div class="media-content">
                 {{ post.content | strip_html | truncate: 200, '...'}}
               </div>
@@ -132,6 +124,14 @@ issues:
             <a class="btn alt" href="/blog">View more</a>
           </div>
         </div>
+      </div>
+    </div>
+  </section>
+  <section id="home-donate">
+    <div class="inner-section">
+      <div class="donate-box">
+        <h4>{{ page.donate.text }}</h4>
+        <a href="/donate" class="btn alt">Donate</a>
       </div>
     </div>
   </section>

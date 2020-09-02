@@ -15,9 +15,7 @@
       background-color: $blue;
       padding: 2rem;
       flex: 1 0 auto;
-      .update-form {
-        
-      }
+      
     }
     .cta-btn-col {
       display: block;
@@ -28,6 +26,8 @@
       .text-row {
         text-align: center;
         padding-top: 2rem;
+        max-width: $size-medium;
+        margin: auto;
         p {
           font-weight: 700;
           font-size: 20px;
@@ -168,7 +168,6 @@
           display: flex;
           flex-flow: column wrap;
           justify-content: space-between;
-          
           .media-content {
             padding: 2rem 0;
           }
@@ -185,6 +184,20 @@
           }
         }
       }
+    }
+  }
+  #home-donate {
+    background-image: url('/img/donate-bg.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+    .donate-box {
+      background-color: rgba($blue,0.7);
+      display: block;
+      text-align: center;
+      padding: 4rem 2rem;
+      max-width: 586px;
     }
   }
 }

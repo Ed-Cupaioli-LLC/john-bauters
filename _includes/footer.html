@@ -1,0 +1,23 @@
+<footer id="site-footer" class="{{ page.footer.class }}">
+  <div class="footer-body">
+    <div class="footer-logo">
+      {% if page.footer.class == "blue" %}
+      {% include svg/john-bauters-logo-white.svg %}
+      {% else %}
+      {% include svg/john-bauters-logo-blue.svg %}
+      {% endif %}
+    </div>
+    <div class="footer-text">
+      <div class="footer-hash">
+        Use <a href="https://twitter.com/intent/tweet?hashtags=ThatBowTieGuy">#ThatBowTieGuy</a> to share about our campaign!
+      </div>
+      <div class="footer-disclaimer">
+        Paid for by Bauters for Emeryville City Council, FPPC #1380397. 4260 Halleck Street, Emeryville, CA 94608. 510.693.7474.
+      </div>
+    </div>
+    <div class="footer-signup">
+      <h4>Sign up to support and receive updates:</h4>
+      {% include update-form.html form-id="footer-form" %}
+    </div>
+  </div>
+</footer>

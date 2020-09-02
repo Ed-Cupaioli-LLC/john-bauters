@@ -1,0 +1,59 @@
+#site-footer {
+  background-color: $yellow;
+  color: $blue;
+  &.blue {
+    background-color: $blue;
+    color: $white;
+    a {
+      color: $yellow;
+    }
+    .footer-body {
+      .footer-text {
+        .footer-disclaimer {
+          border-color: $white;
+        }
+      }  
+    }
+  }
+  .footer-body {
+    display: flex;
+    align-items: center;
+    flex-flow: row wrap;
+    padding: 2rem;
+    .footer-logo {
+      width: 25%;
+      svg {
+        
+        width: auto;
+      }
+    }
+    .footer-text {
+      flex: 1 1 auto;
+      text-align: center;
+      width: 50%;
+      padding: 0 2rem;
+      .footer-hash {
+        font-weight: 700;
+        margin-bottom: 1rem;
+      }
+      .footer-disclaimer {
+        font-size: 14px;
+        padding: 0.5rem;
+        border: 1px solid $blue;
+        max-width: 510px;
+        margin: auto;
+      }
+    }
+    .footer-signup {
+      width: 25%;
+      padding: 0 2rem;
+      .update-form {
+        .form-field {
+          input {
+            border: 2px solid $blue;
+          }
+        }
+      }
+    }
+  }
+}
