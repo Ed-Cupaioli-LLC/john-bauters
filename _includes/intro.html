@@ -3,7 +3,12 @@
     <div class="intro-title-card">
       <h1 class="intro-title">
         {{ page.intro.title }}
-      </h1>
+      </h1>  
+      {% if page.intro.text %}
+      <div class="intro-text">
+        {{ page.intro.text | markdownify }}
+      </div>
+      {% endif %}
     </div>
     <div class="cta-btn-col">
       <div class="cta-btn-row">

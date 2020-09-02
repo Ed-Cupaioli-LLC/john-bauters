@@ -1,0 +1,81 @@
+---
+---
+@import "mixins.scss";
+@import "vars.scss";
+#issues {
+  #intro {
+    text-align: center;
+    
+    .intro-title-card {
+      margin-top: 0;
+    }
+    .intro-title {
+      top: -8rem;
+      padding: 2rem;
+      position: absolute;
+      background-color: $blue;
+    }
+    .intro-text {
+      font-weight: bold;
+      font-size: 20px;
+      
+    }
+  }
+  #issue-summary {
+    padding: 0;
+    .inner-section {
+      padding: 0 2rem 2rem;
+    }
+    .summary-block {
+      background-color: $yellow;
+      color: $blue;
+      .summary-text {
+        font-style: italic;
+        font-weight: bold;
+        font-size: 20px;
+        text-align: center;
+        max-width: $size-large;
+        margin: auto;
+        padding: 2rem;
+      }
+    }
+  }
+  .issue-section {
+    padding: 3rem 2rem;
+    &.blue {
+      background-color: $blue;
+      color: $white;
+      .issue-title {
+        background-color: $yellow;
+        color: $blue;
+      }
+    }   
+    &.grey {
+      background-color: $lt-grey;
+      color: $blue;
+      .issue-title {
+        background-color: $blue;
+        color: $white;
+      }
+    }
+    .issue-title {
+      text-transform: uppercase;
+      padding: 0.5rem 0.75rem;
+      margin-bottom: 1em;
+      display: inline-block;
+    }
+    .issue-subtitle {
+      margin-bottom: 2rem;
+    }
+    .issue-text {
+      ul {
+        margin: 1rem 0;
+        padding: 0;
+        li {
+          list-style: none;
+          margin-bottom: 1rem;
+        }
+      }
+    }
+  }
+}
