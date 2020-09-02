@@ -151,11 +151,38 @@
       .media-col {
         padding: 2rem;
         width: 50%;
+        height: 950px;
+        overflow-y: scroll;
         &.twitter {
           background-color: $lt-grey;
         }
         &.blog {
           background-color: $yellow;
+        }
+        .media-item {
+          background-color: $white;
+          color: $blue;
+          padding: 2rem;
+          margin-bottom: 1rem;
+          border-radius: 6px;
+          display: flex;
+          flex-flow: column wrap;
+          justify-content: space-between;
+          
+          .media-content {
+            padding: 2rem 0;
+          }
+          .media-date {
+            font-size: 14px;
+            font-weight: 700;
+          } 
+          
+        }
+        .view-more {
+          text-align: center;
+          .btn {
+            display: inline-block;
+          }
         }
       }
     }

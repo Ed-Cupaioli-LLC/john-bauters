@@ -108,35 +108,32 @@ issues:
       <div class="media-grid">
         <div class="media-col twitter">
           <div id="recent-tweets">
-            <div class="tweet media-item">
-              <a class="twitter-icon">
-                <i class="fab fa-twitter"></i>
-              </a>
-              <div class="tweet-content media-content">
-
-              </div>
-              <div class="tweet-date">
-                5 days
-              </div>
-            </div>
+            <a class="twitter-timeline" data-tweet-limit="3" data-chrome="nofooter" href="https://twitter.com/JohnBauters?ref_src=twsrc%5Etfw">Tweets by JohnBauters</a>
+          </div>
+          <div class="view-more">
+            <a class="btn" href="https://twitter.com/JohnBauters">View more</a>
           </div>
         </div>
         <div class="media-col blog">
           <div id="recent-posts">
             {% for post in site.posts limit: 3 %}
-            <div class="post media-item">
-              <a class="blog-link" href="">{{ post.title }}</a>
-              <div class="post-content">
-                {{ post.content | truncate: 200, '...'}}
+            <div class="media-item">
+              <a class="media-title" href="">{{ post.title }}</a>
+              <div class="media-content">
+                {{ post.content | strip_html | truncate: 200, '...'}}
               </div>
-              <div class="post-date ">
-                {{ post.date | date: "%B %-d, %Y" }}
+              <div class="media-date">
+                {{ post.date | date: "%B %-d, %Y"}}
               </div>
             </div>
             {% endfor %}
+          </div>
+          <div class="view-more">
+            <a class="btn alt" href="/blog">View more</a>
           </div>
         </div>
       </div>
     </div>
   </section>
 </div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
