@@ -123,13 +123,17 @@ issues:
         </div>
         <div class="media-col blog">
           <div id="recent-posts">
+            {% for post in site.posts limit: 3 %}
             <div class="post media-item">
-              <a class="blog-link">John Bauters Blog</a>
+              <a class="blog-link" href="">{{ post.title }}</a>
               <div class="post-content">
-
+                {{ post.content | truncate: 200, '...'}}
               </div>
-              <div class="post-date "></div>
+              <div class="post-date ">
+                {{ post.date | date: "%B %-d, %Y" }}
+              </div>
             </div>
+            {% endfor %}
           </div>
         </div>
       </div>
