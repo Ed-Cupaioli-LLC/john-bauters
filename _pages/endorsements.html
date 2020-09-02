@@ -1,0 +1,111 @@
+---
+title: Endorsements
+permalink: /endorsements/
+css: endorsements
+intro: 
+  title: Endorsements
+  text: |-
+    #### Emeryville 
+    - Christian Patz, Mayor
+    - Dianne Martinez, Vice-Mayor
+    - Scott Donahue, Councilmember
+    - Ally Medina, Councilmember
+org-endorsements:
+  title: Organizations
+  list: 
+  - Building Trades Council of Alameda County
+  - Carpenters, Local 713
+  - International Association of Firefighters, Local 55
+  - United Food and Commercial Workers, Local 5
+  - Sierra Club
+  - Victory Fund
+  logos: 
+  - /img/alameda-dems-logo.png
+  
+  - /img/alameda-labor-council-logo.png
+  - /img/carpenters-union-logo.png
+  - /img/construction-union-logo.png
+  - /img/e-bay-stonewall-logo.png
+  - /img/e-bay-young-dems-logo.png
+  - /img/firefighters-union-logo.png
+  - /img/police-union-logo.png
+  - /img/sierra-club-logo.png
+  - /img/victory-fund-logo.png
+  - /img/alameda-green-party-logo.png
+leader-endorsements:
+  title: California State and Local Leaders
+  list: 
+  - California State Controller Betty Yee
+  - California State Senator Nancy Skinner
+  - California State Assemblymember Buffy Wicks
+  - California State Assemblymember Lorena Gonzalez
+  - Bay Area Rapid Transit District Director Rebecca Saltzman
+  - Alameda County Supervisor Keith Carson
+  - Alameda County Supervisor Scott Haggerty
+  - Alameda County Supervisor Nate Miley
+  - Alameda County Supervisor Richard Valle
+  - Alameda County Transit Board Director Elsa Ortiz
+  - Alameda Mayor Marilyn Ezzy-Ashcraft
+  - Alameda City Councilmember Jim Oddie
+  - Alameda City Councilmember Malia Vella
+  - Berkeley Mayor Jesse Arreguin
+  - Berkeley City Councilmember Lori Droste
+  - Berkeley City Councilmember Susan Wengraf
+  - Berkeley City Councilmember Rigel Robinzon
+  - Dublin City Councilmember Shawn Kumagai
+  - El Cerrito City Councilmember Gabriel Quinto
+  - Piedmont Councilmember Tim Rood
+  - San Leandro City Councilmember Pauline Cutter
+  - Tracy City Councilmember Dan Arriola
+  - Frank Mecca, Executive Director, County Welfare Directors Association of California*
+  - Sharon Cornu, Political Director, Non-Profit Housing Association of Northern California*
+  - Ben Hofer, Executive Director, Secure Justice*
+  disclaimer: "*Organizations listed for identification purposes only. All public elected office titles are listed for identification purposes only."
+  image: /img/john-with-supporter.jpg
+
+---
+<div id="endorsements">
+  {% include hero.html %}
+  {% include intro.html %}
+  <section id="org-endorsements">
+    <div class="inner-section">
+      <div class="text-col">
+        <h4>{{ page.org-endorsements.title }}</h4>
+        <ul>
+          {% for endorsement in page.org-endorsements.list %}
+          <li>{{ endorsement}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="logos-col">
+        <div class="logos-grid">
+          {% for logo in page.org-endorsements.logos %}
+          <div class="logo">
+            <img src="{{ logo }}" />
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="leader-endorsements">
+    <div class="inner-section">
+      <h4>{{ page.leader-endorsements.title}}</h4>
+      <div class="list">
+        <ul>
+          {% for endorsement in page.leader-endorsements.list %}
+          <li>{{ endorsement }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      
+      <div class="disclaimer">
+        {{ page.leader-endorsements.disclaimer }}
+      </div>
+    </div>
+    <div class="leader-image" style="background-image: url('{{ page.leader-endorsements.image}}');">
+
+    </div>
+  </section>
+</div>
