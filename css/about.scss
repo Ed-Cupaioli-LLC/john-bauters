@@ -1,0 +1,14 @@
+---
+---
+@import "mixins.scss";
+@import "vars.scss";
+#about {
+  #about-content {
+    ul {
+      li {
+        list-style: none;
+        margin-bottom: 0.75rem;
+      }
+    }
+  }
+}

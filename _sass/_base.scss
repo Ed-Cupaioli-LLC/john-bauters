@@ -106,17 +106,29 @@ section {
 	padding: 2rem;
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-color: $blue;
+	color: $white;
 	.inner-section {
 		max-width: $size-x-large;
 		margin: auto;
 		
 		.title-card {
-			max-width: 635px;	
+			max-width: $title-card;	
 			padding: 2rem;
 			position: relative;
 			background-color: $blue;
 		}
+		img {
+			margin: auto;
+		}
+		p, li {
+			a {
+				color: $yellow;
+				text-decoration: underline;
+			}
+		}
 	}
+	
 }
 
 
