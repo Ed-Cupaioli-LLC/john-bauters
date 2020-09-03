@@ -35,7 +35,7 @@
       list-style: none;
       padding: 0 2rem;
     }
-    @include bp-custom(1500px) {
+    @include bp-x-large {
       position: fixed;
       display: block;
       padding: 1rem 0;
@@ -95,7 +95,7 @@
         }
       }  
     }
-    @include bp-custom(1500px) {
+    @include bp-x-large {
       display: flex;
       justify-content: center;
       align-items: center;

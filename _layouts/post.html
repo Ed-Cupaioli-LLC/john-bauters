@@ -3,5 +3,37 @@ layout: default
 css: post
 ---
 <div id="post">
-  {{ content }}
+  {% include hero.html %}
+  <section id="post-title">
+    <div class="inner-section">
+      <h1 class="title">{{ page.title }}</h1>
+    </div>
+  </section>
+  <section id="post-content">
+    <div class="inner-section">
+      <div class="info">
+        <div class="info-date">{{ page.date | date:'%A, %B %-d, %Y' }}</div>
+        <div class="info-social">
+          <a class="share-link facebook" href="{{ site.url }}{{ page.url }}">
+            <i class="fab fa-facebook"></i>
+          </a>
+          <a class="share-link twitter" href="https://twitter.com/intent/tweet?text={{page.title | url_encode }}&url={{ site.url | url_encode }}{{ page.url | url_encode }}">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a class="share-link email" href="mailto:?subject={{ page.title | url_encode }}&body={{ site.url | url_encode }}{{ page.url | url_encode }}">
+            <i class="fa fa-envelope"></i>
+          </a>
+          <a class="share-link copy" href="{{ site.url }}{{ page.url }}">
+            <i class="fa fa-link"></i>
+            <input class="copy-text" value="{{ site.url }}{{ page.url }}" />
+            <div class="copy-success">Link copied!</div>
+          </a>
+        </div>
+      </div>
+      <div class="content">
+        {{ content }}
+      </div>
+    </div>
+  </section>
 </div>
+<script src="/js/min/blog-functions.min.js"></script>
