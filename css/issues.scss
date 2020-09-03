@@ -14,6 +14,11 @@
       padding: 2rem;
       position: absolute;
       background-color: $blue;
+      @include bp-large {
+        position: relative;
+        top: 0;
+        padding: 0;
+      }
     }
     .intro-text {
       font-weight: bold;
