@@ -20,6 +20,9 @@
     align-items: center;
     flex-flow: row wrap;
     padding: 2rem;
+    @include bp-large {
+      flex-flow: column wrap;
+    }
     .footer-logo {
       width: 25%;
       svg {

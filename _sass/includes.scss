@@ -14,7 +14,9 @@
   .inner-section {
     display: flex;
     flex-flow: row wrap;
-    
+    @include bp-large {
+      flex-flow: column-reverse wrap;
+    }
     .intro-title-card {
       flex: 0 1 auto;
       max-width: $title-card;
@@ -23,7 +25,11 @@
       background-color: $blue;
       padding: 2rem;
       text-align: center;
-      
+      @include bp-large {
+        margin: 0 auto;
+        text-align: center;
+        padding: 2rem 0;
+      }  
       .intro-text {
         text-align: left;
       }
@@ -34,12 +40,20 @@
       position: relative;
       margin-top: -5rem;
       padding-left: 2rem;
+      @include bp-large {
+        padding-left: 0;
+      }  
       .cta-btn-row {
         display: flex;
         justify-content: flex-end;
-        
+        @include bp-large {
+          justify-content: center;
+        }  
         .cta-btn {
           padding: 0 2rem;
+          @include bp-large {
+            padding: 0 1rem;
+          }  
           .btn-inner {
             background-color: $yellow;
             color: $blue;
@@ -50,6 +64,11 @@
             align-items: center;
             justify-content: center;
             padding: 1rem;
+            @include bp-large {
+              padding: 0.5rem;
+              height: 150px;
+              width: 150px;
+            }
           }
           .btn-icon {
             height: 100px;
@@ -57,6 +76,9 @@
             position: relative;
             display: flex;
             align-items: flex-end;
+            @include bp-large {
+              height: 65px;
+            }  
             svg {
               display: block;
               width: 100%;
@@ -67,6 +89,9 @@
             margin-bottom: 0;
             text-transform: uppercase;
             font-size: 20px;
+            @include bp-large {
+              font-size: 16px;
+            }  
           }
         }
       }
