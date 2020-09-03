@@ -65,7 +65,7 @@
   #leader-endorsements {
     padding: 0;
     .inner-section {
-     max-width: calc($size-x-large + 2rem);
+     max-width: calc(#{$size-x-large} + 4rem);
      padding: 3rem 2rem;
     }
 

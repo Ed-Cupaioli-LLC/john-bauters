@@ -12,7 +12,6 @@
   color: $white;
   padding-top: 0;
   .inner-section {
-    max-width: 1920px;
     display: flex;
     flex-flow: row wrap;
     
@@ -37,7 +36,8 @@
       padding-left: 2rem;
       .cta-btn-row {
         display: flex;
-        justify-content: center;
+        justify-content: flex-end;
+        
         .cta-btn {
           padding: 0 2rem;
           .btn-inner {

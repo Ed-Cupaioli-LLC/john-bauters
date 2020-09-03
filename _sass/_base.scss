@@ -65,6 +65,7 @@ input,textarea {
 		outline: 0;
 	}
 }
+ 
 
 img,svg {
 	display: block;
@@ -90,6 +91,9 @@ img,svg {
 		background-color: $blue;
 		border-color: $blue;
 		color: $yellow;
+	}
+	&:active,&:focus {
+		outline: none;
 	}
 	&.alt {
 		background-color: $white;

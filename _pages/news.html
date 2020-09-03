@@ -1,0 +1,37 @@
+---
+title: News
+permalink: /news/
+css: news
+intro: 
+  title: News
+---
+<div id="news">
+  {% include hero.html %}
+  {% include intro.html %}
+  
+  <section id="posts">
+    <div class="inner-section">
+      <div class="search-box">
+        <div class="search-field form-field">
+          <input id="search-input" type="text" />
+          <div class="search-icon"><i class="fa fa-search"></i></div>
+        </div>
+        <div id="search-results"></div>
+      </div>
+      <div class="posts-list">
+        {% for post in site.posts %}
+        <div class="post-item">
+          <div class="post-date">{{ post.date | date:'%A, %B %-d, %Y' }}</div>
+          <h4 class="post-title">{{ post.title }}</h4>
+          <div class="post-excerpt">{{ post.content | strip_html | truncate: 450, "..."}}</div>
+          <div class="post-link">
+            <a href="{{ post.url }}">Read more</a>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+</div>
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<script src="/js/min/blog-functions.min.js"></script>
