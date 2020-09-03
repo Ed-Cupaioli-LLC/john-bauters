@@ -22,11 +22,18 @@
     padding: 2rem;
     @include bp-large {
       flex-flow: column wrap;
+      padding: 2rem;
     }
     .footer-logo {
       width: 25%;
+      @include bp-large {
+        width: 100%;
+        svg {
+          height: 80px;
+          margin: auto;
+        }
+      }
       svg {
-        
         width: auto;
       }
     }
@@ -35,6 +42,11 @@
       text-align: center;
       width: 50%;
       padding: 0 2rem;
+      @include bp-large {
+        width: 100%;
+        padding: 0;
+        order: 3;
+      }  
       .footer-hash {
         font-weight: 700;
         margin-bottom: 1rem;
@@ -50,7 +62,14 @@
     .footer-signup {
       width: 25%;
       padding: 0 2rem;
+      @include bp-large {
+        width: 100%;
+        text-align: center;
+        padding: 2rem 0;
+        order: 2;
+      }
       .update-form {
+        
         .form-field {
           input {
             border: 2px solid $blue;

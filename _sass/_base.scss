@@ -76,6 +76,7 @@ input,textarea {
 		-moz-appearance: none;
 		border: 0;
 		width: 100%;
+		font-family: inherit;
 	}
 	&:active, &:focus {
 		outline: 0;
@@ -101,7 +102,7 @@ img,svg {
 	font-weight: 700;
 	text-align: center;
 	@include transition(background-color,border-color,color);
-
+	font-family: inherit;
 	&:hover {
 		background-color: $blue;
 		border-color: $blue;
@@ -118,6 +119,9 @@ img,svg {
 			border-color: $white;
 			color: $white;
 		}	
+	}
+	@include bp-large {
+		font-size: 18px;
 	}
 }
 //content section
