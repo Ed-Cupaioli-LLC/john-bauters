@@ -61,7 +61,7 @@
     }
     .footer-signup {
       width: 25%;
-      padding: 0 2rem;
+      
       @include bp-large {
         width: 100%;
         text-align: center;
@@ -69,7 +69,8 @@
         order: 2;
       }
       .update-form {
-        
+        max-width: 350px;
+        margin: auto;
         .form-field {
           input {
             border: 2px solid $blue;

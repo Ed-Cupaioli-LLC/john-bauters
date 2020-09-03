@@ -1,11 +1,13 @@
 <footer id="site-footer" class="{{ page.footer.class }}">
   <div class="footer-body">
     <div class="footer-logo">
+      <a href="/">
       {% if page.footer.class == "blue" %}
       {% include svg/john-bauters-logo-white.svg %}
       {% else %}
       {% include svg/john-bauters-logo-blue.svg %}
       {% endif %}
+      </a>
     </div>
     <div class="footer-text">
       <div class="footer-hash">
@@ -16,7 +18,7 @@
       </div>
     </div>
     <div class="footer-signup">
-      <h4>Sign up to support and receive updates:</h4>
+      <h5>Sign up to support and receive updates:</h5>
       {% include update-form.html form-id="footer-form" %}
     </div>
   </div>

@@ -4,18 +4,24 @@
   background-size: cover;
   background-position: center top;
   height: 500px;
-  
+  @include bp-large {
+    height: 300px;
+  }
 }
 // Intro
 #intro {
   background-color: $blue;
   color: $white;
   padding-top: 0;
+  @include bp-large {
+    padding-bottom: 0;
+  }
   .inner-section {
     display: flex;
     flex-flow: row wrap;
     @include bp-large {
       flex-flow: column-reverse wrap;
+      
     }
     .intro-title-card {
       flex: 0 1 auto;
@@ -95,9 +101,8 @@
           }
         }
       }
-    }  
-    
+    }      
   }
 }
-//Update  form
+
 
