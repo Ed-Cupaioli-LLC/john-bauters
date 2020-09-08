@@ -19,6 +19,6 @@ layout: compress
     {{ content }}
     {% include footer.html %}
     <!-- Scripts -->
-    <script src="/js/site_functions.js"></script>
+    <script src="{{ '/js/site_functions.js' | relative_url }}"></script>
 </body>
 </html>

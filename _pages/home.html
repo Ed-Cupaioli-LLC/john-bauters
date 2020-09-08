@@ -76,14 +76,14 @@ footer:
       </div>
       <div class="section-text">
       {{ page.issues.text | markdownify }}
-      <a class="btn alt" href="/issues/">Learn More</a>
+      <a class="btn alt" href="{{ base }}/issues/">Learn More</a>
       </div>
       <div class="issues-grid">
       {% for issue in page.issues.items %}
       <div class="issue-col">
-        <a class="issue-box" href="{{ issue.link }}">
+        <a class="issue-box" href="{{ base }}{{ issue.link }}">
           <div class="issue-img">
-            <img src="{{ issue.image }}" alt="image for {{ issue.title }}">
+            <img src="{{ issue.image | relative_url }}" alt="image for {{ issue.title }}">
           </div>
           <div class="issue-title">
             <h4>{{ issue.title }}</h4>
@@ -130,7 +130,7 @@ footer:
     <div class="inner-section">
       <div class="donate-box">
         <h4>{{ page.donate.text }}</h4>
-        <a href="/donate" class="btn alt">Donate</a>
+        <a href="{{ base }}/donate" class="btn alt">Donate</a>
       </div>
     </div>
   </section>

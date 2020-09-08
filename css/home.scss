@@ -42,7 +42,7 @@
     padding: 0;
     .bg-image {
       height: 495px;
-      background-image: url('/img/issues-bg.jpg');
+      background-image: url('../img/issues-bg.jpg');
       background-position: center 25%;
       @include bp-large {
         height: 200px;

@@ -81,7 +81,7 @@ leader-endorsements:
         <div class="logos-grid">
           {% for logo in page.org-endorsements.logos %}
           <div class="logo">
-            <img src="{{ logo }}" />
+            <img src="{{ logo | relative_url }}" />
           </div>
           {% endfor %}
         </div>
@@ -104,7 +104,7 @@ leader-endorsements:
         {{ page.leader-endorsements.disclaimer }}
       </div>
     </div>
-    <div class="leader-image" style="background-image: url('{{ page.leader-endorsements.image}}');">
+    <div class="leader-image" style="background-image: url('{{ page.leader-endorsements.image | relative_url }}');">
 
     </div>
   </section>
