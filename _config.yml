@@ -5,24 +5,17 @@ meta_img:
 twitter:
 favicon: /img/favicon-32x32.png
 url:
-gtm:
+gtm: GTM-W6NH8XF
 schema:
-  name: 
-  type: 
-  image: 
-  logo:
-  phone: 
-  email: 
+  name: John Bauters
+  type: Person
+  image: /img/jb-headshot.png
+  job-title: "Council Member"
+  affiliation:
+    type: Organization
+    name: Emeryville City Council
   social:
-  location: 
-    address: 
-    city: 
-    state: 
-    zip: 
-  hours:
-    days:
-    opens:
-    closes:  
+  - https://twitter.com/JohnBauters
 timezone: America/New York
 future: true
 markdown: kramdown

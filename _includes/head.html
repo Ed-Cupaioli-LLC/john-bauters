@@ -48,38 +48,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="twitter:title" content="{{ site.title }}">
 <meta name="twitter:description" content="{{ description }}">
 <meta name="twitter:image" content="{{ meta_img }}">
+<!-- JSON-SD -->
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "{{ site.schema.type }}",
     "name": "{{ site.schema.name }}",
     "image": "{{site.url}}{{ site.schema.image }}",
-    "logo": "{{ site.url }}{{site.schema.logo }}",
     "url": "{{ site.url }}",
-    "telephone": "{{ site.schema.phone }}",
-    {% if site.schema.location.address != '' %}
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "{{ site.schema.location.address }}",
-      "addressLocality": "{{ site.schema.location.city }}",
-      "addressRegion": "{{ site.schema.location.state }}",
-      "postalCode": "{{ site.schema.location.zip }}",
-      "addressCountry": "USA"
-    },
-    {% endif %}
-    {% if site.schema.hours.days != '' %}
-    "openingHoursSpecification": {
-      "@type": "OpeningHoursSpecification",
-      "dayOfWeek": [
-      {{ site.schema.hours.days | split: "," | join: "," }}
-      ],
-      "opens": "{{ site.schema.hours.open }}",
-      "closes": "{{ site.schema.hours.close }}"
-    },
-    {% endif %}
+    "jobTitle": "{{ site.schema.job-title }}",
+    "affiliation": [
+      {
+        "@type": "{{ site.schema.affiliation.type }}",
+        "name": "{{ site.schema.affiliation.name }}"
+      }
+    ],
     "sameAs": 
     {{ site.schema.social | split: "," | join: "," }}
-    
   }
   </script>
 <!-- CSS -->

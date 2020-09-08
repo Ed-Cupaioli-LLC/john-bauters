@@ -39,5 +39,12 @@ $(function(){
       $('#site-nav').removeClass('sticky');
     }
   });
+  $('a[href^=#]').click(function(e) {
+    e.preventDefault();
+    var anchor = $(this).attr('href');
+    $('body,html').animate({
+      scrollTop: $(anchor).offset().top - 108
+    });
+  });
 });
 
