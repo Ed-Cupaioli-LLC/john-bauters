@@ -43,7 +43,7 @@
       right: 0;
       transform: translateX(100%);
       
-      padding: 60px 1rem 0;
+      padding: 0 1rem 0;
       opacity: 0;
       
       text-align: right;
@@ -55,6 +55,10 @@
         @include transition(transform,opacity);
         transform: translateX(0%);
         opacity: 1;
+        top: $nav-height;
+        @include bp-small {
+          top: 97px;
+        }
       }
     }
     @include bp-small {

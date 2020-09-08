@@ -41,9 +41,14 @@ plugins:
 collections:
   pages:
     output: true  
+  redirects: 
+    output: true  
 defaults:
 - scope:
     path: ''
   values:
     layout: default
-
+- scope:
+    type: 'redirects'
+  values: 
+    layout: 'redirect'  
