@@ -4,6 +4,20 @@
 @import "vars.scss";
 #news {
 
+  #intro {
+    .intro-title-card {
+      @include bp-medium {
+        padding-bottom: 1rem;
+        text-align: left;
+        width: 100%;
+      }
+    }
+  }
+  #posts {
+    @include bp-medium {
+      padding: 0 1rem 3rem;
+    }
+  }
   .posts-list {
     .post-item {
       background-color: $white;
@@ -12,6 +26,9 @@
       margin-bottom: 2rem;
       padding: 2rem 3rem;
       border-radius: 6px;
+      @include bp-medium {
+        padding: 2rem;
+      }
       .post-date {
         text-transform: uppercase;
         font-size: 20px;
