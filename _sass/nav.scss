@@ -81,15 +81,13 @@
     .toggle-line {
       height: 4px;
       background-color: $blue;
-      
       width: 100%;
       display: block;
       transform-origin: center;
-      @include transition(transform)
+      @include transition(transform);
       &.middle {
         margin: 4px 0;
       }
-
     }
     &.active {
       .toggle-line {
