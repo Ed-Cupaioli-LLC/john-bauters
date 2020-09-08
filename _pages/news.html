@@ -25,7 +25,7 @@ intro:
           <h4 class="post-title">{{ post.title }}</h4>
           <div class="post-excerpt">{{ post.content | strip_html | truncate: 450, "..."}}</div>
           <div class="post-link">
-            <a href="{{ post.url }}">Read more</a>
+            <a href="{{ post.url | relative_url }}">Read more</a>
           </div>
         </div>
         {% endfor %}
