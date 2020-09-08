@@ -5,6 +5,7 @@ meta_img:
 twitter:
 favicon: /img/favicon-32x32.png
 url:
+baseurl: /john-bauters/
 gtm: GTM-W6NH8XF
 schema:
   name: John Bauters

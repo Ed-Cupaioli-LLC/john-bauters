@@ -66,7 +66,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </script>
 <!-- CSS -->
 {% include base.html %}
-<link href="{{ base }}/css/style.css" rel="stylesheet" type="text/css">
+<link href="{{'/css/style.css' | relative_url }}" rel="stylesheet" type="text/css">
 {% if layout.css %}
   {% assign page-css = layout.css %}
 {% endif %}
@@ -74,7 +74,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   {% assign page-css = page.css %}
 {% endif %}
 {% if page-css %}
-<link rel="stylesheet" href="{{ base }}/css/{{ page-css }}.css">
+{%- capture page-css-path -%}
+  /css/{{ page.css }}.css
+{%- endcapture -%}
+<link rel="stylesheet" href="{{ page-css-path | relative_url }}">
 {% endif %}
 <!-- Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -90,7 +93,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     FB.init({
       appId            : '3046085655520574',
       autoLogAppEvents : false,
-      xfbml            : true,
+      xfbml            : false,
       version          : 'v8.0'
     });
   };
