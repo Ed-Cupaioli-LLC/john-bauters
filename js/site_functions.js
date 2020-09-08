@@ -31,7 +31,6 @@ $(function(){
   });
   
   $(window).on('scroll',function(e) {    
-    console.log(e);
     var scroll = $(window).scrollTop();
     if (scroll > 100) {
       $('#site-nav').addClass('sticky');
