@@ -120,7 +120,7 @@ footer:
             {% endfor %}
           </div>
           <div class="view-more">
-            <a class="btn alt" href="/blog">View more</a>
+            <a class="btn alt" href="{{ '/blog' | relative_url }}">View more</a>
           </div>
         </div>
       </div>
@@ -130,7 +130,7 @@ footer:
     <div class="inner-section">
       <div class="donate-box">
         <h4>{{ page.donate.text }}</h4>
-        <a href="{{ base }}/donate" class="btn alt">Donate</a>
+        <a href="{{'/donate' | relative_url }}" class="btn alt">Donate</a>
       </div>
     </div>
   </section>
