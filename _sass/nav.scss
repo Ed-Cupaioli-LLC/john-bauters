@@ -8,9 +8,6 @@
   width: 100%;
   z-index: 11;
   background-color: $white;
-  &.active {
-    @include box-shadow;
-  }
   .nav-logo {
     flex: 0 1 auto;
     
@@ -20,6 +17,9 @@
         height: 65px;
       }  
     }
+  }
+  &.sticky {
+    @include box-shadow;
   }
   .nav-links {
     display: flex;

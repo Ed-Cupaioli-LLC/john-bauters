@@ -1,13 +1,18 @@
 <form id="{{ include.form-id }}" class="update-form">
-  <div class="form-field">
-    <label>Email</label>
-    <input type="email" name="" placeholder="example@email.com" required>
+  <div class="form-body">
+    <div class="form-field">
+      <label>Email</label>
+      <input type="email" name="entry.2142821215" placeholder="example@email.com" required>
+    </div>
+    <div class="form-field">
+      <label>Zip code</label>
+      <input type="text" name="entry.1429615735" placeholder="12345" limit="5">
+    </div>
+    <div class="submit-field">
+      <button type="submit" class="btn alt">Sign up</button>
+    </div>
   </div>
-  <div class="form-field">
-    <label>Zip code</label>
-    <input type="text" name="" placeholder="12345">
-  </div>
-  <div class="submit-field">
-    <button type="submit" class="btn alt">Sign up</button>
+  <div class="form-success">
+    Thanks for signing up. We'll be in touch soon.
   </div>
 </form>
