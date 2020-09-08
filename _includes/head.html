@@ -75,7 +75,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 {% endif %}
 {% if page-css %}
 {%- capture page-css-path -%}
-  /css/{{ page.css }}.css
+  /css/{{ page-css }}.css
 {%- endcapture -%}
 <link rel="stylesheet" href="{{ page-css-path | relative_url }}">
 {% endif %}
