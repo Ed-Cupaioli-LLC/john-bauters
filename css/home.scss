@@ -43,6 +43,9 @@
   #issues {
     background-color: $blue;
     padding: 0;
+    .title-card {
+      max-width: 450px;
+    }
     .bg-image {
       height: 495px;
       background-image: url('../img/issues-bg.jpg');
