@@ -9,4 +9,4 @@ fields:
   label: Title
   description: The title of your blog post
 pages:
-- _posts/test-post.md
+- _posts/2020-09-09-test-post.md
