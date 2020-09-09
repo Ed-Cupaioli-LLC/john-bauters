@@ -3,10 +3,15 @@
 @import "mixins.scss";
 @import "vars.scss";
 #about {
+
   #about-content {
+    padding-top: 1rem;
     @include bp-large {
-      padding-top: 0;
+      padding-top: 0;  
       margin-top: -1em;
+    }
+    img {
+      margin: 2rem auto;
     }
     ul {
       padding-left: 0;
