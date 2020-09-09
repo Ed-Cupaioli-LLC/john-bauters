@@ -109,7 +109,7 @@ footer:
           <div id="recent-posts">
             {% for post in site.posts limit: 3 %}
             <div class="media-item">
-              <a class="media-title" href="{{post.url}}">{{ post.title }}</a>
+              <a class="media-title" href="{{post.url | relative_url }}">{{ post.title }}</a>
               <div class="media-content">
                 {{ post.content | strip_html | truncate: 200, '...'}}
               </div>
