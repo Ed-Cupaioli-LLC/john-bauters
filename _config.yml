@@ -49,4 +49,5 @@ defaults:
 - scope: 
     type: 'posts'
   values: 
-    layout: 'post'      
+    layout: 'post'
+    permalink: /:year/:month/:day/:title/     
