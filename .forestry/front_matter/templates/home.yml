@@ -1,0 +1,63 @@
+---
+label: Home
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: css
+  label: css
+- type: field_group
+  name: intro
+  label: intro
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: text
+    label: text
+- type: field_group
+  name: issues
+  label: issues
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: text
+    label: text
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: link
+      label: link
+- type: field_group
+  name: donate
+  label: donate
+  fields:
+  - type: text
+    name: text
+    label: text
+- type: field_group
+  name: footer
+  label: footer
+  fields:
+  - type: text
+    name: class
+    label: class
