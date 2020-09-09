@@ -1,6 +1,7 @@
 #site-footer {
   background-color: $yellow;
   color: $blue;
+  padding: 2rem;
   &.blue {
     background-color: $blue;
     color: $white;
@@ -19,10 +20,12 @@
     display: flex;
     align-items: center;
     flex-flow: row wrap;
-    padding: 2rem;
+    
+    max-width: $size-x-large;
+    margin: auto;
     @include bp-large {
       flex-flow: column wrap;
-      padding: 2rem;
+      
     }
     .footer-logo {
       width: 25%;

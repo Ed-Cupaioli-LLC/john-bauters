@@ -76,12 +76,12 @@ footer:
       </div>
       <div class="section-text">
       {{ page.issues.text | markdownify }}
-      <a class="btn alt" href="{{ base }}/issues/">Learn More</a>
+      <a class="btn alt" href="/issues/">Learn More</a>
       </div>
       <div class="issues-grid">
       {% for issue in page.issues.items %}
       <div class="issue-col">
-        <a class="issue-box" href="{{ base }}{{ issue.link }}">
+        <a class="issue-box" href="{{ issue.link | relative_url }}">
           <div class="issue-img">
             <img src="{{ issue.image | relative_url }}" alt="image for {{ issue.title }}">
           </div>

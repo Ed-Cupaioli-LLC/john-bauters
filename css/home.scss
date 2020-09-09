@@ -10,6 +10,9 @@
     .intro-title-card {
       text-align: left;
       width: 50%;
+      h1 {
+        margin-bottom: 1.5rem;
+      }
       @include bp-large {
         width: 100%;
         text-align: center;
