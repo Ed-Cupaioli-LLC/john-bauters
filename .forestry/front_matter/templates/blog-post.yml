@@ -8,5 +8,3 @@ fields:
     required: false
   label: Title
   description: The title of your blog post
-pages:
-- _posts/2020-09-09-test-post.md
