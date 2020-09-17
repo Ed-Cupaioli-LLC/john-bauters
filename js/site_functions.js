@@ -9,15 +9,22 @@ $(function(){
     $('#form-overlay').addClass('active');
   });
   // Contact form 
+  // Mailchimp API 9d509d30cf6c52a850b0d37521950352-us2
   $('.update-form').submit(function(e) {
     e.preventDefault();
     var formId = $(this).attr('id');
     formId = "#"+formId;
     $.ajax({
-      url: 'https://docs.google.com/forms/d/e/1FAIpQLSe-iyg6KnTtvk1Tet43-4woEwZMMV_8gscEglLsLrpMkDVZOg/formResponse',     
+      url: 'https://johnbauters.us2.list-manage.com/subscribe/post?u=d1f6edf445667bd79d1370688&amp;id=8d8f66dcce',     
       data: $(formId).serialize(), 
-      type: 'GET',
-      crossorigin: true 
+      type: 'POST',
+      crossorigin: true,
+      success: function(data) {
+        console.log(data);
+      },
+      error: function(data) {
+        console.log(data);
+      }
     }).always(function() {
       $(formId+'.update-form .form-body').slideUp();
       $(formId+'.update-form .form-success').slideDown();
