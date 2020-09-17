@@ -3,7 +3,14 @@
 @import "mixins.scss";
 @import "vars.scss";
 #news {
-
+  #hero {
+    background-image: url('/img/news-bg.jpg');
+    background-position: center;
+    height: 600px;
+    @include bp-medium {
+      height: 300px;
+    }
+  }
   #intro {
     .intro-title-card {
       @include bp-medium {
