@@ -78,8 +78,11 @@
         justify-content: center;
         align-items: center;
         .logo {
-          flex: 1 0 33%;
+          flex: 1 0 25%;
           padding: 1rem;
+          @include bp-large {
+            flex: 1 1 33%;
+          }  
         }
       }
     }
