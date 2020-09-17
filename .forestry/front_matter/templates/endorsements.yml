@@ -1,16 +1,10 @@
 ---
 label: Endorsements
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: permalink
-  label: permalink
-- type: text
-  name: css
-  label: css
 - type: field_group
   name: intro
   label: intro
