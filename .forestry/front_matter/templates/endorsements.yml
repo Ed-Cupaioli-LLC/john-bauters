@@ -15,6 +15,10 @@ fields:
   - type: textarea
     name: text
     label: text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 - type: field_group
   name: org-endorsements
   label: org-endorsements
@@ -41,6 +45,10 @@ fields:
   - type: textarea
     name: disclaimer
     label: disclaimer
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: file
     name: image
     label: image
