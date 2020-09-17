@@ -10,7 +10,6 @@
   background-color: $white;
   .nav-logo {
     flex: 0 1 auto;
-    
     svg {
       height: 100px;
       @include bp-small {
