@@ -106,6 +106,30 @@
 }
 //update form 
 .update-form {
+  .form-body {
+    display: flex;
+    flex-flow: row wrap;
+    .form-field {
+      &.fname {
+        padding-right: 1rem;
+      }
+      &.fname, &.lname {
+        width: 50%;
+      }
+      &.email {
+        width: 100%;
+      }
+      .mce_inline_error {
+        font-weight: bold;
+      }
+    }
+    .submit-field {
+      flex: 1 0 100%;   
+    }
+  }
+  #mce-responses {
+    font-weight: bold;
+  }
   .form-success {
     display: none;
     padding: 1rem;
