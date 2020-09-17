@@ -1,0 +1,52 @@
+---
+label: Endorsements
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: css
+  label: css
+- type: field_group
+  name: intro
+  label: intro
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: text
+    label: text
+- type: field_group
+  name: org-endorsements
+  label: org-endorsements
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: list
+    name: list
+    label: list
+  - type: image_gallery
+    name: logos
+    label: logos
+- type: field_group
+  name: leader-endorsements
+  label: leader-endorsements
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: list
+    name: list
+    label: list
+  - type: textarea
+    name: disclaimer
+    label: disclaimer
+  - type: file
+    name: image
+    label: image
