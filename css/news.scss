@@ -12,13 +12,30 @@
     }
   }
   #intro {
+    padding-bottom: 0;
     .intro-title-card {
       @include bp-medium {
         padding-bottom: 1rem;
         text-align: left;
         width: 100%;
+        margin: 0;
       }
+      .intro-text {
+        padding-top: 2rem;
+        @include bp-medium {
+          padding: 1rem 0;
+        }
+        h3 {
+         margin-bottom: 1rem;   
+        }
+        #news-intro-form {
+          
+          max-width: 400px;
+        }
+      }
+      
     }
+
   }
   #posts {
     @include bp-medium {

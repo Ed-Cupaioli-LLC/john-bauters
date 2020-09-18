@@ -106,6 +106,42 @@
 }
 //update form 
 .update-form {
+  .form-body {
+    display: flex;
+    flex-flow: row wrap;
+    position: relative;
+    .form-field {
+      &.fname {
+        padding-right: 1rem;
+      }
+      &.fname, &.lname {
+        width: 50%;
+      }
+      &.email {
+        width: 100%;
+      }
+      .mce_inline_error {
+        font-weight: bold;
+      }
+    }
+    .submit-field {
+      flex: 1 0 100%;   
+    }
+  }
+  #mce-responses {
+    font-weight: bold;
+    
+  }
+  #mce-success-response {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 5;
+    background-color: $blue;
+    color: $white;
+  }
   .form-success {
     display: none;
     padding: 1rem;
