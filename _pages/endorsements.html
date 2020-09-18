@@ -25,30 +25,30 @@ org-endorsements:
     logo: "/img/victory-fund-logo.png"
 leader-endorsements:
   title: California State and Local Leaders
-  list:
-  - California State Senator Nancy Skinner
-  - California State Assemblymember Buffy Wicks
-  - California State Assemblymember Lorena Gonzalez
-  - Bay Area Rapid Transit District Director Rebecca Saltzman
-  - Alameda County Supervisor Keith Carson
-  - Alameda County Supervisor Scott Haggerty
-  - Alameda County Supervisor Nate Miley
-  - Alameda County Supervisor Richard Valle
-  - Alameda County Transit Board Director Elsa Ortiz
-  - Alameda Mayor Marilyn Ezzy-Ashcraft
-  - Alameda City Councilmember Jim Oddie
-  - Alameda City Councilmember Malia Vella
-  - Berkeley Mayor Jesse Arreguin
-  - Berkeley City Councilmember Lori Droste
-  - Berkeley City Councilmember Susan Wengraf
-  - Berkeley City Councilmember Rigel Robinzon
-  - Dublin City Councilmember Shawn Kumagai
-  - El Cerrito City Councilmember Gabriel Quinto
-  - Piedmont Councilmember Tim Rood
-  - San Leandro City Councilmember Pauline Cutter
-  - Tracy City Councilmember Dan Arriola
-  - Frank Mecca, Executive Director, County Welfare Directors Association of California*
-  - Ben Hofer, Executive Director, Secure Justice*
+  list: |-
+    - California State Senator Nancy Skinner
+    - California State Assemblymember Buffy Wicks
+    - California State Assemblymember Lorena Gonzalez
+    - Bay Area Rapid Transit District Director Rebecca Saltzman
+    - Alameda County Supervisor Keith Carson
+    - Alameda County Supervisor Scott Haggerty
+    - Alameda County Supervisor Nate Miley
+    - Alameda County Supervisor Richard Valle
+    - Alameda County Transit Board Director Elsa Ortiz
+    - Alameda Mayor Marilyn Ezzy-Ashcraft
+    - Alameda City Councilmember Jim Oddie
+    - Alameda City Councilmember Malia Vella
+    - Berkeley Mayor Jesse Arreguin
+    - Berkeley City Councilmember Lori Droste
+    - Berkeley City Councilmember Susan Wengraf
+    - Berkeley City Councilmember Rigel Robinzon
+    - Dublin City Councilmember Shawn Kumagai
+    - El Cerrito City Councilmember Gabriel Quinto
+    - Piedmont Councilmember Tim Rood
+    - San Leandro City Councilmember Pauline Cutter
+    - Tracy City Councilmember Dan Arriola
+    - Frank Mecca, Executive Director, County Welfare Directors Association of California*
+    - Ben Hofer, Executive Director, Secure Justice*
   disclaimer: "*Organizations listed for identification purposes only. All public
     elected office titles are listed for identification purposes only."
   image: "/img/john-with-supporter.jpg"
@@ -82,14 +82,8 @@ leader-endorsements:
     <div class="inner-section">
       <h4>{{ page.leader-endorsements.title}}</h4>
       <div class="list">
-        <ul>
-          {% for endorsement in page.leader-endorsements.list %}
-          <li>{{ endorsement }}</li>
-          {% endfor %}
-        </ul>
+        {{ page.leader-endorsements.list | markdownify }}
       </div>
-
-      
       <div class="disclaimer">
         {{ page.leader-endorsements.disclaimer }}
       </div>
