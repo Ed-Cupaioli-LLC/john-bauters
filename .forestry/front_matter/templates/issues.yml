@@ -48,3 +48,5 @@ fields:
   - type: textarea
     name: text
     label: text
+pages:
+- _pages/issues.html
