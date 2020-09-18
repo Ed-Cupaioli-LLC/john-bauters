@@ -109,6 +109,7 @@
   .form-body {
     display: flex;
     flex-flow: row wrap;
+    position: relative;
     .form-field {
       &.fname {
         padding-right: 1rem;
@@ -129,6 +130,17 @@
   }
   #mce-responses {
     font-weight: bold;
+    
+  }
+  #mce-success-response {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 5;
+    background-color: $blue;
+    color: $white;
   }
   .form-success {
     display: none;
