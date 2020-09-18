@@ -9,21 +9,20 @@ intro:
 org-endorsements:
   title: Organizations
   list:
-  - Alameda County Democratic Party
-  - Building Trades Council of Alameda County
-  - Carpenters, Local 713
-  - International Association of Firefighters, Local 55
-  - United Food and Commercial Workers, Local 5
-  - Sierra Club
-  - Victory Fund
-  logos:
-  - "/img/alameda-dems-logo.png"
-  - "/img/construction-union-logo.png"
-  - "/img/carpenters.jpg"
-  - "/img/firefighters-union-logo.png"
-  - "/img/ufcw5.png"
-  - "/img/sierra-club-logo.png"
-  - "/img/victory-fund-logo.png"
+  - title: Alameda County Democratic Party
+    logo: "/img/alameda-dems-logo.png"
+  - title: Building Trades Council of Alameda County
+    logo: "/img/construction-union-logo.png"
+  - title: Carpenters, Local 713
+    logo: "/img/carpenters.jpg"
+  - title: International Association of Firefighters, Local 55
+    logo: "/img/firefighters-union-logo.png"
+  - title: United Food and Commercial Workers, Local 5
+    logo: "/img/ufcw5.png"
+  - title: Sierra Club
+    logo: "/img/sierra-club-logo.png"
+  - title: Victory Fund
+    logo: "/img/victory-fund-logo.png"
 leader-endorsements:
   title: California State and Local Leaders
   list:
@@ -64,15 +63,15 @@ leader-endorsements:
         <h4>{{ page.org-endorsements.title }}</h4>
         <ul>
           {% for endorsement in page.org-endorsements.list %}
-          <li>{{ endorsement}}</li>
+          <li>{{ endorsement.title }}</li>
           {% endfor %}
         </ul>
       </div>
       <div class="logos-col">
         <div class="logos-grid">
-          {% for logo in page.org-endorsements.logos %}
+          {% for endorsement in page.org-endorsements.list %}
           <div class="logo">
-            <img src="{{ logo | relative_url }}" />
+            <img src="{{ endorsement.logo | relative_url }}" />
           </div>
           {% endfor %}
         </div>
