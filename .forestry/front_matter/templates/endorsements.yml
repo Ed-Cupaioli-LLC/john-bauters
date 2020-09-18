@@ -39,12 +39,15 @@ fields:
   - type: text
     name: title
     label: title
-  - type: list
-    name: list
+  - name: list
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: list
-  - type: textarea
-    name: disclaimer
-    label: disclaimer
   - type: file
     name: image
     label: image
