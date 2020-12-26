@@ -8,3 +8,5 @@ fields:
     required: false
   label: Title
   description: The title of your blog post
+pages:
+- _posts/2020-wrap-up-progress-on-priorities.md
