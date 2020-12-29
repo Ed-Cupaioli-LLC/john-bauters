@@ -110,6 +110,12 @@ _2021 Emeryville City Council_
 
 ![](/img/council-2021.png)Normally, this is where I post the annual photo of the Emeryville City Council taken at our December meeting after we have reorganized to select our new Mayor and Vice Mayor for the following year. Because we have met remotely all year, that group picture was not taken, so I have shared our city website's council reorg photo instead. Congratulations to my colleagues Dianne Martinez for being selected to serve as our city's Mayor and Scott Donahue for being selected as Vice Mayor for 2021. Congratulations to Councilmember Patz for completing a challenging year as Emeryville's Mayor. [**You can learn more about the members of the Emeryville City Council here.**](http://www.emeryville.org/382/Council-Members) The city will be updating this page in early 2021 to contain additional information about council committee assignments, roles, and other functions to help better connect you with your elected representatives on the issues important to you.
 
+As always you can reach me at jbauters@emeryville.org
+
+I am on Twitter at @JohnBauters
+
+If you'd like to get the quarterly updates I post during the year sent to your inbox, please subscribe on my website.
+
 I wish all of you peace, health and safety during these challenging times. Together, we can get through this pandemic with patience, mutual support, and a commitment to rebuild stronger. Hoping that I will see many of you in person at some point during 2021.
 
 Cheers,
