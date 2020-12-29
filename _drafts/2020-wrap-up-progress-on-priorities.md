@@ -38,7 +38,7 @@ Emeryville continues to be a regional leader on affordable housing and tenant pr
 
 ![Shewin Williams site rendering](/img/sherwin-williams.jpg)
 
-* _6701 Shellmound ("Nady Site"):_ The long-abandoned Nady property at the Shellmound Street off-ramp was cleared in December 2018/January 2019 to make way for a new, 186-unit project. The project involves some complex jurisdictional issues related to an encampment abutting the city property on Caltrans right-of-way. The city continues to work with the site developer, Caltrans, and the City of Berkeley to meet state requirements that would allow for building to being at the site.
+* _6701 Shellmound ("Nady Site"):_ The long-abandoned Nady property at the Shellmound Street off-ramp was cleared in December 2018/January 2019 to make way for a new, 186-unit project. The project involves some complex jurisdictional issues related to an encampment abutting the city property on Caltrans right-of-way. The city continues to work with the site developer, Caltrans, the City of Berkeley, our homeless services providers, and advocates to help ensure the construction can begin in early 2021 while offering services to those currently living on the Caltrans offramp.
 * _Public Market:_ Tenants moved into Marketplace Parcel D (the Avalon on the old theater site) this year and the units wrapping around the parking structure on Parcel C2 are being finalized for occupancy.
 * [**You can check monthly updates on all pending projects in the city at this link.**](https://www.ci.emeryville.ca.us/archive.aspx?AMID=40&Type=&ADID=)
 
