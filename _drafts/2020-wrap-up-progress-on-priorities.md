@@ -62,7 +62,7 @@ _2020 Progress on Priority #3_
 
 After opening two new community parks in 2018, the city continued design and development on new parks this year, with a couple anticipated openings in 2021.
 
-* _New Parks Coming:_ The city anticipates opening two new parks in 2021. The first is the [**Horton Landing Park**](http://www.emeryville.org/DocumentCenter/View/502/study?bidId=), which Is connected to the new South Bayfront Bridge (discussed below in Transit). The second is Davenport Park, just west of Trader Vic's on the north side of Powell Street. When complete, it will offer a play structure for families out on the peninsula.
+* _New Parks Coming:_ The city anticipates opening two new parks in 2021. The first is the [**Horton Landing Park**](http://www.emeryville.org/DocumentCenter/View/502/study?bidId=), which is connected to the new South Bayfront Bridge (discussed below in Transit). The second is Davenport Park, just west of Trader Vic's on the north side of Powell Street. When complete, it will offer a play structure for families out on the peninsula. _Below: Image of layout for Davenport Park (please note that the bottom of the photo is north)._
 
 ![Diagram of Davenport Park Plan](/img/davenport-park.jpg)
 
