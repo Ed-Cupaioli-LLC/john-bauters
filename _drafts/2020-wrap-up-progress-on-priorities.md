@@ -114,7 +114,7 @@ As always you can reach me at jbauters@emeryville.org
 
 I am on Twitter at @JohnBauters
 
-If you'd like to get the quarterly updates I post during the year sent to your inbox, please subscribe on my website.
+If you'd like to get the quarterly updates I post during the year sent to your inbox, please subscribe down below on the right.
 
 I wish all of you peace, health and safety during these challenging times. Together, we can get through this pandemic with patience, mutual support, and a commitment to rebuild stronger. Hoping that I will see many of you in person at some point during 2021.
 
