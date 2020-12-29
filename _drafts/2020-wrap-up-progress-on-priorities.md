@@ -28,7 +28,7 @@ Emeryville continues to be a regional leader on affordable housing and tenant pr
 
 ![Rendering of the Future 3600 San Pablo Ave.](/img/3600-san-pablo-emeryville-affordable-01.jpg "Rendering of Future 3600 San Pablo Ave.")
 
-* _Measure C (2018):_ The city council reviewed the draft expenditure plan for Emeryville's $50M affordable housing bond in December. [**You can review the draft Measure C Expenditure Plan here.**](https://emeryville.legistar.com/View.ashx?M=F&ID=8972934&GUID=6DFAF9DC-7D9E-4859-B55A-7526F8312BCA)
+* _Measure C (2018):_ The city council reviewed the draft expenditure plan for Emeryville's $50M affordable housing bond in December and anticipates approving it early in 2021. [**You can review the draft Measure C Expenditure Plan here.**](https://emeryville.legistar.com/View.ashx?M=F&ID=8972934&GUID=6DFAF9DC-7D9E-4859-B55A-7526F8312BCA)
 * _COVID Relief:_ 2020 posed unique challenges to community members when the state and county health officers closed various elements of the state and local economy in an effort to combat the spread of COVID-19. The city responded quickly, enacting one of the state's strongest eviction moratoria and turning $400,000 in disaster relief funds into emergency rental assistance for lower-income renters. [**You can learn more about the various protections and provisions in place here.**](http://www.emeryville.org/1364/COVID-19-Housing-Resources#:\~:text=The%20Emeryville%20City%20Council%20approved,to%20the%20COVID%2D%2019%20pandemic.)
 
 _2016 Campaign Priorities Statement #2_
