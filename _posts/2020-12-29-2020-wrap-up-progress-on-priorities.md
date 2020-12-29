@@ -1,5 +1,5 @@
 ---
-title: '2020 WRAP-UP: PROGRESS ON PRIORITIES'
+title: '2020 Wrap-Up: Progress on Priorities'
 
 ---
 ![2020 Emeryville City Council](/img/2020-council.png "2020 Emeryville City Council")
