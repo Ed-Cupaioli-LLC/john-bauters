@@ -1,5 +1,5 @@
 ---
-title: COP26, Nature & Mental Health, South Bayfront Bridge, ECAP Holiday Dinner
+title: COP26, South Bayfront Bridge, ECAP Holiday Dinner, Nature & Mental Health
 
 ---
 Hello Emeryville Neighbors and Friends. It's been a while since we've had a community update, so I intend to put 2-4 posts out between now and the end of January, capturing important updates on housing, development, transportation and other infrastructure projects around the city and the East Bay, among other things. As always, if you have questions about local happenings, or a subject/topic you would like to suggest for inclusion in a future post, don't hesitate to drop me a note.
@@ -26,4 +26,18 @@ I had the opportunity to meet with local elected officials from around the world
 
 Fellow Air District representative Davina Hurt and I responded to media inquiries about COP 26 from Glasgow and answered questions about what was going on live in the conference. [That interview is available here on Facebook if you'd like to hear more.](https://fb.watch/9pddbrAfqn/)
 
-Finally, one short story to share about my time at COP 26 came Thursday morning on my walk to the Scottish Event Campus. There were hoards of Scottish school children along the riverfront, donning climate action apparel they had made in class. They were waiting for _Little Amal_, a large, human-operated marionette. Over 4 million people globally will be displaced due to sea level rise and other climate impacts. These are climate refugees. You can learn about _Little Amal_ here - the depiction of a young Syrian climate refugee. The children had lined up to greet her as she finished her global trip from Syria to Scotland. I waited with the first school and met with students and teachers to learn about how they were studying climate change. I was there when _Little Amal_ arrived and filmed the event. We must take our responsibility to be good stewards of the planet seriously to ensure that younger and future generations have the opportunity to live healthy, thriving lives. Enjoy.
+Finally, one short story to share about my time at COP 26 came Thursday morning on my walk to the Scottish Event Campus. There were hoards of Scottish school children along the riverfront, donning climate action apparel they had made in class. They were waiting for _Little Amal_, a large, human-operated marionette. Over 4 million people globally will be displaced due to sea level rise and other climate impacts. These are climate refugees. [You can learn about _Little Amal_ here](https://www.walkwithamal.org/about-us/little-amal/) - the depiction of a young Syrian climate refugee. The children had lined up to greet her as she finished her global trip from Syria to Scotland. I waited with the first school and met with students and teachers to learn about how they were studying climate change. I was there when _Little Amal_ arrived and filmed the event. She was more popular than a celebrity to these schoolchildren. We must take our responsibility to be good stewards of the planet seriously to ensure that younger and future generations have the opportunity to live healthy, thriving lives. 
+
+![](/img/img_6432.jpg)
+
+**South Bayfront Bridge Grand Opening is December 3rd**
+
+The long-awaited opening of the city's newest bicycle-pedestrian infrastructure will open on the evening of Friday, December 3rd. The city will host the Christmas Tree Lighting at City Hall at 5:30pm and this year our parade will begin at City Hall and process down Hollis to 53rd Street and then west to the eastern approach of the new bridge, between Horton Street and the UPRR. There will be a ribbon cutting event to celebrate the completion of a project first envisioned by the city 15 years ago that survived the state's dissolution of redevelopment, delays by the railroad, and other challenges but will nonetheless now offer a safe, car-free east-west route for residents and visitors across the railroad tracks through the southern part of the city. Bay Street Emeryville will be hosting a party with food and festivities when we cross to the other side so please join us for an evening of fun!
+
+**ECAP Holiday Dinner - _YOUR HELP IS NEEDED!!!_**
+
+Every year, the Emeryville Citizen's Assistance Program (ECAP) serves over 200,000 meals to people with the greatest unmet need across northern Alameda County. ECAP first opened over 30 years ago under the leadership of former Emeryville Councilmember Nellie Mae Hannon. The organization is run entirely by volunteers out of their small location at 3610 San Pablo Avenue.
+
+ECAP prepares and delivers Thanksgiving and Christmas dinners to our unhoused neighbors across the region, bringing nutrition, compassion and joy to many people who are the most in need. This year, due to some changes in the distribution chain, **_ECAP is 500 turkeys short of what is needed to feed people in keeping with this tradition_**. They have an opportunity to purchase turkey at a wholesale rate but are desperately in need of local donations and support to make this possible. 
+
+Please make a donation of any size to help those who are hungry and less fortunate amongst us. [YOU CAN DONATE HERE.](https://www.paypal.com/donate/?hosted_button_id=V463ET3MCDUAL)
