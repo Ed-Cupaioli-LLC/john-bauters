@@ -36,34 +36,38 @@ I am proud that Emeryville continues to be a regional leader on affordable housi
 
 ![Shewin Williams site rendering](https://johnbauters.net/img/sherwin-williams.jpg)
 
-* _6701 Shellmound (“Nady Site”):_ The long-abandoned Nady property at the Shellmound Street off-ramp was cleared in December 2018/January 2019 to make way for a new, 186-unit project. The project is under construction and will likely be completed in 2023.
+* _6701 Shellmound (“Nady Site”):_ The long-abandoned Nady property at the Shellmound Street off-ramp was cleared in January 2019 to make way for a new, 186-unit project. The project is under construction and will likely be completed in 2023.
+* _3840 Adeline Street ("MAZ Building"):_ The property at the corner of Adeline, MacArthur, and San Pablo Avenues [**that was twice the victim of arson**](https://www.mercurynews.com/2020/04/27/emeryville-105-unit-apartment-twice-torched-by-arsonists-to-be-donated-to-uc-berkeley-for-student-housing/) was completed and opened in 2021. Local developer Rick Holliday dedicated all 105 of the units as affordable graduate student housing in a gift to UC Berkeley.
 * [**You can check monthly updates on all pending projects in the city at this link.**](https://www.ci.emeryville.ca.us/archive.aspx?AMID=40&Type=&ADID=)
 
-2. **_Public Safety Planning_**
+2. **_Public Safety_** 
 
-In March, voters overwhelmingly approved Measure F, the city’s quarter-cent sales tax to support public safety, code enforcement, public works and early child education services. The council identified this suite of investments to bolster our public safety, infrastructure safety, and prevention programs.
+The primary public safety challenge across the Bay Area remains auto burglaries. These tend to opportunize visitors at our local shopping center parking lots in particular. EPD continues to partner with private property commercial owners to implement prevention strategies that help reduce victimization. 
 
-* 
+* _Bay Street Improvements:_ Bay Street changed ownership this past year. I have been meeting regularly with their new ownership group, who are very motivated to bring safety enhancements to the project. Look for new lighting, garage security and physical presence at Bay Street in 2022. They are also actively engaged in the development review process to make additional changes to Bay Street that will increase community safety.
+* _Fire Safety:_ The city had no significant fire-related calls for service in 2021.
 
 3. **_Parks, Open Space & Environmentalism_**
 
-The city has been a regional leader on environmental issues
+The city is a regional leader on environmental issues, and we continue to work toward a more sustainable future that recognizes the importance of our community being part of the climate action solution. Below are a few of the things we were  up to in 2021.
 
 * _Point Emery:_ The city has been looking to save Point Emery from erosion for the past few years. This past summer, the Bay Conservation and Development Commission (BCDC), the agency with jurisdiction over Bay Area shorelines, approved the city's proposal for restoring Point Emery, which will include some new features like a path and bench seating. [**You can review all the documents related to the proposal under agenda item 8 from BCDC's summer meeting**](https://www.bcdc.ca.gov/cm/2021/07-15-agenda.html). Construction will begin on June 15, 2022 and will last 6-8 weeks. _Below: Diagram of improvements coming to Point Emery._
 
 ![](/img/screen-shot-2022-01-01-at-10-48-19-am.png)
 
-* _Horton Landing Park:_ The Horton Landing Park opened to the public on December 3, 2021 in conjunction with the South Bayfront Bridge _(see below)_. This park is slated to be expanded to the south to include open space and a dog park facility between the east end of the bridge and the north end of the Sherwin Williams development. These park facilities will be completed in 2023. _Below: Horton Landing Park and newest extension of the Emeryville Greenway._
+* _Horton Landing Park:_ The Horton Landing Park opened to the public on December 3, 2021 in conjunction with the South Bayfront Bridge _(see below)_. This park is slated to be expanded to the south to include open space and a dog park facility between the east end of the bridge and the north end of the Sherwin Williams development. The Emeryville Greenway will also be completed, extending south to the corner of Sherwin and Halleck Streets. These additional park facilities will be completed in 2023. _Below: Horton Landing Park and newest extension of the Emeryville Greenway._
 
   ![](/img/img_6959.jpg)
 
 
-* _Davenport Park:_ 
+* _Davenport Park:_ This park had been slated for construction this past year but faced some unexpected challenges. 
 
 ![Diagram of Davenport Park Plan](https://johnbauters.net/img/davenport-park.jpg)
 
 * _Playgrounds:_ The city's playgrounds are extremely well-loved by Emeryville children and their friends. The city is aware of the need to replace playground surfacing, update some playground facilities, and we have a goal of adding new playgrounds to parts of the city where none currently exist. For decades, Emeryville approved projects without providing ample ongoing funding for the maintenance of these facilities and others that are of importance to the community. Identifying ongoing funding to assist public works in maintaining parks, playgrounds, and for adding new ones that we can sustain will be a priority for me in 2022.
-* _Tree Survey:_ At the December 21, 2021 Council Meeting, I requested a future agenda item to discuss conducting a citywide tree survey. The city can and should identify opportunities to expand our street and private tree canopy, coordinate treewell enhancement/replacement with sidewalk work/repairs, and seek funding to better maintain our natural resource assets.
+* _Tree Survey:_ At the December 21, 2021 Council Meeting, I requested a future agenda item to discuss conducting a citywide tree survey. The city can and should identify opportunities to expand our street and private tree canopy, coordinate treewell enhancement/replacement with sidewalk work/repairs, and seek funding to better maintain our natural resource assets. Look for this to be part of a comprehensive discussion alongside park and playground maintenance in 2022. _Below: New street trees being planted along Sherwin Avenue in conjunction with the "Emery" housing project._
+
+  ![](/img/img_6853.jpg)
 * _Bay Area Air Quality Management District (BAAQMD):_ I have represented Alameda County's cities on the nine-county [**Bay Area Air Quality Management District**](https://www.baaqmd.gov/about-the-air-district/board-of-directors) Board of Directors since 2018. Over the past year, the Board has considered amendments to Rule 6-5, which regulates particulate matter emissions from Bay Area refineries. As chair of the committee that oversees refinery regulation, I spent hundreds of hours working to pass the most health-protective standard for emissions regulation _anywhere in the world_. Hundreds of Bay Area residents gave public testimony over the multi-day hearing on the rule, including many Emeryville residents. [**You can read KQED's feature story about the historic adoption of Rule 6-5 here.**](https://www.kqed.org/news/11876301/bay-area-refineries-must-dramatically-cut-pollution-air-district-says-in-historic-vote) The Board of Directors nominated and selected me to serve as Vice Chair of the Board for 2022, where I look to continue our good work in approving emissions-control regulations that protect air quality and public health.
 * _COP 26:_ I had the privilege of attending the United Nations Climate Change Conference in Glasgow, Scotland in November. [**You can read about my experience in my most recent post.**](https://johnbauters.net/2021/11/21/cop26-the-relationship-between-nature-mental-health/)
 
@@ -71,9 +75,7 @@ The city has been a regional leader on environmental issues
 
 A lot of wonderful things happened again in the transportation infrastructure space, despite 2020’s best efforts to ruin everything.
 
-* _South Bayfront Bridge:_ In the early morning hours of December 20th, the long-awaited bicycle-pedestrian [**South Bayfront Bridge**](http://www.biggscardosa.com/home/index.php/projects/transportation/pedestrian-bicycle/south-bayfront-pedestrian-bicycle-bridge), that will connect the final, southern segment of the Emeryville Greenway across the Union Pacific Railroad was installed. The construction of the approaches and the Horton Landing Park will continue, with the anticipated opening date in fall of 2021. _Below: Photo of South Bayfront Bridge installation._
-
-  ![](https://johnbauters.net/img/bridge.jpeg)
+* _South Bayfront Bridge:_ After decades of community input, a protracted legal battle over redevelopment financing with the state, design challenges from the UPRR and some delays for railing fabrication, the bicycle-pedestrian [**South Bayfront Bridge**](http://www.biggscardosa.com/home/index.php/projects/transportation/pedestrian-bicycle/south-bayfront-pedestrian-bicycle-bridge) opened to the public on December 3, 2021. The construction of the approaches and the Horton Landing Park will continue, with the anticipated opening date in fall of 2021. _Below: Photo of South Bayfront Bridge installation._
 * _COVID Slow Streets/Your New Doyle Street Greenway:_ When the pandemic began, cities looked for ways to create safe outdoor spaces for people to exercise while practicing adequate social distancing. In Emeryville, the [**Transportation Committee**](https://www.ci.emeryville.ca.us/110/Transportation-Committee) recommended that we convert parts of Doyle Street into protected active transportation space. The result was extremely popular with residents and the council received overwhelmingly positive feedback. In October, the Alameda County Transportation Commission put out $75,000 “quick-build” grants for cities that wanted to make permanent bike/ped changes. We leaped on the opportunity to make permanent improvements to Doyle Street. The result is a fully separated bike/ped space, coupled with street closures at both ends. We hope you ❤️ it as much as we do! _Below: Photo of Doyle Street, looking north from 61st Street. New permanent bollards and planters will close off portions of this street permanently to cars in the coming days._
 
   ![](https://johnbauters.net/img/doyle-street.jpeg)
