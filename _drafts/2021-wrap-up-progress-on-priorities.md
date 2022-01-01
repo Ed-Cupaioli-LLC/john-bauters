@@ -40,19 +40,10 @@ Emeryville continues to be a regional leader on affordable housing and tenant pr
 
 * _6701 Shellmound (“Nady Site”):_ The long-abandoned Nady property at the Shellmound Street off-ramp was cleared in January 2019 to make way for a new, 186-unit project. The project is under construction and will likely be completed in 2023.
 * _MAZ Building:_ This Rick Holliday development at the corner of Adeline, MacArthur and San Pablo Avenues, [**that was twice destroyed by arson**](https://www.mercurynews.com/2020/04/27/emeryville-105-unit-apartment-twice-torched-by-arsonists-to-be-donated-to-uc-berkeley-for-student-housing/), was finally completed and opened in 2021. Holliday gifted the building's 105 units to UC Berkeley for use as affordable graduate student housing. 
+* _Housing Element:_ All Bay Area cities must update their Housing Element every 8 years. The city has just undertaken the start of the yearlong process for updating the Emeryville Housing Element. [**You can learn about that process, sign up for updates, and review the calendar of events for this process on the city's website.**](https://www.ci.emeryville.ca.us/1403/2023-2031-Housing-Element)
 * [**You can check monthly updates on all pending projects in the city at this link.**](https://www.ci.emeryville.ca.us/archive.aspx?AMID=40&Type=&ADID=)
 
-**_Public Safety_**
-
-In March, voters overwhelmingly approved Measure F, the city’s quarter-cent sales tax to support public safety, code enforcement, public works and early child education services. The council identified this suite of investments to bolster our public safety, infrastructure safety, and prevention programs.
-
-* _Emeryville Measure_ 
-
-**_Parks and Open Space_** _– We have a serious shortage of green space. Civic engagement comes from making communities livable and enjoyable. I am committed to taking action to significantly increase the amount of useable park space in our community._
-
-_2020 Progress on Priority #3_
-
-After opening two new community parks in 2018, the city continued design and development on new parks this year, with a couple anticipated openings in 2021.
+**_Parks, Open Space & Environmental Issues_** _–_ 
 
 * _New Parks Coming:_ The city anticipates opening two new parks in 2021. The first is the [**Horton Landing Park**](http://www.emeryville.org/DocumentCenter/View/502/study?bidId=), which is connected to the new South Bayfront Bridge (discussed below in Transit). The second is Davenport Park, just west of Trader Vic’s on the north side of Powell Street. When complete, it will offer a play structure for families out on the peninsula. _Below: Image of layout for Davenport Park (please note that the bottom of the photo is north)._
 
@@ -81,7 +72,11 @@ A lot of wonderful things happened again in the transportation infrastructure sp
 * _Ashby Interchange:_ The [**Ashby Interchange Project**](https://www.alamedactc.org/programs-projects/highway-improvement/i-80-ashby-avenue-sr-13-interchange-improvements/) project will begin its final design phase this coming year. The original rotary-style off-ramps have been removed in favor of a tight diamond design. The project will include a new bicycle-pedestrian crossing from Emeryville to the Bay Trail, with a vista park on the marina side of the freeway. Construction is estimated to begin in early 2023 after right-of-way entitlements and other legal approvals are completed in 2022, following final design approval.
 * _Alameda CTC:_ As Emeryville’s representative to the [**Alameda County Transportation Commission**](https://www.alamedactc.org/), I was humbled to be elected the Vice Chair of the Commission in January 2020. This leadership position is traditionally two, one-year terms. I work closely with Commission Chair and Mayor of San Leandro, Pauline Cutter, as well as the 20 other representatives to the Commission in guiding the transportation policies, projects, programs and investments for Alameda County. I am very proud of the incredible work we do here in Emeryville on Transportation and Public Works, and have special gratitude for our Public Works staff, city manager, and Councilmember Medina who work closely with me in helping make Emeryville a safe, livable, and accessible community for people of all ages, incomes and abilities.
 
-_2016 Campaign Priorities Statement #5_
+**_Public Safety_**
+
+In March, voters overwhelmingly approved Measure F, the city’s quarter-cent sales tax to support public safety, code enforcement, public works and early child education services. The council identified this suite of investments to bolster our public safety, infrastructure safety, and prevention programs.
+
+* _Emeryville Measure_ 
 
 **_Small Business_** _– An important element of livability comes from supporting small, local-serving businesses that give our community character. I would like us to leverage the fees gathered from the development process to help us support and grow small business._
 
