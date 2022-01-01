@@ -22,7 +22,7 @@ As a reminder, if you’d like to track our progress over the past four years an
 * _Community Safety & Wellness_
 * _Small Business, Economic Development & Finance_
 
-1. **_Housing Affordability & Stability_**
+**_Housing Affordability & Stability_**
 
 Emeryville continues to be a regional leader on affordable housing and tenant protections. Just this past month, the SF Chronicle wrote a feature piece about the city's affordable housing practices and policies, and how we have emerged as a leader on the issue of affordable housing. [**If you missed that story, you can find it here.**]()
 
@@ -43,9 +43,9 @@ Emeryville continues to be a regional leader on affordable housing and tenant pr
 * _Housing Element:_ All Bay Area cities must update their Housing Element every 8 years. The city has just undertaken the start of the yearlong process for updating the Emeryville Housing Element. [**You can learn about that process, sign up for updates, and review the calendar of events for this process on the city's website.**](https://www.ci.emeryville.ca.us/1403/2023-2031-Housing-Element)
 * [**You can check monthly updates on all pending projects in the city at this link.**](https://www.ci.emeryville.ca.us/archive.aspx?AMID=40&Type=&ADID=)
 
-**_Parks, Open Space & Environmental Issues_** _–_ 
+**_Parks, Open Space & Environmental Issues_**
 
-Similar to housing, the city is a regional leader on environmental issues
+The city has been busy working to expand and improve open space this past year, with a couple long-awaited projects completed and a couple others approved for work in 2022. 
 
 * _Point Emery:_ For the past few years, the city has been actively working to prevent the loss of Point Emery Park to erosion. In summer 2021, the Bay Conservation and Development Commission (BCDC) approved our proposal for the rehabilitation of Point Emery. [**You can read the entire proposal by using the links under agenda item 8 from BCDC's summer meeting**](https://www.bcdc.ca.gov/cm/2021/07-15-agenda.html). The city has secured funding to deliver this natural resource restoration project. The work will include installing a path and benches at Point Emery. The work will begin June 15, 2022 and take 6-8 weeks. _Below: Diagram of improvements slated for Point Emery in 2022._
 
@@ -57,13 +57,9 @@ Similar to housing, the city is a regional leader on environmental issues
 
 ![Diagram of Davenport Park Plan](https://johnbauters.net/img/davenport-park.jpg)
 
-* _Bay Area Air Quality Management District (BAAQMD):_ I have had the honor of serving as the Alameda County cities' representative to the nine-county [**Bay Area Air Quality Management District**](https://www.baaqmd.gov/about-the-air-district/board-of-directors) since 2018. This past year, as chair of the committee that oversees refinery regulation, we adopted the most stringent particulate matter emissions regulation _in the world_ after days of months of public workshops and multiple days of public hearing. [**You can read about the historic vote on Rule 6-5 via this KQED story. **](https://www.kqed.org/news/11876301/bay-area-refineries-must-dramatically-cut-pollution-air-district-says-in-historic-vote)Thank you to the many Emeryville residents who participated in the process. The Board of Directors has elected me to serve as Vice Chair of the Board in 2022. I look forward to advancing more health-first air quality regulations in the coming year.
+* _Bay Area Air Quality Management District (BAAQMD):_ I have had the honor of serving as the Alameda County cities' representative to the nine-county [**Bay Area Air Quality Management District**](https://www.baaqmd.gov/about-the-air-district/board-of-directors) since 2018. This past year, as chair of the committee that oversees refinery regulation, we adopted the most stringent particulate matter emissions regulation _in the world_ following months of public workshops and multiple days of testimony at public hearing. [**You can read about the historic vote on Rule 6-5 via this KQED story. **](https://www.kqed.org/news/11876301/bay-area-refineries-must-dramatically-cut-pollution-air-district-says-in-historic-vote)Thank you to the many Emeryville residents who participated in the process. The Board of Directors has elected me to serve as Vice Chair of the Board in 2022. I look forward to advancing more health-first air quality regulations in the coming year.
 
-_2016 Campaign Priorities Statement #4_
-
-**_Transportation Infrastructure_** _– As we grow, we must plan for the future of transportation. We must do this with the environment and public safety in mind. I will initiate a community conversation aimed at planning for the future of growth and development in Emeryville with an emphasis on active and mass transit._
-
-_2020 Progress on Priority #4_
+**_Transportation & Public Works Infrastructure_**
 
 A lot of wonderful things happened again in the transportation infrastructure space, despite 2020’s best efforts to ruin everything.
 
@@ -79,13 +75,13 @@ A lot of wonderful things happened again in the transportation infrastructure sp
 * _Ashby Interchange:_ The [**Ashby Interchange Project**](https://www.alamedactc.org/programs-projects/highway-improvement/i-80-ashby-avenue-sr-13-interchange-improvements/) project will begin its final design phase this coming year. The original rotary-style off-ramps have been removed in favor of a tight diamond design. The project will include a new bicycle-pedestrian crossing from Emeryville to the Bay Trail, with a vista park on the marina side of the freeway. Construction is estimated to begin in early 2023 after right-of-way entitlements and other legal approvals are completed in 2022, following final design approval.
 * _Alameda CTC:_ As Emeryville’s representative to the [**Alameda County Transportation Commission**](https://www.alamedactc.org/), I was humbled to be elected the Vice Chair of the Commission in January 2020. This leadership position is traditionally two, one-year terms. I work closely with Commission Chair and Mayor of San Leandro, Pauline Cutter, as well as the 20 other representatives to the Commission in guiding the transportation policies, projects, programs and investments for Alameda County. I am very proud of the incredible work we do here in Emeryville on Transportation and Public Works, and have special gratitude for our Public Works staff, city manager, and Councilmember Medina who work closely with me in helping make Emeryville a safe, livable, and accessible community for people of all ages, incomes and abilities.
 
-**_Public Safety_**
+**_Community Safety & Wellness_**
 
-In March, voters overwhelmingly approved Measure F, the city’s quarter-cent sales tax to support public safety, code enforcement, public works and early child education services. The council identified this suite of investments to bolster our public safety, infrastructure safety, and prevention programs.
+In
 
 * _Emeryville Measure_ 
 
-**_Small Business_** _– An important element of livability comes from supporting small, local-serving businesses that give our community character. I would like us to leverage the fees gathered from the development process to help us support and grow small business._
+**_Small Business, Economic Development & Finance_** _– An important element of livability comes from supporting small, local-serving businesses that give our community character. I would like us to leverage the fees gathered from the development process to help us support and grow small business._
 
 _2020 Progress on Priority #5_
 
@@ -100,13 +96,13 @@ The COVID pandemic has been particularly harsh on our small business economy thi
 * _Small Biz Financial Aid Program:_ In November, the Alameda County Board of Supervisors announced a small business assistance program to provide grants to businesses impacted by COVID. To incentivize local participation in the program, a portion of the funds were dedicated on a first-come, first-serve basis to city’s who matched the grant amounts. The city council acted quickly, putting up $115,000 as match funding, moving Emeryville’s businesses to the front of the line for the county’s contribution. A list of awardees is expected soon.
 * You can find a comprehensive resource on federal, state, and local resources for businesses on our city’s website [**by visiting us here**](http://www.emeryville.org/1365/COVID-19-BUSINESS-RESOURCES).
 
-_2021 Emeryville City Council_
+_2022 Emeryville City Council_
 
-![](https://johnbauters.net/img/council-2021.png)Normally, this is where I post the annual photo of the Emeryville City Council taken at our December meeting after we have reorganized to select our new Mayor and Vice Mayor for the following year. Because we have met remotely all year, that group picture was not taken, so I have shared our city website’s council reorg photo instead. Congratulations to my colleagues Dianne Martinez for being selected to serve as our city’s Mayor and Scott Donahue for being selected as Vice Mayor for 2021. Congratulations to Councilmember Patz for completing a challenging year as Emeryville’s Mayor. [**You can learn more about the members of the Emeryville City Council here.**](http://www.emeryville.org/382/Council-Members) The city will be updating this page in early 2021 to contain additional information about council committee assignments, roles, and other functions to help better connect you with your elected representatives on the issues important to you.
+![](https://johnbauters.net/img/council-2021.png). [**You can learn more about the members of the Emeryville City Council here.**](http://www.emeryville.org/382/Council-Members) The city will be updating this page in early 2021 to contain additional information about council committee assignments, roles, and other functions to help better connect you with your elected representatives on the issues important to you.
 
-As always you can reach me at jbauters@emeryville.org
+As always you can reach me at [jbauters@emeryville.org](jbauters@emeryville.org)
 
-I am on Twitter at @JohnBauters
+I am on Twitter at [**@JohnBauters**](https://twitter.com/JohnBauters)
 
 If you’d like to get the quarterly updates I post during the year sent to your inbox, please subscribe down below on the right.
 
