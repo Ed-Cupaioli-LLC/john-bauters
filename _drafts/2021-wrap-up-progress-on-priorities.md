@@ -58,6 +58,7 @@ The city has been busy working to expand and improve open space this past year, 
 ![Diagram of Davenport Park Plan](https://johnbauters.net/img/davenport-park.jpg)
 
 * _Bay Area Air Quality Management District (BAAQMD):_ I have had the honor of serving as the Alameda County cities' representative to the nine-county [**Bay Area Air Quality Management District**](https://www.baaqmd.gov/about-the-air-district/board-of-directors) since 2018. This past year, as chair of the committee that oversees refinery regulation, we adopted the most stringent particulate matter emissions regulation _in the world_ following months of public workshops and multiple days of testimony at public hearing. [**You can read about the historic vote on Rule 6-5 via this KQED story. **](https://www.kqed.org/news/11876301/bay-area-refineries-must-dramatically-cut-pollution-air-district-says-in-historic-vote)Thank you to the many Emeryville residents who participated in the process. The Board of Directors has elected me to serve as Vice Chair of the Board in 2022. I look forward to advancing more health-first air quality regulations in the coming year.
+* 
 
 **_Transportation & Public Works Infrastructure_**
 
@@ -81,9 +82,7 @@ In
 
 * _Emeryville Measure_ 
 
-**_Small Business, Economic Development & Finance_** _– An important element of livability comes from supporting small, local-serving businesses that give our community character. I would like us to leverage the fees gathered from the development process to help us support and grow small business._
-
-_2020 Progress on Priority #5_
+**_Small Business, Economic Development & Finance_** 
 
 The COVID pandemic has been particularly harsh on our small business economy this past year. I’ve spent countless hours working with our local small businesses to make our small, nimble city adaptive and responsive to the needs of businesses trying to weather the pandemic and its economic impact. The city council acted unanimously and decisively on a number of initiatives this year, which have helped bridge many of our local businesses into 2021. We have more work to do, but to date our actions have included the following:
 
@@ -98,15 +97,15 @@ The COVID pandemic has been particularly harsh on our small business economy thi
 
 _2022 Emeryville City Council_
 
-![](https://johnbauters.net/img/council-2021.png). [**You can learn more about the members of the Emeryville City Council here.**](http://www.emeryville.org/382/Council-Members) The city will be updating this page in early 2021 to contain additional information about council committee assignments, roles, and other functions to help better connect you with your elected representatives on the issues important to you.
+![](/img/screen-shot-2022-01-01-at-3-23-27-pm.png)Congratulations to Dianne Martinez for completing her second term as Emeryville Mayor this past year. Her steady hand and solid leadership helped our city move through a pandemic-filled year with grace. Welcome to new council member Courtney Welch, who was sworn in to office in December. At the December council meeting, I was nominated and selected to serve as your Mayor in 2022. Ally Medina will serve as the city's Vice Mayor. I am deeply grateful for the opportunity to serve the city for a second time as it's Mayor. Look to this space in the New Year for important information about steps we'll be taking to advance important and projects of interest to you.
 
-As always you can reach me at [jbauters@emeryville.org](jbauters@emeryville.org)
+[**You can learn more about the members of the Emeryville City Council here.**](http://www.emeryville.org/382/Council-Members) 
+
+As always you can reach me at [**jbauters@emeryville.org**](jbauters@emeryville.org)
 
 I am on Twitter at [**@JohnBauters**](https://twitter.com/JohnBauters)
 
-If you’d like to get the quarterly updates I post during the year sent to your inbox, please subscribe down below on the right.
-
-I wish all of you peace, health and safety during these challenging times. Together, we can get through this pandemic with patience, mutual support, and a commitment to rebuild stronger. Hoping that I will see many of you in person at some point during 2021.
+I wish you and yours safety, health, and peace in this New Year. Remember to show kindness to your neighbors - our community is strongest when we support one another.
 
 Cheers,
 
