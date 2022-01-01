@@ -45,11 +45,16 @@ Emeryville continues to be a regional leader on affordable housing and tenant pr
 
 **_Parks, Open Space & Environmental Issues_** _–_ 
 
+Similar to housing, the city is a regional leader on environmental issues
+
+* _Point Emery:_ For the past few years, the city has been actively working to prevent the loss of Point Emery Park to erosion. In summer 2021, the Bay Conservation and Development Commission (BCDC) approved our proposal for the rehabilitation of Point Emery. [**You can read the entire proposal by using the links under agenda item 8 from BCDC's summer meeting**](https://www.bcdc.ca.gov/cm/2021/07-15-agenda.html). The city has secured funding to deliver this natural resource restoration project. The work will include installing a path and benches at Point Emery. The work will begin June 15, 2022 and take 6-8 weeks. _Below: Diagram of improvements slated for Point Emery in 2022._
+
+  ![](/img/screen-shot-2022-01-01-at-10-48-19-am.png)
 * _New Parks Coming:_ The city anticipates opening two new parks in 2021. The first is the [**Horton Landing Park**](http://www.emeryville.org/DocumentCenter/View/502/study?bidId=), which is connected to the new South Bayfront Bridge (discussed below in Transit). The second is Davenport Park, just west of Trader Vic’s on the north side of Powell Street. When complete, it will offer a play structure for families out on the peninsula. _Below: Image of layout for Davenport Park (please note that the bottom of the photo is north)._
 
 ![Diagram of Davenport Park Plan](https://johnbauters.net/img/davenport-park.jpg)
 
-* _Point Emery:_ The city is actively looking at work to prevent further erosion of Point Emery, near the Ashby Interchange. The city is currently working to get approval from the appropriate agencies to install new “rip-rap” that protects the shoreline from soil erosion so we can preserve this popular spot.
+* 
 * _Bay Area Air Quality Management District (BAAQMD):_ In 2020 I was re-elected to serve as one of Alameda County’s two city representatives to the nine-county [**Bay Area Air Quality Management District**](https://www.baaqmd.gov/about-the-air-district/board-of-directors), which oversees air quality regulation, enforcement, and monitoring. In January I was appointed chair of the District’s Stationary Source Committee, where our work is focused on rule development for the regulation of large industrial sources, including refineries, the Port, cement plants and waste disposal facilities. In November, I was selected to serve as one of the Board’s three Executive Officers, and will serve as Board Secretary for 2021. I am proud that Emeryville has been recognized for its leadership on environmental stewardship and look forward to continuing to represent our city and county at this important agency in the coming year.
 
 _2016 Campaign Priorities Statement #4_
