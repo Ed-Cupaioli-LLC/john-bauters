@@ -76,22 +76,26 @@ The city continues to leverage it's position at the geographic heart of the East
   ![](/img/screen-shot-2022-01-01-at-4-17-52-pm.png)
 * _Quiet Zones/Safe Railroad Crossings:_ After winning a State CTC grant to construct new railroad crossing safety structures in 2018, the city faced obstruction from the UPRR in approving final design plans, which were required to authorize release of the state funds. The city has finally secured the approvals after legal delays, which will now involve closing the 66th Street crossing and installation of a traffic light at 67th and Hollis. With the funding released to the city, the project is out for bid and we hope to be under construction by mid-2022. 
 * _San Pablo Avenue Corridor Plan:_ The county continues to work with the cities of Albany, Berkeley, Emeryville, Oakland and AC Transit to design and implement a new vision for the San Pablo Avenue Corridor. Based on public surveys and other studies conducted over the past two years, the county anticipates rolling out a first phase of changes to the Oakland and Emeryville segments of San Pablo in the next couple years, with BRT (Bus Rapid Transit) lanes and protected bike lanes. [**You can learn more about the project here**](https://www.alamedactc.org/programs-projects/multimodal-arterial-roads/sanpabloave/).
-* _Alameda CTC:_ I have served as the Vice Chair of the [**Alameda County Transportation Commission**](https://www.alamedactc.org/) for the past two years. The Commission will elect a new Chair and Vice Chair at the end of January to guide the agency for the next two years. There are many opportunities to make Alameda County a national leader on transportation planning and innovation. I will have a more detailed post about transportation in the spring of 2022.
+* _40th Street Redesign:_ Several years ago, as an expansion of our San Pablo/40th Street Hub Project, I asked the council to consider redesigning 40th Street. [**In 2019, we approved a conceptual design for a 40th Street that contains transit-priority lanes and a separate cycle track facility, with pedestrian enhancements.**](https://sf.streetsblog.org/2019/07/15/emeryville-approves-40th-street-protected-bike-lanes/) The city has won funding to cover most of the design costs and will be working aggressively to secure construction funding.
+* _Bay Bridge Forward:_ In 2017, I held a meeting with AC Transit to discuss opportunities for improving transbay bus service for Emeryville community members. In that meeting, I proposed a westbound, HOV/Bus-only on-ramp on the south side of Powell Street to facilitate time reduction for buses approaching the Bay Bridge, along with a dedicated bus-only lane from Powell Street to the toll plaza. After four years of work, [**the Metropolitan Transportation Commission approved and integrated these into their Bay Bridge Forward plan**](https://mtc.ca.gov/operations/programs-projects/forward-commute-initiatives/bay-bridge-forward) for modernizing how transit travels on the Bay Bridge. Design elements for the improvements are currently being refined in partnership with AC Transit and MTC. _Below: Map of Bay Bridge Forward Projects._
+
+  ![](/img/screen-shot-2022-01-01-at-5-09-43-pm.png)
+* _Alameda CTC:_ I have served as the Vice Chair of the [**Alameda County Transportation Commission**](https://www.alamedactc.org/) for the past two years. The Commission will elect a new Chair and Vice Chair at the end of January to guide the agency for the next two years. There are many opportunities to make Alameda County a national leader on transportation planning and innovation. I will have a more detailed post about regional transportation planning in the spring of 2022.
 
 **_Community Safety & Wellness_**
 
-With COVID continuing through 2021, the city has kept the public informed about health and safety orders, impacts to services, and opportunities for services with an updated city web page. [**Bookmark our COVID-19 Page to get the most up-to-date information on how the pandemic is impacting city services.**](https://www.ci.emeryville.ca.us/1356/COVID-19-Updates-City-Hall-is-Open) 
+With COVID continuing through 2021, the city has kept the public informed about health and safety orders, impacts to services, and opportunities for services with an updated city web page. [**Bookmark our COVID-19 Page to get the most up-to-date information on how the pandemic is impacting city services. **](https://www.ci.emeryville.ca.us/1356/COVID-19-Updates-City-Hall-is-Open)While many of the wellness and community programs we have traditionally hosted were on hiatus again this past year due to County Health Officer Orders, we hope to bring more of these back to you in 2022.
 
 * _Alameda County Fire:_ Gratefully, there were no significant calls for service related to structure fires in 2021.
-* 
+* _Public Safety:_ While crime rates remain down below their pre-pandemic level, auto burglaries, the scourge of the Bay Area, rose this year. Shopping center parking lots remain the most common target for these crimes. EPD continues to offer assistance and partner with private shopping center ownership in an effort to reduce crimes of opportunity.
 
 **_Small Business, Economic Development & Finance_** 
 
-The City Council adopted a series of eviction moratorium and rental repayment urgency ordinances in 2020 that were a crucial lifeline to the small business community. 
+The City Council adopted a series of eviction moratorium and rental repayment urgency ordinances in 2020 that were a crucial lifeline to the small business community. While many of those were superseded by subsequent state laws, many of these protections remain in place across our community.
 
-* _S_
+* 
 
-_2022 Emeryville City Council_
+_Below: The 2022 Emeryville City Council_
 
 ![](/img/screen-shot-2022-01-01-at-3-23-27-pm.png)Congratulations to Dianne Martinez for completing her second term as Emeryville Mayor this past year. Her steady hand and solid leadership helped our city move through a pandemic-filled year with grace. Welcome to new council member Courtney Welch, who was sworn in to office in December. At the December council meeting, I was nominated and selected to serve as your Mayor in 2022. Ally Medina will serve as the city's Vice Mayor. I am deeply grateful for the opportunity to serve the city for a second time as it's Mayor. Look to this space in the New Year for important information about steps we'll be taking to advance important and projects of interest to you.
 
