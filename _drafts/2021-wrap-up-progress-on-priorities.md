@@ -66,7 +66,7 @@ The city has been busy working to expand and improve open space this past year, 
 
 **_Transportation & Public Works Infrastructure_**
 
-The city 
+The city continues to leverage it's position at the geographic heart of the East Bay to bring new opportunities for multi-modal movement, last-mile connections, green and safe transit to our community. We had some big milestones in 2021 and have a lot on the horizon in this space in 2022.
 
 * _South Bayfront Bridge:_ After decades of planning and community input, winning a protracted legal battle over funding with the California Department of Finance, delayed design and legal negotiations with the UPRR, and a few railings arriving behind schedule, the long-awaited bicycle-pedestrian [**South Bayfront Bridge**](http://www.biggscardosa.com/home/index.php/projects/transportation/pedestrian-bicycle/south-bayfront-pedestrian-bicycle-bridge) opened on December 3, 2021. Hundreds of people turned out for the Grand Opening event, which included a party at Bay Street.The council is happy to finally deliver this project and hope the community will enjoy it for many years to come. _Below: Walking across the new South Bayfront Bridge with Rufus and Reyna on Christmas morning._
 
@@ -76,29 +76,20 @@ The city
   ![](/img/screen-shot-2022-01-01-at-4-17-52-pm.png)
 * _Quiet Zones/Safe Railroad Crossings:_ After winning a State CTC grant to construct new railroad crossing safety structures in 2018, the city faced obstruction from the UPRR in approving final design plans, which were required to authorize release of the state funds. The city has finally secured the approvals after legal delays, which will now involve closing the 66th Street crossing and installation of a traffic light at 67th and Hollis. With the funding released to the city, the project is out for bid and we hope to be under construction by mid-2022. 
 * _San Pablo Avenue Corridor Plan:_ The county continues to work with the cities of Albany, Berkeley, Emeryville, Oakland and AC Transit to design and implement a new vision for the San Pablo Avenue Corridor. Based on public surveys and other studies conducted over the past two years, the county anticipates rolling out a first phase of changes to the Oakland and Emeryville segments of San Pablo in the next couple years, with BRT (Bus Rapid Transit) lanes and protected bike lanes. [**You can learn more about the project here**](https://www.alamedactc.org/programs-projects/multimodal-arterial-roads/sanpabloave/).
-* 
-* 
-* 
-* _Alameda CTC:_ As Emeryville’s representative to the [**Alameda County Transportation Commission**](https://www.alamedactc.org/), I was humbled to be elected the Vice Chair of the Commission in January 2020. This leadership position is traditionally two, one-year terms. I work closely with Commission Chair and Mayor of San Leandro, Pauline Cutter, as well as the 20 other representatives to the Commission in guiding the transportation policies, projects, programs and investments for Alameda County. I am very proud of the incredible work we do here in Emeryville on Transportation and Public Works, and have special gratitude for our Public Works staff, city manager, and Councilmember Medina who work closely with me in helping make Emeryville a safe, livable, and accessible community for people of all ages, incomes and abilities.
+* _Alameda CTC:_ I have served as the Vice Chair of the [**Alameda County Transportation Commission**](https://www.alamedactc.org/) for the past two years. The Commission will elect a new Chair and Vice Chair at the end of January to guide the agency for the next two years. There are many opportunities to make Alameda County a national leader on transportation planning and innovation. I will have a more detailed post about transportation in the spring of 2022.
 
 **_Community Safety & Wellness_**
 
-In
+With COVID continuing through 2021, the city has kept the public informed about health and safety orders, impacts to services, and opportunities for services with an updated city web page. [**Bookmark our COVID-19 Page to get the most up-to-date information on how the pandemic is impacting city services.**](https://www.ci.emeryville.ca.us/1356/COVID-19-Updates-City-Hall-is-Open) 
 
-* _Emeryville Measure_ 
+* _Alameda County Fire:_ Gratefully, there were no significant calls for service related to structure fires in 2021.
+* 
 
 **_Small Business, Economic Development & Finance_** 
 
-The COVID pandemic has been particularly harsh on our small business economy this past year. I’ve spent countless hours working with our local small businesses to make our small, nimble city adaptive and responsive to the needs of businesses trying to weather the pandemic and its economic impact. The city council acted unanimously and decisively on a number of initiatives this year, which have helped bridge many of our local businesses into 2021. We have more work to do, but to date our actions have included the following:
+The City Council adopted a series of eviction moratorium and rental repayment urgency ordinances in 2020 that were a crucial lifeline to the small business community. 
 
-* _Small Business Eviction Moratorium & Rental Repayment:_ In May, the city council passed a series of urgency ordinances to protect small businesses. Among these, the city council put an eviction moratorium in place for restaurants, while also adopting [**a repayment ordinance**](http://www.emeryville.org/DocumentCenter/View/13131/20-019-_-COVID-19-Commercial-Food-Establishment-Urgency-Ordinance-_-Adopted?bidId=) that requires commercial property owners to offer extended periods of at least 12 months for businesses to catch up on late rent payments. Subsequent to the city’s eviction moratorium, [**Governor Newsom signed Executive Order N-80-20**](http://www.emeryville.org/DocumentCenter/View/13209/92320-EO-N-80-20-COVID-19-signed?bidId=) on September 23rd, which put a statewide moratorium on commercial evictions through March 31, 2021.
-* _Small Biz Emergency Grants:_ In June, the city council reprogrammed approximately $200,000 of Small Business funding that typically goes toward facade grants into grants for businesses impacted by the looting that took place in late May. The city provided money to over 30 impacted local businesses. We also approved a parklet program to allow restaurants interested in doing outdoor dining a chance to expedite their process and waive normal processing fees. A number of businesses took advantage of that program. In October, we extended it to include other businesses and offered temporary use permits. Thank you to our Community Development Department staff for being so nimble and responsive during these often chaotic times. _Below: The new outdoor dining parklet at one of my favorite breakfast spots: Doyle Street Cafe._
-
-![Doyle Street Cafe Parklet](https://johnbauters.net/img/doyle-street-cafe.jpg)
-
-* _Delivery Fee Ordinance:_ In October, the city council adopted [**an urgency ordinance that capped the cost of food-service delivery fees**](http://www.emeryville.org/DocumentCenter/View/13255/APPROVED-Urgency-Ordinance-No-20-023---delivery-fee-cap?bidId=). Emeryville was joined by a number of other east bay cities in regulating delivery companies that were gouging delivery prices. The ordinance is set to continue for 180 days after the state of emergency ends, giving the council time to consider a permanent ordinance.
-* _Small Biz Financial Aid Program:_ In November, the Alameda County Board of Supervisors announced a small business assistance program to provide grants to businesses impacted by COVID. To incentivize local participation in the program, a portion of the funds were dedicated on a first-come, first-serve basis to city’s who matched the grant amounts. The city council acted quickly, putting up $115,000 as match funding, moving Emeryville’s businesses to the front of the line for the county’s contribution. A list of awardees is expected soon.
-* You can find a comprehensive resource on federal, state, and local resources for businesses on our city’s website [**by visiting us here**](http://www.emeryville.org/1365/COVID-19-BUSINESS-RESOURCES).
+* _S_
 
 _2022 Emeryville City Council_
 
