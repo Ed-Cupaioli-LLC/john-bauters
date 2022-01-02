@@ -101,7 +101,7 @@ _Below: The 2022 Emeryville City Council_
 
 [**You can learn more about the members of the Emeryville City Council here.**](http://www.emeryville.org/382/Council-Members) 
 
-As always you can reach me at [**jbauters@emeryville.org**](jbauters@emeryville.org)
+Although not everyone can or will desire to meet in person, if your HOA, apartment building or neighborhood group would like to schedule a town hall with me in 2022, please contact me at [**jbauters@emeryville.org**](jbauters@emeryville.org). These have been very successful in the past, and your city serves you best when we are in regular dialogue with one another.
 
 I am on Twitter at [**@JohnBauters**](https://twitter.com/JohnBauters)
 
