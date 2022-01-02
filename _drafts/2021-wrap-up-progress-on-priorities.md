@@ -2,9 +2,9 @@
 title: '2021 Wrap-Up: Progress on Priorities'
 
 ---
-![https://johnbauters.net/img/council-2021.png](https://johnbauters.net/img/council-2021.png "2021 Emeryville City Council")Welcome to the 2021 Wrap-Up. 2020 was an unusual year and one that I’m sure many of us would rather soon forget. Although we continue to struggle through a global pandemic wrought with ongoing public health and economic challenges, it’s more important than ever for public officials and agencies to remain transparent, accessible, and accountable to their communities. Since being first elected in 2016, I have published this annual wrap-up as my way of remaining transparent and accountable to the Emeryville community about the work that we’ve done on the five policy priority areas I identified as a candidate. Although my near-weekly town halls went on hiatus this year due to COVID, I am still in touch with many of you regularly about issues in our city.
+![https://johnbauters.net/img/council-2021.png](https://johnbauters.net/img/council-2021.png "2021 Emeryville City Council")Welcome to the 2021 Wrap-Up. The pandemic continued for a second full year, but the emergency actions the council took in 2020 to protect residents and small businesses proved successful lifelines for many community members through the very tough, early days of the pandemic. The city continues to face fiscal challenges as hotel tax receipts remain way below pre-pandemic levels. Challenges remain, but we will work with the community as we always have to overcome together.
 
-As a reminder, if you’d like to track our progress over the past four years and learn about how the council has moved the city forward on the issues most important to you, our constituents, you can find those wrap-ups here:
+I have done this annual wrap-up to provide additional opportunities for transparency and accountability to the Emeryville community for the work I do as one of your council members. Since I was elected in 2016, I have reported updates on the campaign promises I made every year, with links to articles, reports, and data on these items. As a reminder, you can review each prior year's wrap-up here:
 
 [**2020 Wrap-Up: Priorities on Progress**](https://johnbauters.net/2020/12/29/2020-wrap-up-progress-on-priorities/)
 
@@ -14,7 +14,7 @@ As a reminder, if you’d like to track our progress over the past four years an
 
 [**2017 Wrap-Up: Priorities on Progress**](https://johnbauters.wordpress.com/2018/01/01/closing-out-2017-progress-on-priorities/)
 
-2021 was the first year of my second term as your councilmember. During my first team, I tracked the council's actions against my five original campaign promises. Going forward, I will continue to track our work on these issues, while expanding them to be inclusive of other things residents have asked about over the past four years. You can find updates on the following in this piece:
+2021 was the first year of my second term as your councilmember. During my first team, I tracked our action on my five original campaign promises. Going forward, I will continue to track our work on these issues, while expanding them to be inclusive of other things residents have identified as important to the community over the past four years. The five categories are:
 
 * _Housing Affordability & Stability_
 * _Parks, Open Space & Environmental Issues_
@@ -58,7 +58,7 @@ The city has been busy working to expand and improve open space this past year, 
 ![Diagram of Davenport Park Plan](https://johnbauters.net/img/davenport-park.jpg)
 
 * _Bay Area Air Quality Management District (BAAQMD):_ I have had the honor of serving as the Alameda County cities' representative to the nine-county [**Bay Area Air Quality Management District**](https://www.baaqmd.gov/about-the-air-district/board-of-directors) since 2018. This past year, as chair of the committee that oversees refinery regulation, we adopted the most stringent particulate matter emissions regulation _in the world_ following months of public workshops and multiple days of testimony at public hearing. [**You can read about the historic vote on Rule 6-5 via this KQED story. **](https://www.kqed.org/news/11876301/bay-area-refineries-must-dramatically-cut-pollution-air-district-says-in-historic-vote)Thank you to the many Emeryville residents who participated in the process. The Board of Directors has elected me to serve as Vice Chair of the Board in 2022. I look forward to advancing more health-first air quality regulations in the coming year.
-* 
+* _Alameda County Healthy Homes Department:_ I have represented the City of Emeryville on the County's Lead Poisoning Prevention Board of Directors since taking office in 2016. As a reminder, if you live in pre-1978 housing, your home may contain lead paint, which is toxic to human health, but especially children's neurological development. You can request free lead testing from this agency. [**Please visit this website if you'd like to have us come test your house for lead risks.**](https://www.achhd.org/index.htm)
 
 **_Transportation & Public Works Infrastructure_**
 
