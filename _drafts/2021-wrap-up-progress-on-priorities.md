@@ -87,13 +87,13 @@ The city continues to leverage it's position at the geographic heart of the East
 With COVID continuing through 2021, the city has kept the public informed about health and safety orders, impacts to services, and opportunities for services with an updated city web page. [**Bookmark our COVID-19 Page to get the most up-to-date information on how the pandemic is impacting city services. **](https://www.ci.emeryville.ca.us/1356/COVID-19-Updates-City-Hall-is-Open)While many of the wellness and community programs we have traditionally hosted were on hiatus again this past year due to County Health Officer Orders, we hope to bring more of these back to you in 2022.
 
 * _Alameda County Fire:_ Gratefully, there were no significant calls for service related to structure fires in 2021.
-* _Public Safety:_ While crime rates remain down below their pre-pandemic level, auto burglaries, the scourge of the Bay Area, rose this year. Shopping center parking lots remain the most common target for these crimes. EPD continues to offer assistance and partner with private shopping center ownership in an effort to reduce crimes of opportunity.
+* _Public Safety:_ While crime rates remain down below their pre-pandemic level, auto burglaries, a scourge across the Bay Area, rose this year. Shopping center parking lots remain the most common target for these crimes. EPD continues to offer assistance and partner with private shopping center ownership in an effort to reduce crimes of opportunity. [**I am reprising this 2017 post I did on auto burglaries for new readers as a reminder of best practices to prevent and deter auto burglaries.**](https://johnbauters.net/2017/05/22/this-edition-auto-burglaries-community-updates-harvey-milk-day-lgbt-youth/)
 
 **_Small Business, Economic Development & Finance_** 
 
 The City Council adopted a series of eviction moratorium and rental repayment urgency ordinances in 2020 that were a crucial lifeline to the small business community. While many of those were superseded by subsequent state laws, many of these protections remain in place across our community.
 
-* 
+* _Parklet Policy:_ At the December 21, 2021 council meeting, I requested a future agenda item to make permanent the expedited parklet program we approved in response to the pandemic. I support allowing businesses utilizing these tools to continue operating them going forward. I would also like to see restaurants that have considered them have an opportunity to build one with the predictability of knowing they will remain approved post pandemic.
 
 _Below: The 2022 Emeryville City Council_
 
