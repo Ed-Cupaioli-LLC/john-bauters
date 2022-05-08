@@ -23,3 +23,5 @@ I hope to see you there!
 Cheers,
 
 Mayor Bauters
+
+![](/img/town-hall.jpeg)
