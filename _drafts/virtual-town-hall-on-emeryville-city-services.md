@@ -13,3 +13,13 @@ The input we received has been extremely helpful. We learned that residents real
 The city council received the outcomes of those listening efforts and directed staff to examine ways to support those resident goals while minimizing cost to residents. **No decisions have been made about what, if anything, to do.**
 
 The goal of the May 9th Town Hall is to share what we've learned with interested residents, collect additional information, share the one revenue opportunity the city is considering, and answer questions. Based on that information, the council will continue the discussion with this new input as we continue to evaluate the best ways to meet resident needs.
+
+[You can find all the information for the Town Hall at this page on the city website, including the link to the meeting on May 9th at 7:00pm.](https://www.ci.emeryville.ca.us/1428/Emeryville---Join-the-Conversation)  On that page, you can also complete the city's survey if you have not already done so or in case you're unable to join us Monday evening.
+
+Attendees will be able to comment in the Q&A box as to their own ideas and preferences, and submit questions that will be moderated for me to address during the event.
+
+I hope to see you there!
+
+Cheers,
+
+Mayor Bauters
