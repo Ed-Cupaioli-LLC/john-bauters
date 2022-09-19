@@ -46,7 +46,9 @@ Many of you may have noticed one of the most magical things taking shape over th
 
 ![](/img/sea-walls.jpg)
 
-_Image Above: Emeryville residents and visitors hear from artist Taylor Reinhold (Santa Cruz, CA) about his mural on 66th Street that depicts a River Otter whose tail has the braiding of a traditional Ohlone basket. River otters used to flourish in the Bay Area but only a few remains. The calligraphy around the otter say "We were here before. We will be back."_
+![](/img/59054ae0-a61c-4372-af18-5dce015858d9.JPG)
+
+_Images Above: (Top) Emeryville residents and visitors hear from artist Taylor Reinhold (Santa Cruz, CA) about his mural on 66th Street that depicts a River Otter whose tail has the braiding of a traditional Ohlone basket. River otters used to flourish in the Bay Area but only a few remains. The calligraphy around the otter say "We were here before. We will be back." (Bottom) Artists and art hikers on Horton Street to view three murals at Park and Horton._
 
 **THE 36TH ANNUAL EMERYVILLE CELEBRATION OF THE ARTS**
 
