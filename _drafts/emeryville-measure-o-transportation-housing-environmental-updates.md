@@ -34,6 +34,10 @@ The long-awaited project to improve the safety of the city's at-grade street cro
 
 _Image Above: Mayor Bauters and staff from the Alameda County Transportation Commission break ground on the Emeryville Quiet Zone Project at 65th Street. The project is almost completely funded by a grant from the California Transportation Commission._
 
-**POINT EMERY REHABILITATION PROJECT**
+**POINT EMERY RESTORATION PROJECT**
 
 In August, the city broke ground on an environmental protection and shoreline restoration project at Point Emery. Natural tidal activity has been eroding the point. In order to preserve a bayfront park space popular with kitesurfers, walkers, cyclists and families, the City Council funded a restoration project to restore shoreline, install "rip-rap" protection along the coast, install a new, groomed path, add ADA-accessible parking, and bench seating for visitors. The project also includes monitoring of an eelgrass bed off the north coast of Point Emery to protect fish and other wildlife during construction. [You can read about the restoration project here. ](https://scc.ca.gov/webmaster/project_sites/watertrail/agendas/PointEmery_Reports_20161209.pdf) The city anticipates the park will reopen before the end of 2022. Special thanks to City Senior Civil Engineer Mike Roberts for his work on this project!
+
+![](/img/point-emery.jpg)
+
+_Image Above: Councilmember Dianne Martinez, Mayor Bauters and Vice Mayor Ally Medina on Point Emery at the groundbreaking event in August, with the Emeryville Peninsula in the background._
