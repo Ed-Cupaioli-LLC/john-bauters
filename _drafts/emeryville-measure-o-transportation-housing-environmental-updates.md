@@ -66,7 +66,7 @@ Earlier this summer, the City Council approved for release a Request for Proposa
 
 _San Pablo Avenue_
 
-Two affordable housing projects on San Pablo Avenue are currently in the process of securing funding to move toward construction. 3600 San Pablo ("The Nellie Hannon Gateway") will involve leveling the building on the eastside of San Pablo between 36th and 37th Streets and replacing it with over 90 units of housing, including some for people experiencing homelessness who need supportive housing services. 4300 San Pablo Ave, the city's old temporary Rec Center site, will become close to 70 affordable apartments, of which about 80% will be for lower income seniors and 20% will be for young adults who have aged out of foster care services. The city is very excited for both of these projects. 
+Two affordable housing projects on San Pablo Avenue are currently in the process of securing funding to move toward construction. 3600 San Pablo ("The Nellie Hannon Gateway") will involve leveling the building on the eastside of San Pablo between 36th and 37th Streets and replacing it with over 90 units of housing, including some for people experiencing homelessness who need supportive housing services. 4300 San Pablo Ave, the city's old temporary Rec Center site, will become close to 70 affordable apartments, of which about 80% will be for lower income seniors and 20% will be for young adults who have aged out of foster care services. The city is very excited for both of these projects.
 
 _Bayview Apartments_
 
@@ -74,16 +74,41 @@ The apartments at 6701 Shellmound Street, near the Ashby interchange, are well i
 
 **SF BAY SIERRA CLUB VISIONARY AWARD**
 
-This past week, I was deeply honored to be the inaugural recipient of the David McCoard Visionary Award from the SF Bay Sierra Club. In my six years since first being elected, I have fought very hard to make Emeryville and the Bay Area more sustainable, resilient, and environmentally just. Be that people-oriented and car-free places for pedestrians and cyclists, reducing our city's carbon footprint, or recent work I've championed at the Bay Area Air Quality Management District to pass the most stringent emissions regulations on refineries in the United States, and my current efforts to have the Bay Area pass the first zero NOx emission standard for furnaces and water heaters _in the world_, I am proud to represent a city whose residents are environmentally conscientious, just, and supportive of protecting the resources we have for our children.
+This past week, I was deeply honored to be the inaugural recipient of the David McCoard Visionary Award from the SF Bay Sierra Club. In my six years since first being elected, I have fought to make Emeryville and the Bay Area more sustainable, resilient, and environmentally just. Be that people-oriented and car-free places for pedestrians and cyclists, reducing our city's carbon footprint, or recent work I've championed at the Bay Area Air Quality Management District to pass the most stringent emissions regulations on refineries in the United States, and my current efforts to have the Bay Area pass the first zero NOx emission standard for furnaces and water heaters _in the world_, I am proud to represent a city whose residents are environmentally conscientious, just, and supportive of protecting the resources we have for our children.
+
+![](/img/sierra-club.jpg)
+
+_Image Above: Melissa Yu, Mayor Bauters and Igor Tregub of the SF Bay Sierra Club at the David Brower Awards Dinner, September 2022._
 
 **MENTAL WELLNESS & NATURE**
 
-As many of you may recall, last year I hiked the Superior Hiking Trail from Pigeon River, Canada to Superior, Wisconsin over roughly 3.5 weeks. The 300+ mile hike is something I do annually to promote and support my own mental wellness and restore my energy so I can return to my family, my job, and the Emeryville community as the best person I can be. 
+As many of you may recall, last year I hiked the Superior Hiking Trail from Pigeon River, Canada to Superior, Wisconsin over roughly 3.5 weeks. The 300+ mile hike is something I do annually to promote and support my own mental wellness and restore my energy so I can return to my family, my job, and the Emeryville community as the best person I can be.
 
 This year, I hiked across Michigan's Upper Peninsula on the North Country Trail throughout the month of August while the council was in summer recess. The solo journey included a lot of amazing sites and adventures. I stumbled upon a large, sleeping porcupine one day, waded through a swamp in the Rock River Canyon Wilderness another day, and had several swims in crystal clear waters on Lake Superior. I ended my trip at the Mackinac Bridge and took a ferry to Mackinac Island for two days of saltwater taffy and cycling on one of America's few car-free islands. Below are a few photos from the many I took during my hike. My goal in sharing these is to encourage everyone to _go outside_. Spending time outside in nature - even 20 minutes a day - has been shown to improve health, happiness, and mental acuity. Whether you're going 300 miles or 3, may the trail you take be one that brings you joy.
 
-Have a wonderful week. Please contact me with any questions at jbauters@emeryville.org.
+Have a wonderful week. Please contact me with any questions at [jbauters@emeryville.org](jbauters@emeryville.org).
 
 Cheers,
 
 John
+
+![](/img/img_0495.jpg)
+
+![](/img/img_0450.jpg)
+
+![](/img/img_0439-2.jpg)
+
+![](/img/img_0494.jpg)
+
+![](/img/img_0339.jpg)
+
+![](/img/img_0388.jpg)
+
+_Images Above (top to bottom):_ 
+
+1. _Laughing Whitefish Falls State Park, Michigan_
+2. _Tahquamenon Falls (Upper), Tahquamenon Falls State Park, Michigan_
+3. _Culhane Lake, Michigan_
+4. _Naomikong Pond Grasslands, Michigan_
+5. _Grand Portal Point, Pictured Rocks National Lakeshore, Michigan_
+6. _Hiawatha National Forest, Michigan_
