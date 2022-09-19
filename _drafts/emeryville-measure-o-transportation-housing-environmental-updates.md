@@ -52,7 +52,7 @@ _Image Above: Emeryville residents and visitors hear from artist Taylor Reinhold
 
 While on the topic of art, now is great time to remind everyone that the city's signature annual event - the Emeryville Celebration of the Arts - will be open throughout the month of October. The venue this year is the old Urban Outfitters location at the Public Market, located at 5905 Shellmound Street. The opening night gala is free and open to the public. **_The event is 6-9pm on Friday, October 7th._**
 
-After missing last year due to my annual hiking expedition, I am back to serve as your head bartender for the 6th time in 7 years. Tell me you read about the Celebration in this blog post for an extra-generous wine pour.  ;)
+After missing last year due to my annual hiking expedition, I am back to serve as your head bartender for the 6th time in 7 years. Tell me you read about the Celebration of the Arts in this blog post for an extra-generous wine pour.  ;)
 
 [You can read more about the Celebration of the Arts here.](https://www.emeryarts.org/)
 
@@ -86,7 +86,7 @@ _Image Above: Melissa Yu, Mayor Bauters and Igor Tregub of the SF Bay Sierra Clu
 
 As many of you may recall, last year I hiked the Superior Hiking Trail from Pigeon River, Canada to Superior, Wisconsin over roughly 3.5 weeks. The 300+ mile hike is something I do annually to promote and support my own mental wellness and restore my energy so I can return to my family, my job, and the Emeryville community as the best person I can be.
 
-This year, I hiked across Michigan's Upper Peninsula on the North Country Trail throughout the month of August while the council was in summer recess. My solo wilderness journey included a lot of amazing sites and adventures. I stumbled upon a large, sleeping porcupine one day, waded through a swamp in the Rock River Canyon Wilderness another day, and had several swims in crystal clear waters on Lake Superior. I ended my trip at the Mackinac Bridge and took a ferry to Mackinac Island for two days of saltwater taffy and cycling on one of America's few car-free islands. Below are a few photos from the many I took during my hike. My goal in sharing these is to encourage everyone to _go outside_. Spending time outside in nature - even 20 minutes a day - has been shown to improve health, happiness, and mental acuity. Whether you're going 300 miles or 3, may the trail you take be one that brings you joy.
+This year, I hiked across Michigan's Upper Peninsula on the [North Country Trail](https://northcountrytrail.org/) throughout the month of August while the council was in summer recess. My solo wilderness journey included a lot of amazing sites and adventures. I stumbled upon a large, sleeping porcupine one day, waded through a swamp in the Rock River Canyon Wilderness another day, and had several swims in crystal clear waters on Lake Superior. I ended my trip at the Mackinac Bridge and took a ferry to Mackinac Island for two days of saltwater taffy and cycling on one of America's few car-free islands. Below are a few photos from the many I took during my hike. My goal in sharing these is to encourage everyone to _go outside_. Spending time outside in nature - even 20 minutes a day - has been shown to improve health, happiness, and mental acuity. Whether you're going 300 miles or 3, may the trail you take be one that brings you joy.
 
 Have a wonderful week. Please contact me with any questions at [jbauters@emeryville.org](jbauters@emeryville.org).
 
