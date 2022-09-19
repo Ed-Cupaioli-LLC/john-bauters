@@ -46,6 +46,10 @@ _Image Above: Councilmember Dianne Martinez, Mayor Bauters and Vice Mayor Ally M
 
 Many of you may have noticed one of the most magical things taking shape over the past ten days In Emeryville. PangeaSeed Foundation selected Emeryville as one of its global sites for a weeklong art mural installation project that coincided with International Climate Action Week. Artists from across the Bay Area and around the world installed 15 new public art murals around the city. These pieces depict the life of SF Bay, depicting themes like endangered and local species, oceanic pollution, the Ohlone, and more. The Public Market hosted a panel last Friday evening that more than 100 people attended to hear about how art, science, business and policy-making intersect in protecting our oceans. On Saturday, I had the privilege of leading an urban hike to see most of the murals, meet the artists and learn about their work. [You can learn more about PangeaSeed Foundation, Sea Walls Emeryville, the new art, and more here.](https://seawalls.org/activation/emeryville-usa/) Special thank you to Emeryville residents and artists Alexandra Underwood and Joey Rose for securing this amazing event in our city, and to local businesses Stasher Bag and the Emeryville Public Market for being lead sponsors for the event.
 
+![](/img/sea-walls.jpg)
+
+_Image Above: Emeryville residents and visitors hear from artist Taylor Reinhold (Santa Cruz, CA) about his mural on 66th Street that depicts a River Otter whose tail has the braiding of a traditional Ohlone basket. River otters used to flourish in the Bay Area but only a few remains. The calligraphy around the otter say "We were here before. We will be back."_
+
 **THE 36TH ANNUAL EMERYVILLE CELEBRATION OF THE ARTS**
 
 While on the topic of art, now is great time to remind everyone that the city's signature annual event - the Emeryville Celebration of the Arts - will be open throughout the month of October. The venue this year is the old Urban Outfitters location at the Public Market, located at 5905 Shellmound Street. The opening night gala is free and open to the public. **_The event is 6-9pm on Friday, October 7th._**
@@ -104,7 +108,7 @@ John
 
 ![](/img/img_0388.jpg)
 
-_Images Above (top to bottom):_ 
+_Images Above (top to bottom):_
 
 1. _Laughing Whitefish Falls State Park, Michigan_
 2. _Tahquamenon Falls (Upper), Tahquamenon Falls State Park, Michigan_
