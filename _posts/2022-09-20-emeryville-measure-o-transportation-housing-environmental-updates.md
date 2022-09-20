@@ -26,6 +26,8 @@ This tiered system is more equitable as it allows the city to collect more reven
 
 The city polled the public about several potential measures to help shore up the city's finances in the aftermath of COVID, and residents strongly favored this approach as the best way to help us continue providing excellent city services with little to no impact on residents. The measure was discussed at each of the city's residents advisory committees, and the city council held several study sessions as well. I held a citywide virtual town hall in spring to hear from residents and answer their questions as well. The council considered all this resident and business input before approving Measure O for the November election.
 
+VOTE YES ON MEASURE O!
+
 **RAILROAD SAFETY PROJECT/FEDERAL QUIET ZONE**
 
 The long-awaited project to improve the safety of the city's at-grade street crossings of the Union Pacific Railroad on the north side of the city broke ground in June. [You can now track the timelines, design elements and other info on the Quiet Zone establishment here.](https://www.ci.emeryville.ca.us/CivicAlerts.aspx?AID=1136) The construction will include new traffic signals on Hollis and Shellmound, double-armed gates, safety fences and bike/ped improvements. Once completed next year, the city will submit a request to the federal government to create the Quiet Zone that allows train conductors to withhold pulling their horn as they come into our Amtrak Station. Special thanks to Senior Civil Engineer Ryan O'Connell for all his work on this project!
