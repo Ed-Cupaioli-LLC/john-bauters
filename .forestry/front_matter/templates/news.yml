@@ -8,9 +8,6 @@ fields:
 - type: text
   name: permalink
   label: permalink
-- type: text
-  name: css
-  label: css
 - type: field_group
   name: intro
   label: intro
