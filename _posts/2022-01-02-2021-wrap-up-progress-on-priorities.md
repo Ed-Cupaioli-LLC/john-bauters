@@ -6,13 +6,13 @@ title: '2021 Wrap-Up: Progress on Priorities'
 
 I have done this annual wrap-up to provide additional opportunities for transparency and accountability to the Emeryville community for the work I do as one of your council members. Since I was elected in 2016, I have reported updates on the campaign promises I made every year, with links to articles, reports, and data on these items. As a reminder, you can review each prior year's wrap-up here:
 
-[**2020 Wrap-Up: Priorities on Progress**](https://johnbauters.net/2020/12/29/2020-wrap-up-progress-on-priorities/)
+[**2020 Wrap-Up: Progress on Priorities**]()
 
-[**2019 Wrap-Up: Priorities on Progress**](https://johnbauters.wordpress.com/2020/01/06/2019-wrap-up-progress-on-priorities/)
+[**2019 Wrap-Up: Progress on Priorities**]()
 
-[**2018 Wrap-Up: Priorities on Progress**](https://wordpress.com/post/johnbauters.wordpress.com/4365)
+[**2018 Wrap-Up: Progress on Priorities**](https://johnbauters.net/2019/01/25/closing-out-2018-progress-on-priorities/)
 
-[**2017 Wrap-Up: Priorities on Progress**](https://johnbauters.wordpress.com/2018/01/01/closing-out-2017-progress-on-priorities/)
+[**2017 Wrap-Up: Progress on Priorities**](https://johnbauters.net/2018/01/01/closing-out-2017-progress-on-priorities/)
 
 2021 was the first year of my second term as your councilmember. During my first team, I tracked our action on my five original campaign promises. Going forward, I will continue to track our work on these issues, while expanding them to be inclusive of other things residents have identified as important to the community over the past four years. The five categories are:
 
