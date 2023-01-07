@@ -76,6 +76,7 @@ As the country came out of most COVID restrictions in 2022, the city has kept th
 
 * _Alameda County Fire:_ There were no significant fires or reports to share in 2022.
 * _Emeryville Police:_ Crime trends remain the same, with the primary crime being auto burglaries. [**Here is my prior post about how to protect yourself and your car.**](https://johnbauters.net/2017/05/22/this-edition-auto-burglaries-community-updates-harvey-milk-day-lgbt-youth/)
+* _Municipal Code Updates:_ After George Floyd was murdered in 2020, the City Council held a special meeting to discuss ways in which we could improve community safety. In December, after more than two years of work, the council voted to amend the Municipal Code to reduce many unnecessary misdemeanor offenses to infractions or citations, which eliminates the opportunity for minor police interactions to end in an arrest. We also used this opportunity to clean up the municipal code by repealing chapters of our code that are outdated. Thank you to the City Attorney's office and EPD for helping us through this process.
 
 Thank you to the men and women of Alameda County Fire and the Emeryville Police Department for your service to our city!
 
