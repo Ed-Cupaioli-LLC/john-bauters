@@ -6,7 +6,7 @@ twitter:
 favicon: /img/favicon-32x32.png
 url: https://johnbauters.net
 #baseurl: /john-bauters
-gtm: GTM-W6NH8XF
+gtm: GTM-KGWWTMD
 schema:
   name: John Bauters
   type: Person
@@ -17,7 +17,7 @@ schema:
     name: Emeryville City Council
   social:
   - https://twitter.com/JohnBauters
-timezone: America/New York
+timezone: America/Los_Angeles
 future: true
 markdown: kramdown
 kramdown:
