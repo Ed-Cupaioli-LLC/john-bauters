@@ -1,55 +1,102 @@
-# Read the CloudCannon documentation for more information on how to use this file:
-# https://cloudcannon.com/documentation/articles/setting-global-configuration/?ssg=Jekyll
-
-# Collections are related sets of content files, typically grouped by folder.
-# Here you can define your collections, as well as any
-# CloudCannon configuration specific to those collections.
 collections_config:
-  data:
-    path: _data
-    output: false
   posts:
+    name: Posts
     path: _posts
-    output: true
-    permalink: /:year/:month/:day/:title
-    create:
-      path: >-
-        [relative_base_path]/{date|year}-{date|month}-{date|day}-{title|slugify}.[ext]
-  pages:
-    output: true
-    path: _pages
+    schemas:
+      default:
+        path: .cloudcannon/schemas/blog-post.md
+        name: Blog post
+        _enabled_editors:
+          - content
+        _inputs:
+          $.title:
+            comment: The title of your blog post
   redirects:
-    output: true
+    name: Redirects
     path: _redirects
-
-# Control which collections are displayed in the CloudCannon site navigation,
-# and how those collections are grouped.
+    add_options: []
+  pages:
+    name: Pages
+    path: _pages
+    add_options: []
+    schemas:
+      about:
+        path: .cloudcannon/schemas/about.md
+        name: About
+        _enabled_editors:
+          - data
+        _inputs:
+          $.about:
+            type: markdown
+        text_key: title
+      endorsements:
+        path: .cloudcannon/schemas/endorsements.md
+        name: Endorsements
+        _enabled_editors:
+          - data
+        _inputs:
+          $.org-endorsements.list:
+            type: array
+            options:
+              structures: _structures.endorsements-list
+          $.leader-endorsements.list:
+            type: markdown
+      issues:
+        path: .cloudcannon/schemas/issues.md
+        name: Issues
+        _enabled_editors:
+          - data
+        _inputs:
+          $.issue-summary.image.src:
+            type: file
+          $.issues:
+            type: array
+            options:
+              structures: _structures.issues-issues
+      home:
+        path: .cloudcannon/schemas/home.md
+        name: Home
+        _enabled_editors:
+          - data
+        _inputs:
+          $.issues.items:
+            type: array
+            options:
+              structures: _structures.home-items
 collection_groups:
-
-# Set this to true to disable auto-detection of collections.
-collections_config_override: false
-
-# Control which data sets are available to populate select and multiselect inputs.
-data_config:
-
-# Base path to your source files, relative to the root folder of your repository.
-source:
-
-# The locations of various types of files within your site.
-# Each path is relative to your site's source folder.
+  - heading: Content
+    collections:
+      - posts
+      - redirects
+      - pages
 paths:
-  data: _data
-  collections:
-  layouts: _layouts
-  static:
-  uploads: uploads
-  includes: _includes
-  dam_uploads:
-  dam_static:
-
-# Lets you control the look and behaviour of the Source Editor.
-source_editor:
-
-# Timezone of your site in IANA format. This is used by date and datetime inputs
-# within the CloudCannon Data Editor.
-timezone: America/Los Angeles
+  static: ''
+  uploads: img
+_structures:
+  endorsements-list:
+    values:
+      - value:
+          title: ''
+          logo: null
+        _inputs:
+          logo:
+            type: file
+  home-items:
+    values:
+      - value:
+          title: ''
+          image: null
+          link: ''
+  issues-issues:
+    values:
+      - value:
+          title: ''
+          id: ''
+          subtitle: ''
+          text: ''
+        _inputs:
+          text:
+            type: markdown
+_inputs:
+  template:
+    hidden: true
