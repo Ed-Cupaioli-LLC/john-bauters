@@ -102,3 +102,7 @@ _inputs:
     hidden: true
   css: 
     hidden: true  
+  permalink: 
+    hidden: true
+  about: 
+    type: markdown    
