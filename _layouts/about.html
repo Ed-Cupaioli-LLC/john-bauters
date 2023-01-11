@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div id="about">
+  {% include hero.html %}
+  {% include intro.html %}
+  <section id="about-content" class="content-section">
+    <div class="inner-section">
+      {{ page.content | markdownify }}
+    </div>
+  </section>
+</div>
