@@ -19,6 +19,8 @@ collections_config:
     name: Pages
     path: _pages
     add_options: []
+    _enabled_editors:
+      - data
     schemas:
       about:
         path: .cloudcannon/schemas/about.md
