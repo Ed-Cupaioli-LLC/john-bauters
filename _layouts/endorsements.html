@@ -1,0 +1,44 @@
+---
+layout: default
+css: endorsements
+---
+<div id="endorsements">
+  {% include hero.html %}
+  {% include intro.html %}
+  <section id="org-endorsements">
+    <div class="inner-section">
+      <div class="text-col">
+        <h4>{{ page.org-endorsements.title }}</h4>
+        <ul>
+          {% for endorsement in page.org-endorsements.list %}
+          <li>{{ endorsement.title }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="logos-col">
+        <div class="logos-grid">
+          {% for endorsement in page.org-endorsements.list %}
+          <div class="logo">
+            <img src="{{ endorsement.logo | relative_url }}" />
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="leader-endorsements">
+    <div class="inner-section">
+      <h4>{{ page.leader-endorsements.title}}</h4>
+      <div class="list">
+        <ul>
+          {% for item in page.leader-endorsements.list %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+        {{ page.leader-endorsements.disclaimer | markdownify }}
+      </div>
+    </div>
+    <div class="leader-image" style="background-image: url('{{ page.leader-endorsements.image | relative_url }}');">
+    </div>
+  </section>
+</div>
