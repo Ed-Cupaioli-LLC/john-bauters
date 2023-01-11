@@ -2,6 +2,8 @@
 _inputs: 
   leader-endorsements.disclaimer: 
     type: markdown
+  org-endorsements.list.logo:
+    type: image  
 _enabled_editors:
   - data    
 title: Endorsements
