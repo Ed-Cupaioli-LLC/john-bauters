@@ -1,3 +1,29 @@
 ---
-
+layout: default
 ---
+<div id="issues"> 
+  {% include hero.html %}
+  {% include intro.html %}
+  <section id="issue-summary" class="content-section">
+    <div class="inner-section">
+      <img src="{{ page.issue-summary.image.src | relative_url }}" alt="{{ page.issue-summary.image.alt }}"/>
+    </div>
+    <div class="summary-block">
+      <div class="summary-text">
+        {{ page.issue-summary.text | markdownify }}
+      </div>
+    </div>
+  </section>
+  {% for issue in page.issues %}
+  <section class="content-section issue-section {% cycle 'blue', 'grey' %}" id="{{ issue.id }}">
+    <div class="inner-section">
+      <h3 class="issue-title">{{ issue.title }}</h3>
+      <h4 class="issue-subtitle">{{ issue.subtitle }}</h4>
+      <div class="issue-text">
+        {{ issue.text | markdownify }}
+      </div>
+    </div>
+  </section>
+  {% endfor %}
+</div>
+<script src="{{'/js/min/issues.min.js' | relative_url}}"></script>

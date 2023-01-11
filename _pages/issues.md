@@ -1,7 +1,28 @@
 ---
 title: Issues
 permalink: "/issues/"
+layout: issues
 css: issues
+_enabled_editors:
+  - data
+_inputs:
+  issue-summary.image.src:
+    type: file
+  issues:
+    type: array
+    options:
+      structures: _structures.issues-list
+_structures:       
+  issues-list:
+    values:
+    - value:
+        title: ''
+        id: ''
+        subtitle: ''
+        text: ''
+      _inputs:
+        text:
+          type: markdown      
 intro:
   title: Issues
   text: John has a long track record of issues advocacy in the Bay Area at large.
@@ -192,30 +213,3 @@ issues:
     \  "
 
 ---
-<div id="issues"> 
-  
-  {% include hero.html %}
-  {% include intro.html %}
-  <section id="issue-summary" class="content-section">
-    <div class="inner-section">
-      <img src="{{ page.issue-summary.image.src | relative_url }}" alt="{{ page.issue-summary.image.alt }}"/>
-    </div>
-    <div class="summary-block">
-      <div class="summary-text">
-        {{ page.issue-summary.text | markdownify }}
-      </div>
-    </div>
-  </section>
-  {% for issue in page.issues %}
-  <section class="content-section issue-section {% cycle 'blue', 'grey' %}" id="{{ issue.id }}">
-    <div class="inner-section">
-      <h3 class="issue-title">{{ issue.title }}</h3>
-      <h4 class="issue-subtitle">{{ issue.subtitle }}</h4>
-      <div class="issue-text">
-        {{ issue.text | markdownify }}
-      </div>
-    </div>
-  </section>
-  {% endfor %}
-</div>
-<script src="{{'/js/min/issues.min.js' | relative_url}}"></script>
