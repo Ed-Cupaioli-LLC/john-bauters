@@ -5,8 +5,6 @@ layout: about
 css: about
 intro:
   title: About John
-about: ""
-
 ---
 ![John Bauters at a firehouse](../img/john-firehouse.jpg)
 

@@ -25,9 +25,7 @@ collections_config:
         name: About
         _enabled_editors:
           - data
-        _inputs:
-          about:
-            type: markdown
+          - content
         text_key: title
       endorsements:
         path: .cloudcannon/schemas/endorsements.md
@@ -103,6 +101,4 @@ _inputs:
   css: 
     hidden: true  
   permalink: 
-    hidden: true
-  about: 
-    type: markdown    
+    hidden: true    
