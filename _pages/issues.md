@@ -6,6 +6,8 @@ css: issues
 _enabled_editors:
   - data
 _inputs:
+  issue-summary.text: 
+    type: markdown
   issue-summary.image.src:
     type: file
   issues:
