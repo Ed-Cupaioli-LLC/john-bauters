@@ -1,4 +1,7 @@
 ---
+_inputs: 
+  leader-endorsements.disclaimer: 
+    type: markdown
 title: Endorsements
 permalink: "/endorsements/"
 layout: endorsements
