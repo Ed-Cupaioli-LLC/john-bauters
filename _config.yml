@@ -51,3 +51,5 @@ defaults:
   values: 
     layout: 'post'
     permalink: /:year/:month/:day/:title/     
+
+data_dir: _data    

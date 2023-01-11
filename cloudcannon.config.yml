@@ -24,7 +24,7 @@ collection_groups:
 paths:
   static: ''
   uploads: img
-  nav-menu: true
+  data: _data
 _structures:
   endorsements-list:
     values:
@@ -52,4 +52,6 @@ _inputs:
   layout: 
     hidden: true  
 
-data_dir: _data    
+data_config: 
+  nav-menu: true  
+
