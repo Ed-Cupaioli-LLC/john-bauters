@@ -6,6 +6,7 @@ intro:
 org-endorsements:
   title: ''
   list: []
+  disclaimer: ''
 leader-endorsements:
   title: ''
   list: ''

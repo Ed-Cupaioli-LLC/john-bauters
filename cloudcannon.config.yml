@@ -37,6 +37,8 @@ collections_config:
             type: array
             options:
               structures: _structures.endorsements-list
+          $.leader-endorsements.disclaimer: 
+            type: markdown     
       issues:
         path: .cloudcannon/schemas/issues.md
         name: Issues
