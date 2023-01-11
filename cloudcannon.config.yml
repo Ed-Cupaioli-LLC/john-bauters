@@ -87,16 +87,6 @@ _structures:
           title: ''
           image: null
           link: ''
-  issues-issues:
-    values:
-      - value:
-          title: ''
-          id: ''
-          subtitle: ''
-          text: ''
-        _inputs:
-          text:
-            type: markdown
 _inputs:
   template:
     hidden: true
