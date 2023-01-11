@@ -2,6 +2,8 @@
 _inputs: 
   leader-endorsements.disclaimer: 
     type: markdown
+_enabled_editors:
+  - data    
 title: Endorsements
 permalink: "/endorsements/"
 layout: endorsements
