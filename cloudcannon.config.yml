@@ -104,3 +104,5 @@ _inputs:
     hidden: true    
   intro.text:
     type: markdown
+  layout: 
+    hidden: true  
