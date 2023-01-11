@@ -78,7 +78,7 @@ _structures:
           logo: null
         _inputs:
           logo:
-            type: file
+            type: image
   home-items:
     values:
       - value:
