@@ -15,54 +15,6 @@ collections_config:
     name: Redirects
     path: _redirects
     add_options: []
-  # pages:
-  #   name: Pages
-  #   path: _pages
-  #   add_options: []
-  #   _enabled_editors:
-  #     - data
-  #   schemas:
-  #     about:
-  #       path: .cloudcannon/schemas/about.md
-  #       name: About
-  #       _enabled_editors:
-  #         - data
-  #         - content
-  #       text_key: title
-  #     endorsements:
-  #       path: .cloudcannon/schemas/endorsements.md
-  #       name: Endorsements
-  #       _enabled_editors:
-  #         - data
-  #       _inputs:
-  #         $.org-endorsements.list:
-  #           type: array
-  #           options:
-  #             structures: _structures.endorsements-list
-  #         $.leader-endorsements.disclaimer: 
-  #           type: markdown     
-  #     issues:
-  #       path: .cloudcannon/schemas/issues.md
-  #       name: Issues
-  #       _enabled_editors:
-  #         - data
-  #       _inputs:
-  #         $.issue-summary.image.src:
-  #           type: file
-  #         $.issues:
-  #           type: array
-  #           options:
-  #             structures: _structures.issues-issues
-  #     home:
-  #       path: .cloudcannon/schemas/home.md
-  #       name: Home
-  #       _enabled_editors:
-  #         - data
-  #       _inputs:
-  #         $.issues.items:
-  #           type: array
-  #           options:
-  #             structures: _structures.home-items
 collection_groups:
   - heading: Content
     collections:
@@ -72,6 +24,7 @@ collection_groups:
 paths:
   static: ''
   uploads: img
+  nav-menu: true
 _structures:
   endorsements-list:
     values:
@@ -98,3 +51,5 @@ _inputs:
     type: markdown
   layout: 
     hidden: true  
+
+data_dir: _data    
