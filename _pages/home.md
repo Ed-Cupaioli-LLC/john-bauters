@@ -4,6 +4,8 @@ _inputs:
     type: markdown
   footer: 
     hidden: true
+_enabled_editors:
+  - data    
 title: Home Page
 layout: home
 permalink: "/"
