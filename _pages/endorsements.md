@@ -1,11 +1,22 @@
 ---
 _inputs: 
   leader-endorsements.disclaimer: 
-    type: markdown
-  org-endorsements.list.logo:
-    type: image  
+    type: markdown 
+  org-endorsements.list:
+    type: array
+    options:
+      structures: _structures.endorsements-list  
 _enabled_editors:
-  - data    
+  - data
+_structures:
+  endorsements-list:
+    values:
+      - value:
+          title: ''
+          logo: null
+        _inputs:
+          logo:
+            type: image      
 title: Endorsements
 permalink: "/endorsements/"
 layout: endorsements
