@@ -1,13 +1,13 @@
 logo: /img/john-bauters-logo-blue.svg
-links: 
-- title: About John
-  page: _pages/about.md
-- title: Issues
-  page: _pages/issues.md  
-- title: Endorsements
-  page: _pages/endorsements.md 
-- title: News
-  page: _pages/news.md 
-button: 
+links:
+  - title: About John
+    page: /about
+  - title: Issues
+    page: _pages/issues.md
+  - title: Endorsements
+    page: _pages/endorsements.md
+  - title: News
+    page: _pages/news.md
+button:
   text: Donate
-  link: /donate/ 
+  link: /donate/
