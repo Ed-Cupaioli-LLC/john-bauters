@@ -6,9 +6,8 @@
   </div>  
   <ul class="nav-links">
     {% for link in site.data.nav-menu.links %}
-    {% assign link-page = site.pages | where: 'path', link.page | first %}
     <li>
-      <a href="{{ link-page.url }}">{{ link.title }}</a>
+      <a href="{{ link.page }}">{{ link.title }}</a>
     </li>
     {% endfor %}
     <li>
