@@ -1,23 +1,18 @@
 <nav id="site-nav">
   <div class="nav-logo">
-    <a href="{{ base }}/">{% include svg/john-bauters-logo-blue.svg %}</a>
+    <a href="{{ base }}/">
+      <img src="{{ base }}{{ site.data.nav-menu.logo }}" />
+    </a>
   </div>  
   <ul class="nav-links">
-    
+    {% for link in site.data.nav-menu.links %}
+    {% assign link-page = site.pages | where: 'path', link.page | first %}
     <li>
-      <a href="{{ base }}/about/">About John</a>
+      <a href="{{ link-page.url }}">{{ link.title }}</a>
     </li>
+    {% endfor %}
     <li>
-      <a href="{{ base }}/issues/">Issues</a>
-    </li>
-    <li>
-      <a href="{{ base }}/endorsements/">Endorsements</a>
-    </li>
-    <li>
-      <a href="{{ base }}/news/">News</a>
-    </li>
-    <li>
-      <a href="{{ base }}/donate/" class="btn">Donate</a>
+      <a href="{{ base }}{{ site.data.nav-menu.button.link }}" class="btn">{{ site.data.nav-menu.button.text }}</a>
     </li>
   </ul> 
   <div class="mobile-nav-toggle">
