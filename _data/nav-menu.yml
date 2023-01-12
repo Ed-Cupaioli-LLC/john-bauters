@@ -3,11 +3,11 @@ links:
   - title: About John
     page: /about
   - title: Issues
-    page: _pages/issues.md
+    page: /issues
   - title: Endorsements
-    page: _pages/endorsements.md
+    page: /endorsements
   - title: News
-    page: _pages/news.md
+    page: /news
 button:
   text: Donate
   link: /donate/
