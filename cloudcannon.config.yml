@@ -11,6 +11,8 @@ collections_config:
         _inputs:
           $.title:
             comment: The title of your blog post
+          $.published: 
+            type: switch  
   redirects:
     name: Redirects
     path: _redirects

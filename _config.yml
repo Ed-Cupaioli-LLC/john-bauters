@@ -50,6 +50,7 @@ defaults:
     type: 'posts'
   values: 
     layout: 'post'
-    permalink: /:year/:month/:day/:title/     
+    permalink: /:year/:month/:day/:title/
+    published: true     
 
 data_dir: _data    
