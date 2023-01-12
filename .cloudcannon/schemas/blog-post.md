@@ -1,5 +1,4 @@
 ---
 title: ''
 published: true
-date: ''
 ---
