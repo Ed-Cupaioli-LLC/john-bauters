@@ -14,13 +14,15 @@ collections_config:
   redirects:
     name: Redirects
     path: _redirects
-    add_options: []
 collection_groups:
   - heading: Content
     collections:
       - posts
       - redirects
       - pages
+  - heading: Settings
+    collections: 
+    - data     
 paths:
   static: ''
   uploads: img
