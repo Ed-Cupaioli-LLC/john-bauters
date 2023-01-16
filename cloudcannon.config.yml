@@ -59,8 +59,9 @@ _inputs:
     type: markdown
   layout: 
     hidden: true
-  date:     
-
+  date: 
+    type: datetime
+    instance_value: NOW 
 data_config: 
   nav-menu: true  
 
