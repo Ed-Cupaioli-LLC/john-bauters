@@ -1,7 +1,7 @@
 collections_config:
   posts:
     name: Posts
-    path: _posts
+    path: _posts 
     schemas:
       default:
         path: .cloudcannon/schemas/blog-post.md
@@ -58,7 +58,8 @@ _inputs:
   intro.text:
     type: markdown
   layout: 
-    hidden: true  
+    hidden: true
+  date:     
 
 data_config: 
   nav-menu: true  
