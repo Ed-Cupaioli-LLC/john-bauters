@@ -12,8 +12,8 @@ collections_config:
           $.title:
             comment: The title of your blog post
           $.date: 
-             type: datetime
-             instance_value: NOW
+            type: datetime
+            instance_value: NOW
           $.published: 
             comment: Switch on to show the post, off to hide it from the news feed.
             type: switch  
