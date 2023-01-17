@@ -13,10 +13,15 @@ collections_config:
             comment: The title of your blog post
           $.published: 
             comment: Switch on to show the post, off to hide it from the news feed.
-            type: switch  
+            type: switch 
+          $.date: 
+            type: datetime
+            instance_value: NOW    
   redirects:
     name: Redirects
     path: _redirects
+    _enabled_editors:
+    - data
 collection_groups:
   - heading: Content
     collections:
@@ -56,9 +61,6 @@ _inputs:
     type: markdown
   layout: 
     hidden: true
-  date: 
-    type: datetime
-    instance_value: NOW 
 data_config: 
   nav-menu: true  
 
