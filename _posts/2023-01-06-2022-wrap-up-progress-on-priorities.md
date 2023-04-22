@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: '2022 Wrap-Up: Progress on Priorities'
-published: false
+published: true
 date:
 ---
 ![](https://johnbauters.net/img/screen-shot-2022-01-01-at-3-23-27-pm.png)<br>Welcome to the 2022 Wrap-Up in Emeryville.
