@@ -28,9 +28,9 @@ _structures:
 intro:
   title: Issues
   text: >-
-    John has a long track record of issues advocacy in the Bay Area at large.
-    Here are John’s stances on the most important issues facing Emeryville
-    today. To read more about other issues, [check out John’s blog](../news/)!
+    John has a long track record of issues advocacy in the Bay Area. Read below
+    to learn what John has been doing on the issues most important to Emeryville
+    voters. To read more about other issues, [check out John’s blog](../news/)!
 issue-summary:
   image:
     src: /img/john-council-meeting.png
