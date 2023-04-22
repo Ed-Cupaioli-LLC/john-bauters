@@ -195,6 +195,69 @@ issues:
 
       * [Emeryville Councilman Pushes for Safety Improvements (KTVU,
       2019)](https://www.ktvu.com/news/emeryville-councilman-pushes-for-safety-improvements-at-busy-intersection)
+  - title: Community Safety and Social Justice
+    id: safety
+    subtitle: Community Safety with a Commitment to Social Justice
+    text: >-
+      Community safety is critical to everything we do. This is accomplished
+      through a combination of policies that reflect preparedness, a qualified
+      and trained team of public safety professionals, and policies that balance
+      the civil rights of marginalized community members against government
+      overreach.
+
+
+      Since joining the city council, I have fought to protect the safety of our
+      most vulnerable community members. My first act as a council member in
+      2017 was to coauthor the city’s Sanctuary City resolution. I have
+      identified and pushed the city to end contracts with companies sharing
+      personal and biometric data with ICE and have called for limits on the use
+      of certain technologies like facial recognition that can be misused to
+      target and discriminate against minorities. True community safety comes
+      from making meaningful investments in community-based health, education,
+      and youth programs.
+
+
+      Preparedness is also a key part of our safety plan. In 2023, the
+      Emeryville City Council fully funded a $5 Million Disaster Reserve Fund,
+      fulfilling a citywide goal that I've pushed for us to complete during my
+      tenure in office.
+
+
+      In 2022, the City Council voted to eliminate many of the old criminal
+      offenses enumerated in the Municipal Code, ensuring that our law
+      enforcement personnel and resources are available and used at calls for
+      service that most directly impact community safety while also eliminating
+      pretextual reasons for a police stop.&nbsp;
+
+
+      The safest communities are those that promote inclusivity, justice, and
+      safety for everyone. I will always work to promote a safe and just
+      Emeryville community for all.
+
+
+      **To read about John’s actions regarding justice as covered by the local
+      media, read more below:**
+
+
+      * [Emeryville Mayor Speaks Out Over Cornology Incident (San Francisco
+      Chronicle,
+      2018)](https://www.sfchronicle.com/insidescoop/article/Emeryville-Mayor-speaks-out-over-Cornology-12867714.php)
+
+      * [Northern California Mayors Presented with Civil Rights Awards
+      (SDLGBTN.com,
+      2018)](https://sdlgbtn.com/news/2018/07/16/nicole-murray-ramirez-presented-northern-california-mayors-civil-rights-awards)
+
+      * [Another East Bay City Will Fly Rainbow Flag for Dublin After Council's
+      Rejection (East Bay Times,
+      2019)](https://www.eastbaytimes.com/2019/05/27/another-east-bay-city-will-fly-rainbow-flag-for-dublin-after-councils-rejection/)
+
+      * [Emeryville Scuttles Proposed Contract with License Plate Reader Firm
+      (East Bay Citizen,
+      2020)](https://www.eastbayexpress.com/oakland/minimum-wage-in-hayward-to-rise-to-15-in-july/Content?oid=28682944)
+
+      * [Bay Area Deaf, Hard of Hearing say Face Masks cut off Communication
+      (San Francisco Chronicle,
+      2020)](https://www.sfchronicle.com/bayarea/article/Bay-Area-deaf-hard-of-hearing-say-face-masks-cut-15315708.php)
   - title: Economic Development
     id: econ
     subtitle: Creating a Financially Healthy City for Our Future
@@ -243,80 +306,6 @@ issues:
       I will continue to look for ways to protect the city’s core services, to
       expand and diversify our local economy, and to support the businesses and
       workers that make up our local economy.
-  - title: Community Safety and Social Justice
-    id: safety
-    subtitle: Community Safety with a Commitment to Social Justice
-    text: >-
-      The quest for racial and social justice is far from over. In order for
-      communities to realize lasting change, we must continue to have
-      challenging conversations about the ways in which race and racism impact
-      justice and equity, and in turn, threaten community safety.
-
-
-      Since joining the city council, I have fought to protect the safety of our
-      most vulnerable community members. My first act as a council member was to
-      coauthor the city’s Sanctuary City resolution. I have identified and
-      pushed the city to end contracts with companies sharing personal and
-      biometric data with ICE and have called for limits on the use of certain
-      technologies like facial recognition that can be misused to target and
-      discriminate against minorities. True community safety comes from making
-      meaningful investments in community-based health, education, and youth
-      programs.
-
-
-      Preparedness is also a key part of our safety plan. For the past three
-      years, I have pushed for the council to make additional discretionary
-      contributions toward our disaster reserves. That planning is ultimately
-      what allowed the city council to take $400,000 from our disaster reserves
-      to fund the Emeryville Emergency Rental Assistance Fund in response to
-      COVID. These funds were used to help many low-income and vulnerable
-      community members who had COVID-related job loss cover rent for several
-      months as a stopgap against eviction and financial debt. By protecting
-      hundreds of long-term community members from displacement, the city took
-      action to safeguard the broader public safety by protecting community
-      members who are integral to the social fabric of our community.
-
-
-      I have called on the council to eliminate criminal penalties in our
-      municipal code for things that could be better handled as administrative
-      citations. Doing so makes better use of the law enforcement resources we
-      have by reserving police response for situations that necessitate their
-      response while eliminating police response for minor matters that can
-      become pretense to target, profile or criminalize black, indigenous, and
-      other people of color. This is one of many reforms the council has
-      scheduled for discussion in the coming months to help ensure the public
-      safety services we provide the Emeryville community are competent and
-      responsive to the needs of all community members.
-
-
-      I remain committed to creating a more just and equitable community. Black
-      Lives Matter. Justice dies in silence. I promise to continue using my
-      platform and voice to advance justice for everyone in our community.
-
-
-      **To read about John’s actions regarding justice as covered by the local
-      media, read more below:**
-
-
-      * [Emeryville Mayor Speaks Out Over Cornology Incident (San Francisco
-      Chronicle,
-      2018)](https://www.sfchronicle.com/insidescoop/article/Emeryville-Mayor-speaks-out-over-Cornology-12867714.php)
-
-      * [Northern California Mayors Presented with Civil Rights Awards
-      (SDLGBTN.com,
-      2018)](https://sdlgbtn.com/news/2018/07/16/nicole-murray-ramirez-presented-northern-california-mayors-civil-rights-awards)
-
-      * [Another East Bay City Will Fly Rainbow Flag for Dublin After Council's
-      Rejection (East Bay Times,
-      2019)](https://www.eastbaytimes.com/2019/05/27/another-east-bay-city-will-fly-rainbow-flag-for-dublin-after-councils-rejection/)
-
-      * [Emeryville Scuttles Proposed Contract with License Plate Reader Firm
-      (East Bay Citizen,
-      2020)](https://www.eastbayexpress.com/oakland/minimum-wage-in-hayward-to-rise-to-15-in-july/Content?oid=28682944)
-
-      * [Bay Area deaf, hard of hearing say face masks cut off communication
-      (San Francisco Chronicle,
-      2020)](https://www.sfchronicle.com/bayarea/article/Bay-Area-deaf-hard-of-hearing-say-face-masks-cut-15315708.php)
   - title: Small Businesses
     id: small-biz
     subtitle: >-
