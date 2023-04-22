@@ -223,27 +223,25 @@ issues:
       I will continue to look for ways to protect the city’s core services, to
       expand and diversify our local economy, and to support the businesses and
       workers that make up our local economy.
-  - title: Safety and Justice
+  - title: Community Safety and Social Justice
     id: safety
-    subtitle: >-
-      As our city grows, so too must our public safety system’s commitment to
-      providing an equitable and just application of the law.
+    subtitle: Community Safety with a Commitment to Social Justice
     text: >-
-      As recent national events have reminded us, the quest for racial and
-      social justice is far from over. In order for communities to realize
-      lasting change, we must continue to have uncomfortable conversations about
-      race and racism, and commit to taking action steps that address the
-      unequal treatment many people experience.
+      The quest for racial and social justice is far from over. In order for
+      communities to realize lasting change, we must continue to have
+      challenging conversations about the ways in which race and racism impact
+      justice and equity, and in turn, threaten community safety.
 
 
       Since joining the city council, I have fought to protect the safety of our
       most vulnerable community members. My first act as a council member was to
-      coauthor the city’s Sanctuary City resolution. I identified and pushed the
-      city to end contracts with companies sharing personal and biometric data
-      with ICE and have called for limits on the use of certain technologies
-      like facial recognition that can be misused to target and discriminate
-      against minorities. True community safety comes from making meaningful
-      investments in community-based health, education, and youth programs.
+      coauthor the city’s Sanctuary City resolution. I have identified and
+      pushed the city to end contracts with companies sharing personal and
+      biometric data with ICE and have called for limits on the use of certain
+      technologies like facial recognition that can be misused to target and
+      discriminate against minorities. True community safety comes from making
+      meaningful investments in community-based health, education, and youth
+      programs.
 
 
       Preparedness is also a key part of our safety plan. For the past three
@@ -268,20 +266,21 @@ issues:
       other people of color. This is one of many reforms the council has
       scheduled for discussion in the coming months to help ensure the public
       safety services we provide the Emeryville community are competent and
-      responsive to the needs of all community members. 
+      responsive to the needs of all community members.
 
 
       I remain committed to creating a more just and equitable community. Black
       Lives Matter. Justice dies in silence. I promise to continue using my
-      platform and voice to advance justice for everyone in our community. 
+      platform and voice to advance justice for everyone in our community.
 
 
       **To read about John’s actions regarding justice as covered by the local
       media, read more below:**
 
+
       * [Emeryville Mayor Speaks Out Over Cornology Incident (San Francisco
       Chronicle,
-      2018)](https://www.sfchronicle.com/insidescoop/article/Emeryville-Mayor-speaks-out-over-Cornology-12867714.php) 
+      2018)](https://www.sfchronicle.com/insidescoop/article/Emeryville-Mayor-speaks-out-over-Cornology-12867714.php)
 
       * [Northern California Mayors Presented with Civil Rights Awards
       (SDLGBTN.com,
