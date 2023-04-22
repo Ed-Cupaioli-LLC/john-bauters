@@ -36,11 +36,10 @@ issue-summary:
     src: /img/john-council-meeting.png
     alt: John Bauters at City Council Meeting
   text: >-
-    John spent the last four years serving the people of Emeryville on their
-    city council advocating for policies that keep the city resilient in the
-    face of a rapidly changing Bay Area while also continuing to champion the
-    needs of working tenants and families. Read about his priorities and track
-    record on the top issues in Emeryville.
+    Since 2016, John has been a leader with a track record of accomplishing
+    progressive change for the City of Emeryville and greater Bay Area on
+    affordable housing, transportation, environmental, social justice and
+    economic issues. Learn about some of his work below.
 issues:
   - title: Housing & Homelessness
     id: Housing
