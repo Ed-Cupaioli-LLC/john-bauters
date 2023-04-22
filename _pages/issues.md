@@ -71,7 +71,12 @@ issues:
       homelessness, working families, seniors on fixed incomes, artists and
       transition-aged youth leaving foster care coming online in the next few
       years as a result of Emeryville voters commitment to being part of the
-      solution.
+      solution. In April 2023, [Governor Newsom and the California Department of
+      Housing and Community Development
+      announced](https://www.gov.ca.gov/2023/04/05/governor-newsom-announces-11-new-jurisdictions-to-receive-a-prohousing-designation-for-accelerating-housing-production/){:
+      target="_blank" rel="noopener"} that Emeryville had received a rare
+      pro-housing designation from the state, making it eligible to be the first
+      to receive funding for new affordable housing projects.
 
 
       In 2017, the City Council also approved a [Tenant Protection and Just
