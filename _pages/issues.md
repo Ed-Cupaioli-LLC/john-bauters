@@ -190,8 +190,7 @@ issues:
       Beacon,
       2019)](https://www.thebaycitybeacon.com/politics/caltrans-delays-major-east-bay-project-after-local-backlash/article_85e76ed6-6aac-11e9-ba4e-1f2ee257bd0a.html)
 
-      * [Emeryville Approves 40th Street Protected Bike Lanes StreetsBlog (San
-      Francisco,
+      * [Emeryville Approves 40th Street Protected Bike Lanes (StreetsBlog SF,
       2019)](https://sf.streetsblog.org/2019/07/15/emeryville-approves-40th-street-protected-bike-lanes/)
 
       * [Emeryville Councilman Pushes for Safety Improvements (KTVU,
