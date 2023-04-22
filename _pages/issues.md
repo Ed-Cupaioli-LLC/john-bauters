@@ -236,8 +236,8 @@ issues:
       Emeryville community for all.
 
 
-      **To read about John’s actions regarding justice as covered by the local
-      media, read more below:**
+      **To read about John on the issue of community safety and social
+      justice:**
 
 
       * [Emeryville Mayor Speaks Out Over Cornology Incident (San Francisco
