@@ -267,6 +267,46 @@ issues:
       addressing climate change through action. As a bayside community,
       Emeryville stands to face significant infrastructure, safety and health
       impacts by the effects of climate change.
+
+
+      Emeryville has a long history of being a city that disregarded
+      environmental regulations. We were the city that smelted steel, burned
+      rubber, dumped toxic chemicals into the soil and groundwater, and filled
+      in the bay. Not exactly a sterling reputation to start from. But in recent
+      years, our work has been so impactful that [Opendoor named us the
+      second-most "Eco-Forward City" in the US in
+      2023](https://www.opendoor.com/w/blog/opendoors-2023-eco-forward-cities){:
+      target="_blank" rel="noopener"}.
+
+
+      Since joining council in 2016, we have adopted a Lead Safety Ordinance to
+      eliminate DIY repairs on old homes without proper protections and
+      protocols, have instituted bird-safe building design guidelines to reduce
+      aviary deaths against large windows, have banned crematoriums, and
+      completed dozens of soil remediation projects to remove vapors and toxics
+      from old industrial uses. On top of this, the availability of the free
+      Emery-Go-Round and the growth of our active transportation network have
+      given residents greater car-free options for daily life.
+
+
+      I have represented the cities of Alameda County on the Bay Area Quality
+      Management District since 2018, and served as chair of the Board in 2022
+      and 2023. During my time there, we have adopted regulations that [limits
+      harmful particulate matter emissions from the region's
+      refineries](https://www.kqed.org/news/11876301/bay-area-refineries-must-dramatically-cut-pollution-air-district-says-in-historic-vote){:
+      target="_blank" rel="noopener"}, implemented [clean air centers for use
+      during wildfire smoke
+      days](https://www.ktvu.com/news/californias-first-clean-air-center-launches-in-san-franciscos-bayview){:
+      target="_blank" rel="noopener"}, and approved zero NOx emission standards
+      for water heaters and furnaces that will further reduce harmful health
+      impacts in the years to come.
+
+
+      I have made meeting with students a priority during my time in office, and
+      understand the importance of climate action today to the quality of their
+      future. I'm honored that the Sierra Club of San Francisco Bay Chapter gave
+      me their inaugural Visionary Award in 2022 for my work to make the region
+      a more environmentally just place for all.
   - title: Economic Development
     id: econ
     subtitle: Creating a Financially Healthy City for Our Future
