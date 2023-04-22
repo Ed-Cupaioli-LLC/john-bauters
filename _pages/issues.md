@@ -260,7 +260,7 @@ issues:
       (San Francisco Chronicle,
       2020)](https://www.sfchronicle.com/bayarea/article/Bay-Area-deaf-hard-of-hearing-say-face-masks-cut-15315708.php)
   - title: Environmental Justice
-    id: environment
+    id: small-biz
     subtitle: Protecting Public Health and Habitat
     text: >-
       Perhaps one of the most imperative issue for decision-makers today is
