@@ -34,7 +34,7 @@ intro:
 issue-summary:
   image:
     src: /img/john-council-meeting.png
-    alt: John Bauters at City Council Meeting
+    alt: John Bauters at a Regional Policy Forum
   text: >-
     Since 2016, John has been a leader with a track record of accomplishing
     progressive change for the City of Emeryville and greater Bay Area on
