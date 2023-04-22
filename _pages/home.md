@@ -32,7 +32,7 @@ issues:
     - title: Safety and Justice
       image: /img/safety-justice.jpg
       link: /issues/#safety
-    - title: Small Business
+    - title: Environmental Justice
       image: /img/small-biz.jpg
       link: /issues/#small-biz
     - title: Transportation
