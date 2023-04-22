@@ -306,40 +306,12 @@ issues:
       I will continue to look for ways to protect the city’s core services, to
       expand and diversify our local economy, and to support the businesses and
       workers that make up our local economy.
-  - title: Small Businesses
-    id: small-biz
-    subtitle: >-
-      Livable communities promote local-hire, local-serving retail and services
-      while helping to reopen businesses safely for customers and workers.
+  - title: Environmental Justice
+    id: environment
+    subtitle: Protecting Public Health and Habitat
     text: >-
-      Like many residents, I am committed to supporting local establishments
-      grappling with the harsh impacts from the COVID-19 pandemic. Doing what we
-      all can to keep our businesses afloat is a necessary part of supporting
-      not just our local economy, but our community’s identity and diversity..
-      The owners and employees of these places contribute significantly to the
-      vibrancy of our community. The ability to “shop local” is part of creating
-      a sustainable, family-friendly Emeryville for residents and visitors
-      alike.
-
-
-      These new economic challenges, and the uncertainty that lies ahead, calls
-      for innovation and leadership. Over the last few years, I have supported
-      and voted to approve over $200,000 for our Facade Grant program to assist
-      businesses with infrastructure improvements - one of the most
-      cost-prohibitive expenses to small businesses. I’ve introduced rebate
-      programs for cabaret licenses that allow on-site music and entertainment
-      and pushed for the city council to provide small businesses with tenant
-      protections against eviction by commercial landlords while guaranteeing
-      repayment opportunities. I partnered with our artist community to win a
-      Cultural Arts District designation from the California Arts Council and as
-      Mayor in 2018, I picked up and dusted off the old plans for the Emeryville
-      Arts Center and commenced a public process that helped the city find a
-      private partnership to help move our community arts center to
-      construction.
-
-
-      Going forward, I will continue to identify opportunities and programs the
-      city council can implement to help small businesses get back online
-      quickly and safely, while working to preserve those cultural components
-      that make Emeryville unique.
+      Perhaps one of the most imperative issue for decision-makers today is
+      addressing climate change through action. As a bayside community,
+      Emeryville stands to face significant infrastructure, safety and health
+      impacts by the effects of climate change.
 ---
