@@ -174,8 +174,8 @@ issues:
       that yield safe streets for our residents, businesses, and visitors.
 
 
-      **To read more about John Bauters’ involvement on the issue of
-      transportation in the local press:**
+      **To read more about John on the issue of transportation in the local
+      press:**
 
 
       * [Meet the Mayor Who Wants to Persuade You to Get Rid of Your Car (San
