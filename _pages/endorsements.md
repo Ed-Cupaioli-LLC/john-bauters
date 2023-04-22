@@ -69,7 +69,7 @@ leader-endorsements:
       California*
     - Ben Hofer, Executive Director, Secure Justice
   disclaimer: >-
-    ***Organizations listed for identification purposes only. All public elected
-    office titles are listed for identification purposes only.**   
+    **\*Organizations listed for identification purposes only. All public
+    elected office titles are listed for identification purposes only.**
   image: /img/john-with-supporter.jpg
 ---
