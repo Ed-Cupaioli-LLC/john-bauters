@@ -306,7 +306,7 @@ issues:
       understand the importance of climate action today to the quality of their
       future. I'm honored that the Sierra Club of San Francisco Bay Chapter gave
       me their inaugural Visionary Award in 2022 for my work to make the region
-      a more environmentally just place for all.
+      a more environmentally just place for everyone.
   - title: Economic Development
     id: econ
     subtitle: Creating a Financially Healthy City for Our Future
