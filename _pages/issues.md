@@ -196,18 +196,16 @@ issues:
 
       * [Emeryville Councilman Pushes for Safety Improvements (KTVU,
       2019)](https://www.ktvu.com/news/emeryville-councilman-pushes-for-safety-improvements-at-busy-intersection)
-  - title: ECONOMIC DEVELOPMENT AND FISCAL PREPAREDNESS
+  - title: Economic Development
     id: econ
-    subtitle: >-
-      Balancing the books to guarantee Emeryville’s resilience from COVID-19 and
-      beyond.
+    subtitle: Creating a Financially Healthy City for Our Future
     text: >-
       Many years of good fiscal decisions and progressive budgeting practices
       have prepared Emeryville for changes to the economy. As the chair of
       Emeryville’s Budget & Governance Committee, I have worked closely with
       city staff and my colleagues to introduce budgeting practices that have
       paid down debt and unfunded liabilities while building reserves for an
-      economic downturn. 
+      economic downturn.
 
 
       As Mayor in 2018, I campaigned in support of Measure S, our Cannabis Tax,
