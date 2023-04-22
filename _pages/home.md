@@ -23,21 +23,21 @@ issues:
     families, small businesses, and the environment. Read about his priorities
     and track record on the top issues in Emeryville.
   items:
-    - title: Housing and Homelessness
+    - title: Housing & Homelessness
       image: /img/housing.jpg
       link: /issues/#housing
-    - title: Economic Development
-      image: /img/econ-dev.jpg
-      link: /issues/#econ
-    - title: Safety and Justice
-      image: /img/safety-justice.jpg
-      link: /issues/#safety
+    - title: Transportation & Mobility
+      image: /img/transpo.jpg
+      link: /issues/#transpo
     - title: Environmental Justice
       image: /img/small-biz.jpg
       link: /issues/#small-biz
-    - title: Transportation
-      image: /img/transpo.jpg
-      link: /issues/#transpo
+    - title: Safety and Justice
+      image: /img/safety-justice.jpg
+      link: /issues/#safety
+    - title: Economic Development
+      image: /img/econ-dev.jpg
+      link: /issues/#econ
 donate:
   text: Donate to John Bauters Campaign
 footer:
