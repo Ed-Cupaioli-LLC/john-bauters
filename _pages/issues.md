@@ -195,7 +195,7 @@ issues:
 
       * [Emeryville Councilman Pushes for Safety Improvements (KTVU,
       2019)](https://www.ktvu.com/news/emeryville-councilman-pushes-for-safety-improvements-at-busy-intersection)
-  - title: Community Safety and Social Justice
+  - title: Community Safety & Social Justice
     id: safety
     subtitle: Community Safety with a Commitment to Social Justice
     text: >-
