@@ -39,7 +39,7 @@ issue-summary:
     Since 2016, John has been a leader with a track record of accomplishing
     progressive change for the City of Emeryville and greater Bay Area on
     affordable housing, transportation, environmental, social justice and
-    economic issues. Learn about some of his work below.
+    economic issues. Learn more about his work below.
 issues:
   - title: Housing & Homelessness
     id: Housing
