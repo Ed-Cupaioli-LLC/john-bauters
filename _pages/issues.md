@@ -123,6 +123,79 @@ issues:
       * [California Should Do More to Protect Tenants (California YIMBY,
       2020)](https://cayimby.org/coronavirus-and-renters-california-should-do-more-to-protect-tenants/){:
       target="_blank" rel="noopener"}
+  - title: Transportation & Mobility
+    id: transpo
+    subtitle: Building a Multi-Modal City for All Ages & Abilities
+    text: >-
+      Emeryville’s geographic location makes it a natural transit hub in the Bay
+      Area. Developing a safe multi-modal system that serves all ages and
+      abilities means more choices and greater livability for everyone.
+
+
+      As a member of the Emeryville Transportation Committee, I have worked to
+      bring traffic calming to residential neighborhoods, including the [Doyle
+      Street neighborhood project](https://vimeo.com/540312226){:
+      target="_blank" rel="noopener"} that included block closures near parks
+      and playgrounds and car removal from southbound lanes. I championed the
+      [Railroad Safety Improvement/Quiet Zone
+      Project](https://www.ci.emeryville.ca.us/1429/Quiet-Zone-Project){:
+      target="_blank" rel="noopener"} that will finish construction in 2023 and
+      [successfully pushed for the placement of seating at every bus stop in the
+      city](https://usa.streetsblog.org/2022/12/21/what-it-takes-to-put-a-seat-at-every-bus-stop-in-town/){:
+      target="_blank" rel="noopener"} in 2022.
+
+
+      In 2022, I was elected Chair of the &nbsp;Alameda County Transportation
+      Commission, where I have used my position to develop the county's first
+      [Race & Equity Action
+      Plan](https://www.alamedactc.org/wp-content/uploads/2022/12/AlamedaCTC_REAP_2022_Final.pdf){:
+      target="_blank" rel="noopener"} (REAP), the county's first [Countywide
+      Bikeways
+      Network](https://legistarweb-production.s3.amazonaws.com/uploads/attachment/pdf/1642425/5.2_PPLC_Countywide_Bike_Network_20221114.pdf#page=7){:
+      target="_blank" rel="noopener"}, and begun the work to integrate climate
+      action into the transportation planning of the future.
+
+
+      Other local projects in the works include the city's plan for [a complete
+      redesign of 40th
+      Street](https://sf.streetsblog.org/2019/07/15/emeryville-approves-40th-street-protected-bike-lanes/){:
+      target="_blank" rel="noopener"} as a Complete Street, the completion of
+      the Emeryville Greenway in 2023, and a left-turn bus-only on-ramp to I-80
+      Westbound from Powell Street in partnership with MTC.
+
+
+      In 2023, the Mayors Institute named me to their Inaugural [Mayors
+      Institute on Pedestrian
+      Safety](https://mayorsinnovation.org/our-work/mips/){: target="_blank"
+      rel="noopener"}, along with 8 other mayors across the United States. I
+      will continue to be a leader on transit equity, to leverage regional and
+      state funding for local projects, and prioritize projects for investment
+      that yield safe streets for our residents, businesses, and visitors.
+
+
+      **To read more about John Bauters’ involvement on the issue of
+      transportation in the local press:**
+
+
+      * [Meet the Mayor Who Wants to Persuade You to Get Rid of Your Car (San
+      Francisco Chronicle,
+      2022)](https://www.sfchronicle.com/bayarea/article/Meet-the-Bay-Area-mayor-who-wants-to-convince-you-17029894.php){:
+      target="_blank" rel="noopener"}
+
+      * [This American Mayor is Creating the Ultimate Biking City (Propel Bikes,
+      2022)](https://www.youtube.com/watch?v=FlVWv9O0qQ4&amp;t=1340s){:
+      target="_blank" rel="noopener"}
+
+      * [Caltrans Delays Major East Bay Project After Local Backlash (Bay City
+      Beacon,
+      2019)](https://www.thebaycitybeacon.com/politics/caltrans-delays-major-east-bay-project-after-local-backlash/article_85e76ed6-6aac-11e9-ba4e-1f2ee257bd0a.html)
+
+      * [Emeryville Approves 40th Street Protected Bike Lanes StreetsBlog (San
+      Francisco,
+      2019)](https://sf.streetsblog.org/2019/07/15/emeryville-approves-40th-street-protected-bike-lanes/)
+
+      * [Emeryville Councilman Pushes for Safety Improvements (KTVU,
+      2019)](https://www.ktvu.com/news/emeryville-councilman-pushes-for-safety-improvements-at-busy-intersection)
   - title: ECONOMIC DEVELOPMENT AND FISCAL PREPAREDNESS
     id: econ
     subtitle: >-
@@ -263,55 +336,4 @@ issues:
       city council can implement to help small businesses get back online
       quickly and safely, while working to preserve those cultural components
       that make Emeryville unique.
-  - title: TRANSPORTATION, MOBILITY, AND TRANSIT
-    id: transpo
-    subtitle: >-
-      Working to ensure equitable access to, from, and within Emeryville for
-      pedestrians, bicyclists, families with children, the elderly,  people
-      living with disabilities, and the transit-dependent.
-    text: >-
-      Emeryville’s geographic location makes it a natural transit hub in the Bay
-      Area. Developing a multi-modal system that gives commuters meaningful
-      choices can make our community safer. 
-
-
-      As vice chair of the Alameda County Transportation Commission, I work to
-      ensure transit remains accessible to people of all ages, incomes and
-      abilities. I have prioritized infrastructure investments that target
-      Alameda County’s high-injury network – intersections where higher
-      incidents of bicycle and pedestrian injuries occur. I helped secure state
-      funding to upgrade our city’s at-grade railroad crossings to improve
-      pedestrian safety while also enhancing community livability with a rail
-      quiet zone. I proposed a plan council has approved to redesign 40th Street
-      with dedicated transit lanes, a protected cycle-track, and pedestrian
-      enhancements. I am committed to turning our slow streets project along
-      Doyle Street into a permanent installation so that families and children
-      can safely enjoy the Emeryville Greenway and its adjacent park space. I am
-      working closely with Caltrans, AC Transit and MTC to develop a bus-only
-      on-ramp at Powell Street that will expedite trans-bay commutes across the
-      Bay Bridge.
-
-
-      I will continue to be a leader on transit equity, to leverage regional and
-      state funding for local projects, and prioritize projects for investment
-      that yield safe streets for our residents, businesses, and visitors.
-
-
-      To read more about John Bauters’ involvement on the issue of
-      transportation in the local press:
-
-      * [Caltrans Delays Major East Bay Project After Local Backlash (Bay City
-      Beacon,
-      2019)](https://www.thebaycitybeacon.com/politics/caltrans-delays-major-east-bay-project-after-local-backlash/article_85e76ed6-6aac-11e9-ba4e-1f2ee257bd0a.html)  
-
-      * [Emeryville Approves 40th Street Protected Bike Lanes StreetsBlog (San
-      Francisco,
-      2019)](https://sf.streetsblog.org/2019/07/15/emeryville-approves-40th-street-protected-bike-lanes/)
-
-      * [Emeryville Councilman Pushes for Safety Improvements (KTVU,
-      2019)](https://www.ktvu.com/news/emeryville-councilman-pushes-for-safety-improvements-at-busy-intersection)
-
-      * [Traffic is Misery for Teachers Who Cross The Bay (San Francisco
-      Chronicle,
-      2020)](https://www.sfchronicle.com/bayarea/article/Traffic-is-misery-for-teachers-who-cross-the-15024783.php)   
 ---
