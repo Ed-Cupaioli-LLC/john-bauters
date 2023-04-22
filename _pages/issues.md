@@ -199,24 +199,45 @@ issues:
     id: econ
     subtitle: Creating a Financially Healthy City for Our Future
     text: >-
-      Many years of good fiscal decisions and progressive budgeting practices
-      have prepared Emeryville for changes to the economy. As the chair of
-      Emeryville’s Budget & Governance Committee, I have worked closely with
-      city staff and my colleagues to introduce budgeting practices that have
-      paid down debt and unfunded liabilities while building reserves for an
-      economic downturn.
+      Emeryville continues to be a model city for fiscal responsibility and
+      economic development. Whether it be an economic recession, a housing
+      crisis, or a pandemic, the city has been able to withstand successive
+      economic challenges by adopting solid fiscal policies, implementing
+      healthy budget principles, and diversifying our local economy's tax base
+      to protect critical services residents and businesses rely on.
 
 
-      As Mayor in 2018, I campaigned in support of Measure S, our Cannabis Tax,
-      which strikes a strong balance between welcoming responsible cannabis
-      industry partners into our city and collecting new tax revenues to fund
-      critical city services. Like most communities, Emeryville is facing
-      significant economic impacts as a result of the COVID-19 pandemic. Our
-      years of preparation have afforded us additional time to analyze the
-      evolving landscape to ensure we can preserve the services that Emeryville
-      residents have come to enjoy. I have worked closely with our local
-      business and labor partners to be responsive to their needs so that our
-      local economy remains vibrant and diverse.
+      In 2018, residents approved both [Measure
+      C](https://www.ci.emeryville.ca.us/1204/Measure-C-Emeryville-Affordable-Housing-){:
+      target="_blank" rel="noopener"}, a $50 million affordable housing bond
+      which served as an investment in equitable housing opportunities, as well
+      as [Measure
+      S](https://www.ci.emeryville.ca.us/1191/Cannabis-Business-Information){:
+      target="_blank" rel="noopener"}, a progressive tax on cannabis that
+      incentivized some of the state's best cannabis businesses to relocate to
+      Emeryville for manufacturing and distribution. In 2020, voters approved
+      [Measure
+      F](https://www.ci.emeryville.ca.us/DocumentCenter/View/12482/EmeryvilleCI1_TBWB_Notice_2?bidId=){:
+      target="_blank" rel="noopener"}, which provided critical resources to
+      support affordable child care in the city, as well as public safety
+      staffing and a citywide Code Enforcement Officer. In 2022, voters approved
+      [Measure
+      O](https://www.ci.emeryville.ca.us/1443/Measure-O---Real-Property-Transfer-Tax){:
+      target="_blank" rel="noopener"}, which helps us do environmental projects,
+      preserve parks and playgrounds, and funds a Critical Needs Fund that can
+      be used to address unplanned or emergency needs in the city as they arise.
+
+
+      When the COVID pandemic struck, the city moved to convert our facade grant
+      program for new businesses modifying old buildings into a temporary rental
+      assistance program for small, minority owned businesses. I worked with
+      colleagues and staff to develop a parklet program that made [converting
+      on-street parking spaces into permanent outdoor
+      dining](https://www.mercurynews.com/2022/05/06/emeryville-cooking-up-permanent-outdoor-dining-plans/){:
+      target="_blank" rel="noopener"}&nbsp;without fees a possibility for small
+      business and restaurant owners. I've partnered with small, local business
+      leaders to start up our BizNexus Program as well as large corporate
+      partners for environmental community clean-up events.
 
 
       I will continue to look for ways to protect the city’s core services, to
@@ -325,7 +346,7 @@ issues:
       Mayor in 2018, I picked up and dusted off the old plans for the Emeryville
       Arts Center and commenced a public process that helped the city find a
       private partnership to help move our community arts center to
-      construction. 
+      construction.
 
 
       Going forward, I will continue to identify opportunities and programs the
