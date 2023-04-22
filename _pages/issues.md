@@ -100,7 +100,7 @@ issues:
       was one of the few cities that successfully decreased homelessness.
 
 
-      **To read more about John Bauters on housing and homelessness in the local
+      **To read more about John on housing and homelessness in the local
       press:**
 
 
