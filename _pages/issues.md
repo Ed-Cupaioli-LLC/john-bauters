@@ -258,6 +258,14 @@ issues:
       * [Bay Area Deaf, Hard of Hearing say Face Masks cut off Communication
       (San Francisco Chronicle,
       2020)](https://www.sfchronicle.com/bayarea/article/Bay-Area-deaf-hard-of-hearing-say-face-masks-cut-15315708.php)
+  - title: Environmental Justice
+    id: environment
+    subtitle: Protecting Public Health and Habitat
+    text: >-
+      Perhaps one of the most imperative issue for decision-makers today is
+      addressing climate change through action. As a bayside community,
+      Emeryville stands to face significant infrastructure, safety and health
+      impacts by the effects of climate change.
   - title: Economic Development
     id: econ
     subtitle: Creating a Financially Healthy City for Our Future
@@ -268,6 +276,13 @@ issues:
       economic challenges by adopting solid fiscal policies, implementing
       healthy budget principles, and diversifying our local economy's tax base
       to protect critical services residents and businesses rely on.
+
+
+      I have served as Chair of the city's Budget & Governance Committee since
+      2016, where I have worked to implement fiscal policies that will ensure
+      the city has funds to deliver on core city services for years to come,
+      protection against economic downturns, and best practices for local
+      governance. The city continues to receive a clean audit.
 
 
       In 2018, residents approved both [Measure
@@ -306,12 +321,4 @@ issues:
       I will continue to look for ways to protect the city’s core services, to
       expand and diversify our local economy, and to support the businesses and
       workers that make up our local economy.
-  - title: Environmental Justice
-    id: environment
-    subtitle: Protecting Public Health and Habitat
-    text: >-
-      Perhaps one of the most imperative issue for decision-makers today is
-      addressing climate change through action. As a bayside community,
-      Emeryville stands to face significant infrastructure, safety and health
-      impacts by the effects of climate change.
 ---
