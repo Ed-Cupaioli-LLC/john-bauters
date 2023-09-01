@@ -83,3 +83,5 @@ Thank you for your commitment to our community. Have a wonderful Labor Day weeke
 Cheers,
 
 John
+
+![](/img/canoe.jpg){: width="4032" height="3024"}
