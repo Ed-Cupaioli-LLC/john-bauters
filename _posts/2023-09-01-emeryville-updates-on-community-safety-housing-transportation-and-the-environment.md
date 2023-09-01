@@ -16,9 +16,9 @@ This past weekend, the city was the site of a fight between a small group of ind
 
 ![](/img/amc-1.jpeg){: width="365" height="370"}
 
-The fight resulted in the accidental discharge of a firearm that fortunately did not hurt anyone, but also, one young woman sustained a stab wound. I am happy to report she was treated and released and will physically recover. While no other injuries were reported that required medical assistance and no property damage was reported, acts of violence **​​**have no place in our community.&nbsp;[Police have identified a suspect in the stabbing and are asking for the community's help in locating this person](https://nixle.us/EPHAZ?_ga=2.225992922.1367269448.1693423322-1300592989.1690217964). If you have any information, please contact the Emeryville Police Department at (510) 596-3700 or email [investigations@emeryville.org](mailto:investigations@emeryville.org).
+The fight resulted in the accidental discharge of a firearm that fortunately did not hurt anyone, but one young woman did sustain a stab wound. I am happy to report she was treated, released, and will physically recover. While no other injuries were reported that required medical assistance and no property damage was reported, acts of violence **​​**have no place in our community.&nbsp;[Police have identified this person as a suspect in the stabbing and are asking for the community's help in locating them](https://nixle.us/EPHAZ?_ga=2.225992922.1367269448.1693423322-1300592989.1690217964). If you have any information, please contact the Emeryville Police Department at (510) 596-3700 or email [investigations@emeryville.org](mailto:investigations@emeryville.org).
 
-I would like to thank the men and women of the Emeryville Police Department, as well as the officers from our partner agencies, who professionally dispersed the crowd without further incident.&nbsp;
+I would like to thank the men and women of the Emeryville Police Department, as well as the responding officers from our neighboring partner agencies, who professionally dispersed the crowd without further incident.&nbsp;
 
 When something like this happens in our community, there are a lot of questions about why this happened and how we can prevent it from happening again. I have spent most of this past week working on those issues. I am extremely grateful to Vice Mayor Courtney Welch, who has worked alongside me all week in our response and next steps after this event. Together, we have had critical discussions with city leadership, members of our Police Department, the management team at Bay Street, Assemblymember Mia Bonta, Emeryville residents, businesses, and other local, regional and state community stakeholders and leaders.
 
@@ -40,7 +40,7 @@ Thank you to the many of you who reached out this past week to offer your suppor
 
 *Nellie Hannon Gateway/3600 San Pablo Avenue -&nbsp;*We hit an important milestone this summer with the groundbreaking of a new, 100% affordable housing site at 3600 San Pablo Avenue, which will be named the Nellie Hannon Gateway Apartments after former Emeryville councilmember and current matriarch of ECAP, Nellie Hannon. [The project will include permanent supportive housing for the homeless and will have a ground floor kitchen and dining room service for ECAP](https://rcdhousing.org/nellie-hannon-gateway/), which has operated outdoors in a parking lot for decades. The state gave this project $44M in State Accelerator Funding in recognition of the community value added by the site and the city's leadership on housing issues.
 
-
+![](/img/nellie-hannon-groundbreaking.jpeg){: width="3024" height="4032"}
 
 *The Bayview/6701 Shellmound Street*&nbsp;- Several years of construction have concluded in the city's northwest corner, with [AMCAL Properties opening the Bayview Apartments for leasing this past month](https://bayviewemeryville.com/). The project contains 186 new homes. I recently toured the property and met with the ownership team. The resident amenities are excellent and the views of the Bay, Golden Gate, and Berkeley Aquatic Park are unparalleled.
 
