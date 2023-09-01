@@ -12,11 +12,7 @@ Summer may be drawing to a close, but it's a great time to check in on a number 
 
 ***Community Safety***
 
-This past weekend, the city was the site of a fight between a small group of individuals amongst a much larger group of young people who had come to the Bay Street shopping center to enjoy discount theater ticket prices on National Cinema Day, promoted by the AMC Theater.
-
-
-
-The fight resulted in the accidental discharge of a firearm that fortunately did not hurt anyone, but also, one young woman sustained a stab wound. I am happy to report she was treated and released and will physically recover. While no other injuries were reported that required medical assistance and no property damage was reported, acts of violence **​​**have no place in our community.&nbsp;[Police have identified a suspect in the stabbing and are asking for the community's help in locating this person](https://nixle.us/EPHAZ?_ga=2.225992922.1367269448.1693423322-1300592989.1690217964). If you have any information, please contact the Emeryville Police Department at (510) 596-3700 or email [investigations@emeryville.org](mailto:investigations@emeryville.org).
+This past weekend, the city was the site of a fight between a small group of individuals amongst a much larger group of young people who had come to the Bay Street shopping center to enjoy discount theater ticket prices on National Cinema Day, promoted by the AMC Theater.The fight resulted in the accidental discharge of a firearm that fortunately did not hurt anyone, but also, one young woman sustained a stab wound. I am happy to report she was treated and released and will physically recover. While no other injuries were reported that required medical assistance and no property damage was reported, acts of violence **​​**have no place in our community.&nbsp;[Police have identified a suspect in the stabbing and are asking for the community's help in locating this person](https://nixle.us/EPHAZ?_ga=2.225992922.1367269448.1693423322-1300592989.1690217964). If you have any information, please contact the Emeryville Police Department at (510) 596-3700 or email [investigations@emeryville.org](mailto:investigations@emeryville.org).
 
 I would like to thank the men and women of the Emeryville Police Department, as well as the officers from our partner agencies, who professionally dispersed the crowd without further incident.&nbsp;
 
