@@ -8,7 +8,7 @@ date: 2023-09-01 11:30:29 -0700
 ---
 Good Day Everyone,
 
-Summer may be drawing to a close, but it's a great time to check in on a number of items of importance to Emeryville community stakeholder with an update. In this edition, we'll discuss community safety, affordable housing, transportation, and environmental policies and projects updates.
+Summer may be drawing to a close, but it's a great time to check in on a number of items of importance to Emeryville community stakeholders with an update. In this edition, we'll discuss community safety, affordable housing, transportation, and environmental policies and projects updates.
 
 ***Community Safety***
 
