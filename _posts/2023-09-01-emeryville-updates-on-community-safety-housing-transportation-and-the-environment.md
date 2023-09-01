@@ -56,7 +56,7 @@ Thank you to the many of you who reached out this past week to offer your suppor
 
 *SF Bay Ferry Upgrades -&nbsp;*Additionally, it was my pleasure to dedicate the newest fleet of regional WETA passenger ferries which are now part of SF Bay Ferry's Gemini series. They utilize very low-emission engines, removing air pollution along the East Bay's coastline, improving regional air quality, transportation choices, and livability.
 
-
+![](/img/ferry.jpg){: width="1536" height="2048"}
 
 *40th Street Corridor*&nbsp;- The council voted to advance plans for a [multi-modal 40th Street corridor](https://www.ci.emeryville.ca.us/1456/40th-Street-Multimodal-Project) to the next part of the design phase process in July. This new project will include upgraded pedestrian facilities, a new two-way protected bicycle track through the area, connecting to the Bay Bridge Trail and Emeryville Greenway, and bus-dedicated lanes with transit stop improvements. If final design is approved, construction could begin at the end of 2024 or early 2025. Having initiated this item at council in 2018, I am grateful to see this project advancing to the final design stages and welcome the opportunity to make our city safer, more accessible, and economically vibrant through this project.
 
@@ -64,7 +64,7 @@ Thank you to the many of you who reached out this past week to offer your suppor
 
 *Davenport Park & Playground -&nbsp;*The city council opened its newest playground facility earlier this year out near the Emeryville Marina, the first playground equipment on our city's peninsula. Special thank you to Patty Weber who spearheaded the call for this infrastructure several years ago and worked with myself and city staff to advance this project to completion. Special congratulations to all the children who are enjoying play time along our coastline!
 
-
+![](/img/davenport.jpg){: width="4032" height="3024"}
 
 *????? Park -&nbsp;*Yeah, I don't know what to call it yet cause we need to hear from you first! [The new park at the former Sherwin-Williams site is&nbsp;*verrrrrrrrry*&nbsp;close to opening](https://www.ci.emeryville.ca.us/1459/Name-That-Park). After 3.5 years of construction, we are literally days away from work being finished. The park will not open for another month to allow grass and other plants some time to become established before they are ready for all the wear-n-tear we know you'll give it! In the meantime, we are planning a community party for this new community asset and we want to know what you'd like to call it. **[You can submit your suggestions here but they must be received by the end of the day on September 5th.](https://www.ci.emeryville.ca.us/forms.aspx?FID=143)**
 
@@ -72,7 +72,7 @@ Thank you to the many of you who reached out this past week to offer your suppor
 
 *Trees, Wildflowers & Pesticides -&nbsp;*In January 2022, I requested and received unanimous support from council to undertake a comprehensive, citywide tree study to examine all the existing and potential opportunities for significantly improving the city's aesthetic, value, and natural resources by expanding our urban tree canopy. As part of the city's budget this year, the council earmarked $1M of funding for an urban tree planting program. In June, as part of National Pollinator Week, I received council support to consider policies that would result in banning pesticides that use neonicotinoids on all city properties and in city contracts. [Neonics are a group of five chemicals found in certain pesticides that are known to kill bees and butterflies while also adversely harming birds that eat insects, resulting in harm to the food web](https://www.xerces.org/pesticides/understanding-neonicotinoids). There has been a dramatic decline in bird, bee, and butterfly populations over recent years, with some studies showing these pesticides are a key contributor. This item will come to the city council for discussion, alongside the final tree study report. I will be asking to create a voluntary wildflowering program in the city to encourage property owners to abandon harmful pesticides while also agreeing to forego a lawn and allow the city to [spread wildflower seeds as a means of helping the city encourage pollinator communities here in Emeryville](https://www.parksconservancy.org/gateways-article/beyond-super-bloom-why-wildflowers-are-so-important-bay-area-parks#:~:text=Wildflowers%20support%20ecosystems%20and%20pollinators%20&#40;and%20us!&#41;&amp;text=Wildflowers%20provide%20seeds%2C%20nectar%2C%20pollen,as%20the%20Mission%20blue%20butterfly.). With additional tree canopy, we can be a community rich in natural resources and small, sensitive wildlife that historically lived along the mudflats here in Emeryville. If you'd like to learn more or would like to come out in support to the meeting, please email me at [jbauters@emeryville.org](mailto:jbauters@emeryville.org).
 
-
+![](/img/wildflowers.jpeg){: width="1125" height="750"}
 
 ***Go Outside!***
 
