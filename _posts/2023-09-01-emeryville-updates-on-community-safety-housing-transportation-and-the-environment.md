@@ -44,15 +44,15 @@ Thank you to the many of you who reached out this past week to offer your suppor
 
 *The Bayview/6701 Shellmound Street*&nbsp;- Several years of construction have concluded in the city's northwest corner, with [AMCAL Properties opening the Bayview Apartments for leasing this past month](https://bayviewemeryville.com/). The project contains 186 new homes. I recently toured the property and met with the ownership team. The resident amenities are excellent and the views of the Bay, Golden Gate, and Berkeley Aquatic Park are unparalleled.
 
-
+![](/img/bayview.jpeg){: width="640" height="480"}
 
 ***Transportation Updates***
 
 *Rail Safety/Quiet Zones -&nbsp;*We are nearing the completion of the construction work for the rail safety improvements at 65th, 66th and 67th Street. The city has done it's portion of construction work, with the remaining work to be completed by the Union Pacific RR on their right-of-way. We hope that work will be completed in the October timeframe, after which the city will apply to the federal government to silence the rail horns.
 
-*GoPort -&nbsp;*I have had the privilege of serving as the Chair of the Alameda County Transportation Commission the past two years. Our agency is responsible for planning, funding and delivering the will of Alameda County's voters through Measure BB to invest in major infrastructure projects. We currently have over $750 million of projects in construction, a major accomplishment. This summer we broke ground on the GoPort Project which will improve regional rail safety, goods movement, and will also reduce the queueing of diesel-emitting trucks that plague the West Oakland and Emeryville communities by replacing a decaying bridge from 1932 on 7th Street with a modern facility.
+*GoPort -&nbsp;*I have had the privilege of serving as the Chair of the Alameda County Transportation Commission the past two years. Our agency is responsible for planning, funding and delivering the will of Alameda County's voters through Measure BB to invest in major infrastructure projects. We currently have over $750 million of projects in construction, a major accomplishment. This summer we broke ground on the [GoPort Project/7th Street Grade Separation East](https://www.alamedactc.org/wp-content/uploads/2023/07/1442001_7SGSE_FS_20230711.pdf), which will improve regional rail safety, goods movement, and will also reduce the queueing of diesel-emitting trucks that plague the West Oakland and Emeryville communities by replacing a decaying bridge from 1932 on 7th Street with a modern facility.
 
-
+![](/img/goport.jpg){: width="1438" height="1080"}
 
 *SF Bay Ferry Upgrades -&nbsp;*Additionally, it was my pleasure to dedicate the newest fleet of regional WETA passenger ferries which are now part of SF Bay Ferry's Gemini series. They utilize very low-emission engines, removing air pollution along the East Bay's coastline, improving regional air quality, transportation choices, and livability.
 
