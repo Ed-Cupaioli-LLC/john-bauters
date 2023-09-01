@@ -3,7 +3,7 @@ _schema: default
 title: >-
   Emeryville Updates on Community Safety, Housing, Transportation and the
   Environment
-published: false
+published: true
 date: 2023-09-01 11:30:29 -0700
 ---
 Good Day Everyone,
