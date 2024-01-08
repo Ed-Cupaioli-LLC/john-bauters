@@ -1,5 +1,5 @@
 ---
 title: /
-permalink: /donate/
+permalink: /
 redirect_url: https://bautersforsupervisor.com
 ---
