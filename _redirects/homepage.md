@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title:
 permalink: /donate/
-redirect_url: https://www.johnbauters.net
+redirect_url: https://bautersforsupervisor.com
 ---
